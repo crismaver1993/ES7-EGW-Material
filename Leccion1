@@ -46,6 +46,22 @@
   "verse" : "",
   "verseEn" : "",
   "versionCode" : 13
+},
+
+{
+  "content" : "",
+  "contentEn" : "",
+  "date" : "29 de Diciembre",
+  "day" : "Sábado 29 de Diciembre ",
+  "dayEn" : "",
+  "dayTitle" : "El evangelio de Patmos",
+  "dayTitleEn" : "",
+  "id" : 11,
+  "idDay" : 1,
+  "quarterCode" : "1T2019",
+  "verse" : "",
+  "verseEn" : "",
+  "versionCode" : 13
 }
 
 ]
