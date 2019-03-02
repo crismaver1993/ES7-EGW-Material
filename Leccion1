@@ -1,7 +1,7 @@
 {  
    "lessonNumber":"1",
    "quarter":"1T2019",
-   "versionCode":2,
+   "versionCode":1,
    "finalDate": "Para el 9 Marzo 2019",
    "studies":[  
       {  "idLesson":"1",
