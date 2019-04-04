@@ -2,7 +2,7 @@
    "id":"1",
    "lessonNumber":"1",
    "quarter":"2T2019",
-   "versionCode":2,
+   "versionCode":3,
    "finalDate": "-",
    "studies":[  
       {  "idLesson":"1",
