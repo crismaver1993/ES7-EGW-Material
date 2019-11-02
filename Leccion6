@@ -2,7 +2,7 @@
    "id":"6",
    "lessonNumber":"6",
    "quarter":"4T2019",
-   "versionCode":2,
+   "versionCode":3,
    "finalDate":"-",
    "studies":[  
       {  
@@ -61,7 +61,7 @@
       },
       {  
          "idLesson":"6",
-         "content":"<p>Profetas y reyes, \n"Instruidos en la ley de Dios\", pp. 489-493. Alza tus ojos, \"Cristo tiene poder para nosotros\", p. 236.</p>",
+         "content":"<p>Profetas y reyes, \"Instruidos en la ley de Dios\", pp. 489-493. Alza tus ojos, \"Cristo tiene poder para nosotros\", p. 236.</p>",
          "day":"-",
          "dayTitle":"Viernes 8 de noviembre: Para estudiar y meditar",
          "id":67,
