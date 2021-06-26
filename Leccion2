@@ -1,8 +1,8 @@
 {    
    "id":"2",
    "lessonNumber":"2",
-   "quarter":"2T2021",
-   "versionCode":8,
+   "quarter":"3T2021",
+   "versionCode":9,
    "finalDate":"-",
    "studies":[  
       {  
@@ -12,7 +12,7 @@
          "dayTitle":"SÁBADO, 03 DE JULIO: SIN DESCANSO Y REBELDES",
          "id":21,
          "idDay":1,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -21,7 +21,7 @@
          "dayTitle":"DOMINGO, 04 DE JULIO: AGITACIÓN EN EL DESIERTO",
          "id":22,
          "idDay":2,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -30,7 +30,7 @@
          "dayTitle":"LUNES, 05 DE JULIO: ES CONTAGIOSO",
          "id":23,
          "idDay":3,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -39,7 +39,7 @@
          "dayTitle":"MARTES, 06 DE JULIO: EL DESCONTENTO LLEVA A LA REBELIÓN",
          "id":24,
          "idDay":4,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -48,7 +48,7 @@
          "dayTitle":"MIÉRCOLES, 07 DE JULIO: UN INTERCESOR",
          "id":25,
          "idDay":5,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -57,7 +57,7 @@
          "dayTitle":"JUEVES, 08 DE JULIO: FE VERSUS PRESUNCIÓN",
          "id":26,
          "idDay":6,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       },
       {  
          "idLesson":"2",
@@ -66,7 +66,7 @@
          "dayTitle":"VIERNES, 09 DE JULIO: PARA ESTUDIAR Y MEDITAR",
          "id":27,
          "idDay":7,
-         "quarterCode":"2T2021"
+         "quarterCode":"3T2021"
       }
    ]
 }
