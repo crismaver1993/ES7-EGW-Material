@@ -1,7 +1,7 @@
 {
    "finalDate":"-",
-   "id":1,
-   "lessonNumber":1,
+   "id":"1",
+   "lessonNumber":"1",
    "quarter":"4T2021",
    "studies":[
       {
