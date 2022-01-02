@@ -1,7 +1,7 @@
 {    
    "id":"2",
    "lessonNumber":"2",
-   "quarter":"2T2021",
+   "quarter":"1T2022",
    "versionCode":16,
    "finalDate":"-",
    "studies":[  
@@ -61,7 +61,7 @@
       },
       {  
          "idLesson":"2",
-         "content":"<p>Reflejemos a Jes&uacute;s, 3 de enero, \&quot;Cristo se sacrific&oacute; por nosotros\&quot;, p. 9; Los hechos de los ap&oacute;stoles, \&quot;Corinto\&quot;, pp. 199, 200.</p>",
+         "content": "<p>Reflejemos a Jes&uacute;s, 3 de enero, Cristo se sacrific&oacute; por nosotros, p. 9; Los hechos de los ap&oacute;stoles, Corinto, pp. 199, 200.</p> ",
          "day":"-",
          "dayTitle":"07 DE ENERO: PARA ESTUDIAR Y MEDITAR",
          "id":27,
