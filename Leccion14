@@ -1,6 +1,4 @@
 {
-  "data": [
-    {
       "color": "#33b8ff",
       "finalDate": "-",
       "id": 14,
@@ -128,7 +126,3 @@
       "versionCode": 22,
       "weekDate": "24-31 de diciembre"
     }
-  ],
-  "message": "Consulta con éxito",
-  "success": true
-}
