@@ -1,129 +1,128 @@
-
-    {
-      "color": "#33b8ff",
-      "finalDate": "-",
-      "id": 8,
-      "idEs": 10,
-      "language": "es",
-      "lessonNumber": 8,
-      "lessonType": "A",
-      "quarter": "4T2022",
-      "studies": [
-        {
-          "content": "<p>Este es el testimonio: Que Dios nos ha dado vida eterna; y esta vida está en su Hijo. 1 Juan 5:11... [Los cristianos] pueden morir; pero la vida de Cristo está en ellos, y en la resurrección de los justos serán levantados en novedad de vida.<br><br>\"En él [Cristo] estaba la vida, y la vida era la luz de los hombres\". Juan 1:4. No es la vida física la que se menciona aquí, sino la inmortalidad, la vida que es propiedad exclusiva de Dios. El Verbo, que era con Dios, y que era Dios, tenía esa vida. La vida física es algo que cada individuo recibe. No es eterna o inmortal; porque Dios, el Dador de la vida, la toma nuevamente. El hombre no tiene control sobre su vida. Pero la vida de Cristo no provenía de otro ser. Nadie le puede quitar esa vida. \"De mí mismo la pongo\" dijo. En él estaba la vida original, propia, no derivada de otra. Esta vida no es inherente al hombre. Puede poseerla solo mediante Cristo...<br><br>Obtenemos la inmortalidad de Dios al recibir la vida de Cristo, por cuanto en Cristo mora la plenitud de la divinidad corporalmente. Esta vida implica la unión mística y la cooperación de lo divino con lo humano (¡Maranata: el Señor viene!, p. 300).<br><br>La venida del Señor ha sido en todo tiempo la esperanza de sus verdaderos discípulos. La promesa que hizo el Salvador al despedirse en el Monte de los Olivos, de que volvería, iluminó el porvenir para sus discípulos al llenar sus corazones de una alegría y una esperanza que las penas no podían apagar ni las pruebas disminuir. Entre los sufrimientos y las persecuciones, \"el aparecimiento en gloria del gran Dios y Salvador nuestro, Jesucristo\" era la \"esperanza bienaventurada\". Cuando los cristianos de Tesalónica, agobiados por el dolor, enterraban a sus amados que habían esperado vivir hasta ser testigos de la venida del Señor, Pablo, su maestro, les recordaba la resurrección, que había de verificarse cuando viniese el Señor. Entonces los que hubiesen muerto en Cristo resucitarían, y juntamente con los vivos serían arrebatados para recibir a Cristo en el aire. \"Y así —dijo— estaremos siempre con el Señor. Consolaos pues los unos a los otros con estas palabras\". 1 Tesalonicenses 4:16-18 (VM) (El conflicto de los siglos, p. 304).<br><br>Estas son las cosas que nunca hemos de olvidar. El amor de Jesús, con su poder constrictivo, ha de mantenerse fresco en nuestra memoria. Cristo instituyó este rito [de humildad y santa cena] para que hablase a nuestros sentidos del amor de Dios expresado en nuestro favor. No puede haber unión entre nuestras almas y Dios excepto por Cristo. La unión y el amor entre hermanos deben ser cimentados y hechos eternos por el amor de Jesús. Y nada menos que la muerte de Cristo podía hacer eficaz para nosotros este amor. Es únicamente por causa de su muerte por lo que nosotros podemos considerar con gozo su segunda venida. Su sacrificio es el centro de nuestra esperanza. En él debemos fijar nuestra fe (El Deseado de todas las gentes, pp. 614, 615).<br></p>",
-          "date": "SÁBADO, 12 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>LA ESPERANZA DEL NUEVO TESTAMENTO<br></p>",
-          "id": 81,
-          "idDay": 1,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+{
+   "color":"#00B95A",
+   "finalDate":"-",
+   "id":8,
+   "idEs":16,
+   "language":"es",
+   "lessonNumber":8,
+   "lessonType":"A",
+   "quarter":"1T2023",
+   "studies":[
+      {
+         "content":"<p>Es una mala práctica de los hombres procurar mejorar el plan de Dios... Debemos calcular fielmente el diezmo, y luego decirle al Señor: He hecho como me has ordenado. Si quieres honrarme confiándome tus bienes para que yo negocie con ellos, por tu gracia seré un fiel administrador y me esforzaré definidamente para que haya alimento en tu casa...</p><p>Las personas que tienen grandes responsabilidades comerciales deben asegurarse de que no roban a Dios en lo más mínimo, como se dice en Malaquías. Allí se nos dice que reciben bendición los que devuelven fielmente el diezmo, y maldición los que lo retienen codiciosamente. Entonces, ¿no deberíamos aseguramos de que obramos del lado seguro, tratando de tal manera los preceptos de Dios en nuestro manejo de la propiedad que nos ha prestado bajo confianza que no pueda caer ni una sombra de reproche sobre nosotros? No es necesario que pregunte; ¿no bendecirá Dios a los que le son fieles? Hemos empeñado su palabra (That I May Know Him, p. 221; parcialmente en A fin de conocerle, p. 220).</p><p>En su capacidad de Mediador, Cristo concede a sus siervos la presencia del Espíritu Santo. Es la eficacia del Espíritu la que capacita a los agentes humanos para ser representantes del Redentor en la tarea de salvar almas. Es indispensable que nos coloquemos bajo la influencia modeladora del Espíritu Santo si queremos unirnos con Cristo en esta obra. El poder impartido de este modo nos capacita para trabajar con el Señor, en el vínculo de la unidad, como colaboradores suyos en la salvación de las almas. A todo aquel que se ofrece al Señor para servir, sin retener nada, se le concede poder para alcanzar resultados sin medida.</p><p>Mediante una promesa eterna, Dios se ha comprometido a suplir de poder y gracia a todo aquel que se santifica mediante la obediencia de la verdad. Cristo, a quien se le ha entregado todo el poder en el cielo y en la tierra, aprueba a sus instrumentos y colabora con ellos: esas almas fervientes que participan cotidianamente del pan vivo \"que desciende del cielo\". Juan 6:50. La iglesia de la tierra, unida con la iglesia celestial, puede lograr todas las cosas (Testimonios para la iglesia, t. 7, p. 32).</p><p>[Muestro negocio o vocación forma parte del gran plan de Dios y, mientras se lleve a cabo de acuerdo con su voluntad, él se responsabilizará de los resultados. Como \"colaboradores de Dios\", la parte que nos toca es obedecer fielmente sus instrucciones. No hay, por lo tanto, lugar para la preocupación y la ansiedad. Se requieren diligencia, fidelidad, cuidado, economía y discreción. Cada facultad debe emplearse hasta lo sumo. Pero no debemos poner nuestra confianza en el resultado feliz de nuestros esfuerzos, sino en la promesa de Dios. La Palabra que alimentó a Israel en el desierto, y mantuvo a Elías mientras prevalecía el hambre, tiene hoy el mismo poder que entonces. \"No os afanéis, pues, diciendo: ¿Qué comeremos, o qué beberemos?... Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas\". Mateo 6:31-33 (La educación, p. 138).</p><p><br></p>",
+         "date":"SÁBADO DE TARDE, 18 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"",
+         "id":81,
+         "idDay":1,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>[Esaúl representa a aquellos que menosprecian la redención comprada para ellos por Cristo, y que están dispuestos a sacrificar su herencia celestial a cambio de las cosas perecederas de la tierra. Multitudes viven para el momento presente, sin preocuparse del futuro. Como Esaú exclaman: \"Comamos y bebamos, que mañana moriremos\". 1 Corintios 15:32. Son dominados por sus inclinaciones; y en vez de practicar la abnegación, pasan por alto las consideraciones de más valor... ¡Cuántos, aun entre los que profesan ser cristianos, se aferran a goces perjudiciales para la salud, que entorpecen la sensibilidad del alma! Cuando se les presenta el deber de limpiarse de toda inmundicia del espíritu y de la carne, perfeccionando la santidad en el temor de Dios, se ofenden... como la senda que lleva a la vida eterna les resulta tan estrecha, concluyen por decidirse a no seguir en ella (Historia de los patriarcas y profetas, pp. 180, 181).<br><br>El que se arrepiente de su pecado y acepta el don de la vida del Hijo de Dios, no puede ser vencido. Aferrándose por fe de la naturaleza divina llega a ser un hijo de Dios. Ora, cree. Cuando es tentado y probado, reclama el poder que da Cristo en virtud de su muerte, y vence por medio de su gracia. Cada pecador necesita comprender esto. Debe arrepentirse de su pecado, debe creer en el poder de Cristo, y aceptar ese poder, que salva y guarda de pecado... El cielo es de mayor valor para nosotros que cualquier otra cosa, y si perdemos el cielo, hemos perdido todo (Hijos e hijas de Dios, p. 351).<br><br>En los atrios celestiales, Cristo intercede por su iglesia, intercede por aquellos para quienes pagó el precio de la redención con su sangre. Los siglos de los siglos no podrán menoscabar la. eficiencia de su sacrificio expiatorio. Ni la vida ni la muerte, ni lo alto ni lo bajo, pueden separarnos del amor de Dios que es en Cristo Jesús; no porque nosotros nos asimos de él tan firmemente, sino porque él nos sostiene con seguridad. Si nuestra salvación dependiera de nuestros propios esfuerzos, no podríamos ser salvos; pero ella depende de Uno que endosa todas las promesas. Nuestro asimiento de él puede parecer débil, pero su amor es como el de un hermano mayor; mientras mantengamos nuestra unión con él, nadie podrá arrancarnos de su mano...<br><br>¡Oh, cuán privilegiados somos porque podemos venir a Jesús tal como somos y podemos descansar en su amor! No tenemos esperanza fuera de Jesús. Solo él puede tomarnos con su mano y sacarnos de las profundidades del desánimo y la impotencia para colocar nuestros pies sobre la Roca. Aunque el alma humana puede aferrarse a Jesús comprendiendo desesperadamente su gran necesidad, Jesús se aferrará de las almas compradas con su propia sangre con mayor firmeza aún que la del pecador que se aferra de él (That I May Know Him, p. 80; parcialmente en A fin de conocerle, p. 80).<br></p>",
-          "date": "DOMINGO, 13 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>ESPERANZA MÁS ALLÁ DE ESTA VIDA<br></p>",
-          "id": 82,
-          "idDay": 2,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>\"Acuérdate de tu Creador en los días de tu juventud\". Eclesiastés 12:1. Jesús desea el servicio de los que tienen el rocío de la juventud. Quiere que sean herederos de la inmortalidad. Pueden llegar a ser hombres y mujeres nobles a pesar de la corrupción que abunda y mancilla a tantos de los jóvenes en su temprana edad. Pueden ser libres en Cristo, hijos de la luz, no de las tinieblas.</p><p>Dios pide a cada joven y señorita que renuncie a todo hábito malo, que sea diligente en los negocios, ferviente en espíritu, sirviendo al Señor... que... por el poder de su Espíritu, [él] les dará fuerza para vencer.</p><p>Los esfuerzos individuales, constantes, unidos, serán recompensados con el éxito. Los que desean hacer mucho bien en este mundo deben estar dispuestos a hacerlo al modo de Dios: realizando cosas pequeñas...</p><p>El progreso constante en una buena obra, la repetición frecuente de una clase de servicio fiel, es de más valor a la vista de Dios que el hacer una gran obra, y los jóvenes ganarán una buena reputación dando carácter a sus esfuerzos (Mensajes para los jóvenes, p. 262).</p><p>El que da a los hombres la facultad de obtener riquezas, ha unido al don una obligación. Reclama una porción determinada de todo lo que adquirimos. El diezmo pertenece al Señor. \"Y el diezmo de la tierra, así de la simiente de la tierra como del fruto de los árboles\"... \"Y todo diezmo de vacas o de ovejas... será consagrado a Jehová\". Levítico 27:30, 32. La promesa hecha por Jacob en Bétel, muestra lo que abarca la obligación. \"De todo lo que me dieres —dijo—, el diezmo apartaré para ti\". Génesis 28:22.<br></p><p>\"Traed los diezmos al alfolí\" (Malaquías 3:10), es la orden de Dios. No se extiende ninguna invitación a la gratitud o generosidad. Es una cuestión de simple honradez. El diezmo pertenece al Señor, y él nos ordena que le devolvamos lo que le pertenece.</p><p>\"Se requiere de los administradores, que cada uno sea hallado fiel\". 1 Corintios 4:2. Si la honradez es un principio esencial en los negocios, ¿no hemos de reconocer nuestra obligación hacia Dios, obligación en la que se basan todas las demás? (La educación, pp. 138, 139).</p><p>Con una parte del hombre Dios hizo a una mujer, a fin de que fuese ayuda idónea para él, alguien que fuese una con él, que le alegrase, le alentase y bendijese, mientras que él a su vez fuese su fuerte auxiliador. Todos los que contraen relaciones matrimoniales con un propósito santo —el esposo para obtener los afectos puros del corazón de una mujer, y ella para suavizar, mejorar y completar el carácter de su esposo— cumplen el propósito de Dios para con ellos (El hogar cristiano, p. 84).</p><p>En la relación matrimonial se da un paso muy importante: la fusión de dos vidas en una... Concuerda con la voluntad de Dios que el hombre y su esposa estén unidos en su obra, para realizarla con integridad y santidad. Y ellos pueden hacerlo.</p><p>La bendición de Dios en el hogar donde existe esta unión es como la luz del sol que proviene del cielo, porque la voluntad de Dios ordenó que el hombre y su esposa estén unidos por los santos lazos del matrimonio, bajo el gobierno de Jesucristo y la dirección de su Espíritu (El hogar cristiano, pp. 86, 87).</p><p><br></p>",
+         "date":"DOMINGO, 19 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>VAYAMOS POR PARTES</p>",
+         "id":82,
+         "idDay":2,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cristo mismo nos presenta el peligro que nos acecha. Él conocía los riesgos que encontraríamos en estos postreros días y quería que nos preparásemos. \"Mas como en los días de Noé, así será la venida del Hijo del hombre\". Mateo 24:37. Comían y bebían, plantaban y edificaban, se casaban y se daban en matrimonio, y no conocieron hasta el día que Noé entró en el arca y el diluvio vino y los barrió a todos. El día de Dios encontrará a los hombres absortos igualmente en los negocios y placeres del mundo... Creer en la próxima venida del Hijo del Hombre en las nubes de los cielos no inducirá a los verdaderos cristianos a ser descuidados y negligentes en los asuntos comunes de la vida. Los que aguardan la pronta aparición de Cristo no estarán ociosos. Al contrario, serán diligentes en sus asuntos. No trabajarán con negligencia y falta de honradez, sino con fidelidad, presteza y esmero (Testimonios para la iglesia, t. 4, p. 304).<br><br>La razón por la cual el Novio se demora se debe a que es longánime para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento. ¡Oh, la preciosa longanimidad de nuestro misericordioso Salvador! ¡Oh, que cada uno de los queridos jóvenes aprecie el valor del alma que ha sido adquirida a precio infinito en el Calvario! ¡Oh, que cada cual aprecie adecuadamente las facultades que les ha confiado Dios!... Estamos viviendo en un período demasiado solemne de la historia del mundo como para ser descuidados y negligentes. Hemos de orar, creer y obedecer. No podéis hacer nada por vuestra propia fortaleza; pero en la gracia de Jesucristo, podéis emplear de tal modo vuestro poder que lleguéis a traer el mayor bien a vuestra propia alma, y la mayor bendición a las almas de los demás. Aferraos de Jesús, y obraréis diligentemente las obras de Cristo, y recibiréis finalmente la recompensa eterna (Sons and Daughters of God, p. 118; parcialmente en Hijos e hijas de Dios, p. 120).<br><br>Pedro guardaba viva en su corazón la esperanza del regreso de Cristo, y aseguró a la iglesia del infalible cumplimiento de la promesa del Salvador: \"Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré a mí mismo\". Juan 14:3. Para los atribulados y fieles la venida de Cristo iba a parecer muy demorada, pero el apóstol les aseguró: \"El Señor no tarda su promesa,<br><br>como algunos la tienen por tardanza... Mas el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella están serán quemadas». 2 Pedro 3:9, 10 (Los hechos de los apóstoles, pp. 427, 428).<br></p>",
-          "date": "LUNES, 14 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>\"VENDRÉ OTRA VEZ\"<br></p>",
-          "id": 83,
-          "idDay": 3,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El que enseñó a Adán y Eva en el Edén a cuidar del huerto desea instruir hoy a los hombres. Hay sabiduría para quien maneja el arado y siembra la semilla. Dios abrirá caminos a los que confían en él y le obedecen. Sigan adelante con valor, confiando en Aquel que les satisface las necesidades conforme a la riqueza de su bondad.</p><p>El que dio de comer a la muchedumbre con cinco panes y dos pececillos puede darnos hoy el fruto de nuestro trabajo. El que dijo a los pescadores de Galilea: \"Echad vuestras redes para pescar\", y que, al obedecer ellos, las llenó hasta que se rompían, desea que su pueblo vea en ello una prueba de lo que él quiere hacer por ellos hoy. Aún vive y reina el Dios que dio a los hijos de Israel en el desierto el maná del cielo. Él guiará a su pueblo, y le dará destreza y entendimiento para la obra que está llamado a realizar. Dará sabiduría a los que luchan por cumplir consciente e inteligentemente con su deber. El Dueño del mundo es rico en recursos, y bendecirá a todo aquel que procure beneficiar a los demás.</p><p>Necesitamos mirar al cielo con fe. No deberíamos desalentarnos por aparentes fracasos y dilaciones. Debemos trabajar animosos, llenos de esperanza, agradecidos, con la certidumbre de que la tierra encierra en su seno ricos tesoros para que los almacene el obrero fiel, reservas más preciosas que el oro o la plata. Los montes y collados se alteran; la tierra envejece como un vestido; pero nunca faltará la bendición de Dios, que adereza para su pueblo mesa en el desierto (El ministerio de curación, p. 152).</p><p>En el principio el Señor ordenó a Adán que cultivara la tierra. Esta tarea resultó mucho más difícil debido a la transgresión de la ley de Dios. Al pecar, el hombre obró contra su propio bien presente y eterno. La tierra fue maldita porque debido a la desobediencia humana Satanás tuvo la oportunidad de sembrar en el corazón la semilla del mal. La tierra, que al principio producía solo lo bueno, comenzó a producir cizaña, y su desarrollo produjo una lucha continua (Cada día con Dios, p. 10).<br></p><p>El nombre \"siervo\" se aplica a todos los hombres, pues todos lo somos, y nos convendrá ver a qué molde nos conformamos. ¿Es el de la infidelidad o el de la fidelidad?</p><p>¿Están los siervos generalmente dispuestos a hacer todo lo que pueden? ¿No es más bien costumbre prevaleciente deslizarse por el trabajo tan rápida y fácilmente como sea posible y obtener el salario al menor costo posible? El fin no es ser tan cabal como se pueda, sino obtener una remuneración. Los que profesan ser siervos de Cristo/no deberían olvidar el precepto del apóstol Pablo: \"Siervos, obedeced en todo a vuestros amos terrenales, no para ser vistos como los que quieren agradar a los hombres, sino con sinceridad de corazón, por respeto a Dios. Y todo lo que hagáis, hacedlo de corazón, como para el Señor, y no para los hombres; seguros de que recibiréis del Señor la recompensa de la herencia; porque a Cristo el Señor servís\". Colosenses 3:22-24 (Mensajes para los jóvenes, p. 160).</p><p><br></p>",
+         "date":"LUNES, 20 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>LA BENDICIÓN DEL TRABAJO (IDEALMENTE)</p>",
+         "id":83,
+         "idDay":3,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Muchos suponen que al seguir a Cristo estarán obligados a ser melancólicos y tristes porque se les requiere que se nieguen a sí mismos los placeres y locuras en que se complace el mundo. El cristiano viviente estará lleno de alegría y paz, porque vive como viendo al Invisible, y los que buscan a Cristo en su verdadero carácter tienen en su interior los elementos de vida eterna porque son participantes de la naturaleza divina, habiendo escapado de la corrupción que hay en el mundo debido a la concupiscencia. Jesús dijo: \"Esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo nada, sino que lo resucite en el día postrero. Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero». Juan 6:39, 40 (Mensajes selectos, t. 1, p. 159).<br><br>Cristo se hizo carne con nosotros, a fin de que pudiésemos ser espíritu con él. En virtud de esta unión hemos de salir de la tumba, no simplemente como manifestación del poder de Cristo, sino porque, por la fe, su vida ha llegado a ser nuestra. Los que ven a Cristo en su verdadero carácter, y le reciben en el corazón, tienen vida eterna. Por el Espíritu es como Cristo mora en nosotros; y el Espíritu de Dios, recibido en el corazón por la fe, es el principio de la vida eterna (El Deseado de todas las gentes, p. 352).<br><br>Los que permitan que Dios obre en ellos, crecerán hasta la estatura plena de hombres y mujeres en Cristo Jesús. Cada facultad de su mente y cuerpo se usará en el servicio de Dios... Él tiene maravillosas bendiciones que dar a los que lo reciban. Es poderoso en fortaleza y admirable en consejo. Por la ministración del Espíritu Santo, habla para imprimir su imagen en nuestro carácter. Si nos alimentamos de él, nos convertiremos en nuevas criaturas en Cristo Jesús. Las virtudes de un verdadero carácter cristiano, las excelencias que se revelan en el carácter de Cristo se verán en la vida nacida del Espíritu. El hombre, con su naturaleza humana, se volverá participante de la Divinidad. El poder de Cristo santificará cada parte del ser, difundiendo vida, actividad y salud a todo el ser y produciendo eficiencia espiritual (A fin de conocerle, pp. 106, 107).<br></p>",
-          "date": "MARTES, 15 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>YO LE RESUCITARÉ<br></p>",
-          "id": 84,
-          "idDay": 4,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Más de un hombre hubiera escapado al fracaso y a la ruina financiera, si hubiese tenido en cuenta las advertencias que las Escrituras repiten y recalcan.</p><p>\"El que se apresura a enriquecerse no será sin culpa\". Proverbios 28:20.</p><p>\"Las riquezas de vanidad disminuirán; pero el que recoge con mano laboriosa las aumenta\". Proverbios 13:11.</p><p>A estos principios está ligado el bienestar de la sociedad, tanto en las relaciones seculares como en las religiosas. Ellos son los que dan seguridad a la propiedad y la vida. Por todo lo que hace posible la confianza y la cooperación, el mundo es deudor a la ley de Dios, según la da su Palabra, y según se puede encontrar aún, en rasgos a menudo oscuros y casi borrados, en el corazón de los hombres.</p><p>Las palabras del salmista: \"Mejor me es la ley de tu boca, que millares de oro y plata\" declaran algo que es cierto desde otros puntos de vista, fuera del religioso. Declaran una verdad absoluta, reconocida en el mundo de los negocios. Hasta en esta época de pasión por la acumulación de dinero, cuando hay tanta competencia y los métodos son tan poco escrupulosos, se reconoce ampliamente que, para el joven que se inicia en la vida, la integridad, la diligencia, la temperancia, la economía y la pureza constituyen un capital mejor que el constituido meramente por una suma de dinero (La educación, pp. 136, 137).</p><p>Por su ejemplo, [Jesús]-nos enseñó que es nuestro deber ser laboriosos, y que nuestro trabajo debe cumplirse con exactitud y esmero, y que una labor tal es honorable. El ejercicio que enseña a las manos a ser útiles, y prepara a los jóvenes para llevar su parte de las cargas de la vida, da fuerza física y desarrolla toda facultad. Todos deben hallar algo que hacer benéfico para sí y para otros. Dios nos asignó el trabajo como una bendición, y solo el obrero diligente halla la verdadera gloria y el gozo de la vida. La aprobación de Dios descansa con amante seguridad sobre los niños y jóvenes que alegremente asumen su parte en los deberes de la familia, y comparten las cargas de sus padres. Los tales, al salir del hogar, serán miembros útiles de la sociedad.</p><p>Durante toda su vida terrenal, Jesús trabajó con fervor y constancia. Esperaba mucho resultado; por lo tanto, intentaba grandes cosas... Jesús no rehuyó los cuidados y la responsabilidad... El carácter positivo y enérgico, sólido y fuerte que manifestó Cristo, debe desarrollarse en nosotros, mediante la misma disciplina que él soportó. Y a nosotros se nos ofrece la gracia que recibió él (El Deseado de todas las gentes, pp. 53, 54).</p><p>Hay ciencia en la clase más humilde de trabajo; y si todos tuvieran ese concepto, verían nobleza en el trabajo. El corazón y el alma han de ser puestos en el trabajo, cualquiera sea la clase; entonces hay alegría y eficiencia. En las ocupaciones agrícolas y mecánicas, los hombres pueden dar evidencia ante Dios de que aprecian su don en las capacidades físicas, como también en las facultades mentales. Empléese la capacidad educada en idear mejores métodos de trabajo. Esto es lo que el Señor quiere. Todo tipo de trabajo que necesite ser hecho es honorable. Que la ley de Dios se convierta en una norma de acción, y entonces ella ennoblecerá y enaltecerá todo trabajo. La fidelidad en el desempeño de todo deber hacen del trabajo algo noble, y revela un carácter que Dios puede aprobar (Notas biográficas de Elena G. de White, p. 387).<br></p><p><br></p>",
+         "date":"MARTES, 21 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>LOS AÑOS PRODUCTIVOS</p>",
+         "id":84,
+         "idDay":4,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cuando Jesús estaba a punto de dejar a sus discípulos, no les dijo que irían pronto a reunírsele. \"Voy a prepararos el lugar —les dijo—. Y si yo fuere y os preparare el lugar, vendré otra vez, y os recibiré conmigo». Juan 14:2, 3 (VM). Y San Pablo nos dice además que \"el mismo Señor con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero: luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes a recibir al Señor en el aire, y así estaremos siempre con el Señor\". Y agrega: \"Por tanto, consolaos los unos a los otros en estas palabreas. 1 Tesalonicenses 4:16-18... San Pablo recuerda a sus hermanos la futura venida del Señor, cuando las losas de las tumbas serán rotas y \"los muertos en Cristo\" resucitarán para la vida eterna (El conflicto de los siglos, pp. 535, 536).<br><br>Para el creyente, Cristo es la resurrección y la vida. En nuestro Salvador, la vida que se había perdido por el pecado es restaurada; porque él tiene vida en sí mismo para vivificar a quienes él quiera. Está investido con el derecho de dar la inmortalidad. La vida que él depuso en la humanidad, la vuelve a tomar y la da a la humanidad. Cuando Cristo venga para reunir consigo a los que han sido fieles, resonará la última trompeta y toda la tierra la oirá, desde las cumbres de las más altas montañas hasta las más bajas depresiones de las minas más profundas. Los muertos justos oirán el sonido de la última trompeta, y saldrán de sus tumbas para ser revestidos de inmortalidad y para encontrarse con su Señor (The Faith I Live By, p. 183; parcialmente en La fe por la cual vivo, p. 185, y en Eventos de los últimos días, p. 281).<br><br>[Todos los justos muertos] se levantan con la lozanía y el vigor de eterna juventud... La forma mortal y corruptible, desprovista de gracia, manchada en otro tiempo por el pecado, se vuelve perfecta, hermosa e inmortal. Todas las imperfecciones y deformidades quedan en la tumba. Reintegrados en su derecho al árbol de la vida, ... los redimidos crecerán hasta la perfecta medida de la raza humana en su gloria primitiva. Los justos vivos son mudados \"en un momento, en un abrir de ojo\". A la voz de Dios fueron glorificados; ahora son hechos inmortales, y juntamente con los santos resucitados son arrebatados para recibir a Cristo, su Señor, en los aires. Santos ángeles llevan niñitos a los brazos de sus madres. Amigos, a quienes la muerte tenía separados desde largo tiempo, se reúnen para no separarse más, y con cantos de alegría suben juntos a la ciudad de Dios. En su segunda venida todos los preciosos muertos, desde el justo Abel hasta el último santo que muera, serán despertados a la vida gloriosa e inmortal (The Faith I Live By, p. 183; parcialmente en La fe por la cual vivo, p. 185).<br></p>",
-          "date": "MIÉRCOLES, 16 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>AL SONIDO DE LA TROMPETA<br></p>",
-          "id": 85,
-          "idDay": 5,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El cimiento de la integridad comercial y del verdadero éxito es el reconocimiento del derecho de propiedad de Dios. El Creador de todas las cosas es el propietario original. Nosotros somos sus mayordomos. Todo lo que tenemos es depósito suyo para que lo usemos de acuerdo con sus indicaciones.</p><p>Esta obligación pesa sobre cada ser humano. Se aplica a toda la gama de la actividad humana. Reconozcámoslo o no, somos mayordomos a quienes Dios ha otorgado talentos y capacidades, y los ha puesto en el mundo para hacer la obra que él les ha asignado.</p><p>A cada hombre se le confiere \"su obra\", la obra para la cual lo capacitan sus aptitudes, la que dará como resultado la mayor suma de bien para sí mismo y sus semejantes, y la mayor honra para Dios (La educación, pp. 137, 138).</p><p>La fuerza de carácter consiste en dos cosas: la energía de la voluntad y del dominio propio. Muchos jóvenes consideran equivocadamente corno Fuerza de carácter la pasión arrolladora; pero la verdad es que el que se deja dominar por sus pasiones, es un hombre débil. La verdadera grandeza del hombre y su nobleza se miden por el poder de los sentimientos que subyuga, no por el de los sentimientos que lo vencen a él. El hombre más fuerte es aquel que, aunque sensible al ultraje, refrena sin embargo la pasión y perdona a sus enemigos. Los tales hombres son verdaderos héroes...</p><p>Dios nos ha dado nuestras facultades intelectuales y morales; pero en extenso grado cada persona es arquitecto de su propio carácter. Cada día va subiendo la estructura. La Palabra de Dios nos advierte que prestemos atención a cómo edificamos, para que nuestro edificio se funde, en la Roca eterna. Llegará el tiempo en que nuestra obra quedará revelada tal cual es. Ahora es el momento para que todos cultiven las facultades que Dios, les ha dado, a fin de que puedan desarrollar un carácter que tenga utilidad aquí y sea apto para la vida superior (Testimonios para la iglesia, t. 4, p. 649).</p><p>\"Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios\". En la consagración de todo el ser, tanto físico como ,mental, al control del Espíritu de Dios, este principio es el fundamento de cada acción, pensamiento, y motivo. Se deben crucificar las pasiones y la voluntad no santificada. Esta puede ser considerada una tarea estricta y rigurosa. Sin embargo, la debe realizar, o escuchará la terrible sentencia de labios de Jesús: \"Apártate\". Usted puede hacer todas las cosas mediante Cristo que lo fortalece... Necesita exclamar fervorosamente: \"Oh Dios, convierte lo más íntimo de mi alma\". Así podrá ejercer una influencia benéfica sobre otros jóvenes... Que el Dios de paz lo santifique totalmente: alma, cuerpo y espíritu (Exaltad a Jesús, p. 256).</p><p>José caminó con Dios. No permitió que se lo desviara de la senda de la justicia para desobedecer la ley de Dios ni con halagos ni con amenazas. Su dominio propio y su paciencia en la adversidad, y su inalterable fidelidad, han quedado registrados para beneficio de todos los que habrían de vivir más tarde sobre la tierra. Cuando sus hermanos reconocieron su pecado en su presencia, los perdonó ampliamente y manifestó mediante sus actos generosos y amantes que no albergaba resentimiento por la forma cruel como lo habían tratado previamente (La historia de la redención, p. 105).</p><p><br></p>",
+         "date":"MIÉRCOLES, 22 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>TRABAJAR CON INTEGRIDAD</p>",
+         "id":85,
+         "idDay":5,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El dador de la vida viene para quebrantar las cadenas de la tumba. Traerá consigo a los cautivos y proclamará: \"Yo soy la resurrección y la vida\". Juan 11:25. Allí está en pie la hueste de los resucitados. El último pensamiento fue el de la muerte y sus agonías. Los últimos pensamientos que ellos tuvieron eran acerca de la tumba, pero ahora proclaman: \"¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria? 1 Corintios 15:55. Las agonías de la muerte fueron las últimas cosas, que sintieron...<br><br>Cuando ellos despierten, todos los dolores habrán pasado. \"¿Dónde [está] oh, sepulcro, tu victoria?» Aquí están en pie, se coloca sobre ellos el toque final de la inmortalidad, y ascienden a encontrarse con el Señor en el aire. Los portales de la ciudad de Dios giran sobre sus goznes, y las naciones que han guardado la verdad entran (Mensajes selectos, t. 3, pp. 492, 493).<br><br>Cuando Cristo vuelva a la tierra, los hombres no le verán como preso rodeado por una turba. Le verán como Rey del cielo. Cristo volverá en su gloria, en la gloria de su Padre y en la gloria de los santos ángeles. Miradas y miríadas, y miles de miles de ángeles, hermosos y triunfantes hijos de Dios que poseen una belleza y gloria superiores a todo lo que conocemos, le escoltarán en su regreso. Entonces se sentará sobre el trono de su gloria y delante de él se congregarán todas las naciones. Entonces todo ojo le verá y también los que le traspasaron. En lugar de una corona de espinas, llevará una corona de gloria, una corona dentro de otra corona. En lugar de aquel viejo manto de grana, llevará un vestido del blanco más puro, \"tanto que ningún lavador en la tierra los puede hacer tan blancos\". Marcos 9:3. Y en su vestidura y en su muslo estará escrito un nombre: \"Rey de reyes y Señor de señores». Apocalipsis 19:16 (El Deseado de todas las gentes, pp. 688, 689).<br><br>Cristo va a venir en las nubes y con grande gloria. Le acompañará una multitud de ángeles resplandecientes. Vendrá para resucitar a los muertos y para transformar a los santos vivos de gloria en gloria. Vendrá para honrar a los que le amaron y guardaron sus mandamientos, y para llevarlos consigo. No los ha olvidado ni tampoco ha olvidado su promesa. Volverán a unirse los eslabones de la familia. Cuando miramos a nuestros muertos, podemos pensar en la mañana en que la trompeta de Dios resonará, cuando \"los muertos serán levantados sin corrupción, y nosotros seremos transformados .1 Corintios 15:52. Aun un poco más, y veremos al Rey en su hermosura. Un poco más, y enjugará toda lágrima de nuestros ojos. Un poco más, y nos presentará \"delante de su gloria irreprensibles, con grande alegría». Judas 24. Por lo tanto, cuando dio las señales de su venida, dijo: \"Cuando estas cosas comenzaren a hacerse, mirad, y levantad vuestras cabezas, porque vuestra redención está cerca». Lucas 21:28 (El Deseado de todas las gentes, p. 586).<br></p>",
-          "date": "JUEVES, 17 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>EL ENCUENTRO ETERNO<br></p>",
-          "id": 86,
-          "idDay": 6,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Cuando lo juzga bueno, el Señor da a quienes guardan su Palabra poder para ejercer fuerte influencia en favor del bien. De hecho, ellos dependen de Dios, y a él tendrán que dar cuenta de la manera en que empleen los talentos que les confió. Deben comprender que son administradores de los bienes del Señor y que deben glorificar su nombre.</p><p>Los que hayan puesto todos sus afectos en Dios tendrán éxito. En Cristo, se perderán a sí mismos de vista y los atractivos del mundo no tendrán ningún poder para apartarlos de la obediencia. Comprenderán que los adornos exteriores no dan fuerza. No es una apariencia importante la que representa de una manera correcta la obra que debemos realizar como pueblo elegido de Dios. Los que trabajan en relación con nuestra obra pro salud deben estar adornados de la gracia de Cristo. Ello les permitirá ejercer la mayor influencia que sea dable ejercer para el bien (Testimonios para la iglesia, t. 7, p. 90).</p><p>Los hombres más sabios aprenden lecciones útiles de los modos y hábitos de las pequeñas criaturas de la tierra. La industriosa abeja da a los hombres inteligentes un ejemplo que harían bien en imitar. Esos insectos observan un perfecto orden y en el enjambre no se tolera la ociosidad. Ejecutan la tarea asignada con una inteligencia y una actividad que sobrepasan nuestro entendimiento. Las hormigas, a las cuales consideramos como una plaga que debe ser aplastada con el pie, en muchos aspectos son superiores a los hombres porque estos son inteligentes y no mejoran los dones de Dios. El hombre sabio atrae nuestra atención hacia las pequeñas cosas de la tierra: \"Ve a la hormiga, oh perezoso, mira sus caminos, y\" sé sabio; la cual no teniendo capitán, ni gobernador, ni señor, prepara en el verano su comida, y recoge en el tiempo de la siega su mantenimiento\". \"Las hormigas, pueblo no fuerte, y en el verano preparan su comida\". Proverbios 6:6; 30:25. De esos pequeños maestros podemos aprender una lección de fidelidad. Si con la misma diligencia, nos aplicásemos a mejorar las facultades que el Creador omnisciente nos ha otorgado, ¡cuánto aumentarían nuestras capacidades para ser útiles! Dios tiene puesto sus ojos en la menor de sus criaturas; ¿acaso no contemplará al hombre creado a su imagen y le exigirá que corresponda a todos los favores que le ha concedido? (Testimonios para la iglesia, t. 4, pp. 446, 447).</p><p>Jesús ha estado entregando bienes a sus siervos siglos tras siglo. Una generación tras otra ha ido acumulando la herencia de la fe; los talentos han aumentado grandemente con el uso, y han llegado hasta nosotros. Somos como siervos contratados. Él nos compró, y pagó el precio del rescate con su propia sangre para asegurar nuestro servicio voluntario...</p><p>Todo lo que pide de usted es que use los talentos que se le han confiado. Si piensa que Dios le ha dado cinco talentos, consuélese con la idea que él no espera de usted la adición de diez. ¡En el nombre de Jesús de Nazaret, le insto a que eleve su mirada! El arco iris de la promesa está rodeando el trono (Alza tus ojos, p. 341).</p><p><br></p>",
+         "date":"JUEVES, 23 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>BUSCAR CONSEJOS PIADOSOS</p>",
+         "id":86,
+         "idDay":6,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cada día con Dios, 13 de abril, \"Cristo el pan de vida», p. 110; Los hechos de los apóstoles, \"Llamamiento a alcanzar una norma más alta», pp. 249-259.<br></p>",
-          "date": "VIERNES, 18 DE NOVIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
-          "id": 87,
-          "idDay": 7,
-          "idLesson": 8,
-          "quarterCode": "4T2022",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>En los lugares celestiales, \"El oro del carácter cristiano\", 15 de junio, p. 175; Mi vida hoy, \"Los talentos y su recompense\", 19 de abril, p. 119.</p>",
+         "date":"VIERNES, 24 DE FEBRERO",
+         "day":"-",
+         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR</p>",
+         "id":87,
+         "idDay":7,
+         "idLesson":8,
+         "quarterCode":"1T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>LA ESPERANZA DEL NUEVO TESTAMENTO<br></p>",
-      "verse": "<p>Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida (1 Juan 5:11, 12).</p>",
-      "versionCode": 22,
-      "weekDate": "12-18 de noviembre"
-    }
+         ]
+      }
+   ],
+   "title":"<p><strong>CÓMO PLANIFICAR PARA TENER ÉXITO</strong></p>",
+   "verse":"<p>-</p>",
+   "versionCode":1,
+   "weekDate":"18-24 de febrero"
+}
