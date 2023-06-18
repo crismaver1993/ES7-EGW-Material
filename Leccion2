@@ -1,128 +1,129 @@
-{
-   "color":"#057883",
-   "finalDate":"-",
-   "id":2,
-   "idEs":18,
-   "language":"es",
-   "lessonNumber":2,
-   "lessonType":"A",
-   "quarter":"2T2023",
-   "studies":[
-      {
-         "content":"<p>Dios ha dado revelaciones divinas a los seres humanos en todas las edades, para que así pudieran cumplir su propósito de desarrollar gradualmente las doctrinas de la gracia ante la inteligencia. Su forma de impartir la verdad resulta ilustrada por las palabras: \"Como el alba está dispuesta su salida\". El que se sitúe a sí mismo donde Dios pueda alumbrarlo, avanza, por decirlo así, de la oscuridad parcial del amanecer, hasta el total esplendor del mediodía... Del mismo modo que el sol progresa en su viaje de gracia y amor, como los dorados rayos del día inundan el escenario del cielo y embellecen bosques y montañas, despertando al mundo al dispersar las tinieblas de la noche, así los seguidores de Cristo deberán proseguir en su misión de amor (Hijos e hijas de Dios, p. 337).<br><br>Se representa a los ángeles volando por en medio del cielo, proclamando un mensaje de advertencia al mundo, y ejerciendo una acción directa sobre la gente que vive en los últimos días de la historia terrena. Nadie oye la voz de esos ángeles, porque son un símbolo que representa al pueblo de Dios que trabaja en armonía con el universo del cielo. Hombres y mujeres esclarecidos por el Espíritu de Dios y santificados por la verdad proclaman sucesivamente los tres mensajes (Mensajes selectos, t. 2, p. 446).<br><br>Dios ha llamado a su iglesia en este tiempo, como llamó al antiguo Israel, para que se destaque como luz en la tierra. Por la poderosa cuña de la verdad -los mensajes de los ángeles primero, segundo y tercero-, la ha separado de las iglesias y del mundo para colocarla en sagrada proximidad a sí mismo. La ha hecho depositaria de su ley, y le ha con-fiado las grandes verdades de la profecía para este tiempo. Como los santos oráculos confinados al antiguo Israel, son un sagrado cometido que ha de ser comunicado al mundo. Los tres ángeles de (Apocalipsis 14) representan a aquellos que aceptan la luz de los mensajes de Dios, y salen como agentes suyos para pregonar las amonestaciones por toda la anchura y longitud de la tierra. Cristo declara a los que le siguen: \"Sois la luz del mundo\" Mateo 5:14. A toda alma que acepta a Jesús, la cruz del Calvario dice: \"He aquí el valor de un alma. 'Id por todo el mundo; predicad el evangelio a toda criatura'\". Marcos 16:15. No se ha de permitir que nada estorbe esta obra. Es una obra de suma importancia para este tiempo; y ha de ser tan abarcarte como la eternidad. El amor que Jesús manifestó por las almas de los hombres en el sacrificio que hizo por su redención, impulsará a todos los que le sigan (Testimonios para la iglesia, t. 5, p. 431).<br><br></p>",
-         "date":"SÁBADO DE TARDE, 1 DE ABRIL",
-         "day":"-",
-         "dayTitle":"",
-         "id":21,
-         "idDay":1,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+
+    {
+      "color": "#F05E27",
+      "finalDate": "-",
+      "id": 2,
+      "idEs": 20,
+      "language": "es",
+      "lessonNumber": 2,
+      "lessonType": "A",
+      "quarter": "3T2023",
+      "studies": [
+        {
+          "content": "<p>En las bendiciones que nuestro Padre celestial nos ha otorgado podemos discernir innumerables pruebas de un amor que es infinito y una tierna compasión que sobrepasa el amor suspirante de una madre por su hijo descarriado. Cuando estudiemos el carácter divino a la luz de la cruz veremos misericordia, ternura y perdón mezcladas con equidad y justicia. Como el apóstol Juan exclamaremos: \"Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios\". 1 Juan 3:1. En medio del trono veremos las marcas en las manos, en los pies y en el costado del sufrimiento que reconcilió al hombre con Dios y a Dios con el hombre. La misericordia inigualable nos revela un Padre infinito, que mora en una luz inalcanzable, y sin embargo, nos recibe por los méritos de su hijo. La nube de venganza que solo amenazaba con miseria y desesperación, a la luz reflejada de la cruz revela la escritura de Dios: \"Vive, pecador, vive. Almas penitentes y creyentes, vivid. He pagado el rescate\" (Testimonios para la iglesia, t. 4, p. 452).</p><p><br></p><p>El Señor Jesús... los ama. Si dudan de su amor, miren al Calvario. La luz que refleja la cruz muestra la magnitud de ese amor que ninguna lengua puede expresar.</p><p><br></p><p>Las mercedes de Dios os rodean a cada momento; y os sería provechoso considerar cómo y de dónde os vienen las bendiciones cada día. Permitid que las preciosas bendiciones de Dios despierten gratitud en vosotros. No podéis enumerar las bendiciones de Dios, la constante bondad amorosa de que os hace objeto, porque son tan abundantes como las refrescantes gotas de la lluvia. Hay nubes de gracia suspendidas, listas para derramarse sobre vosotros. Si apreciarais el valioso don de la salvación, seríais sensibles a la diaria vivificación de la protección y el amor de Jesús; seríais guiados por los caminos de la paz (Sons and Daughters of God, p. 340, parcialmente en Hijos e hijas de Dios, p 342).</p><p><br></p><p>La religión que proviene de Dios es la única que conducirá a Dios. A fin de servirle debidamente, debemos nacer del Espíritu divino. Esto purificará el corazón y renovará la mente, dándonos una nueva capacidad para conocer y amar a Dios. Nos inspirará una obediencia voluntaria a todos sus requerimientos. Tal es el verdadero culto. Es el fruto de la obra del Espíritu Santo. Por el Espíritu es formulada toda oración sincera, y una oración tal es aceptable para Dios. Siempre que un alma anhela a Dios, se manifiesta la obra del Espíritu, y Dios se revelará a esa alma. Él busca adoradores tales. Espera para recibirlos y hacerlos sus hijos e hijas (El Deseado de todas las gentes, pp. 159, 160).</p><p><br></p>",
+          "date": "1 de julio",
+          "day": "-",
+          "dayTitle": "<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS</p>",
+          "id": 21,
+          "idDay": 1,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Ante vosotros hay dos caminos —el camino ancho de la complacencia propia y la senda estrecha del sacrificio. Yendo por el camino ancho, podéis elegir el egoísmo, el orgullo, el amor al mundo; pero aquellos que recorren la senda estrecha, deben abandonar todo peso, y el pecado que tan fácilmente nos acosa. ¿Cuál camino habéis escogido, el camino que lleva a la muerte eterna, o el camino que conduce a la gloria y a la inmortalidad?<br><br>Nunca hubo otro tiempo más solemne en la historia del mundo que este en el cual vivimos. Nuestros intereses eternos están en juego, y debemos despertar a la importancia de asegurar nuestro llamamiento y elección. No nos atrevamos a arriesgar nuestros intereses eternos en base a meras probabilidades. Debemos estar resueltos a perseverar. Lo que nosotros somos, lo que estamos haciendo, la conducta que adoptaremos en el futuro, son todos asuntos de gran importancia, y no podemos permitirnos ser descuidados, indiferentes y despreocupados (Nuestra elevada vocación, p. 10).<br><br>A medida que Satanás trata de romper las barreras del alma, tentándonos a transigir en el pecado, debemos procurar mantener nuestra relación con Dios mediante una fe viva, y tener confianza en su fortaleza para capacitamos para vencer toda barrera. Debemos huir del mal y buscar la justicia, la humildad, y la santidad…<br><br>Es tiempo de que cada uno de nosotros decida de qué lado estamos. Los instrumentos satánicos trabajarán con toda mente que se preste a ello. Pero también hay instrumentos celestiales, que esperan comunicar los brillantes rayos de la gloria de Dios a todos los que están ansiosos de recibirlos.<br><br>A nosotros nos toca decidir si seremos contados entre los seguidores de Cristo, o los siervos de Satanás. Cada día demostramos, mediante nuestra conducta, al servicio de quién hemos elegido estar (Nuestra elevada vocación, p. 17).<br><br>Semejante transformación de carácter como la observada en la vida de Juan, es siempre resultado de la comunión con Cristo. Pueden existir defectos notables en el carácter de una persona, pero cuando llega a ser un verdadero discípulo de Cristo, el poder de la gracia divina le transforma y santifica. Contemplando como por un espejo la gloria del Señor, es transformado de gloria en gloria, hasta que llega a asemejarse a Aquel a quien adora…<br><br>Dios puede ser honrado por los que profesan creer en él únicamente cuando se asemejan a su imagen y son dirigidos por su Espíritu. Entonces, como testigos del Salvador, pueden dar a conocer lo que ha hecho la gracia divina por ellos.<br><br>La verdadera santificación es consecuencia del desarrollo del principio del amor. \"Dios es amor; y el que vive en amor, vive en Dios, y Dios en él\". 1 Juan 4:16. La vida de aquel en cuyo corazón habita Cristo revelará una piedad práctica. El carácter será purificado, elevado, ennoblecido y glorificado. Una doctrina pura acompañará a las obras de justicia; y los preceptos celestiales a las costumbres santas (Los hechos de los apóstoles, pp. 446, 447).<br><br></p>",
-         "date":"DOMINGO, 02 DE ABRIL",
-         "day":"-",
-         "dayTitle":"<p>DECISIONES ETERNAS<br></p>",
-         "id":22,
-         "idDay":2,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Al ser creado, Adán recibió el señorío de la tierra. Pero al ceder a la tentación, cayó bajo el poder de Satanás. Y \"el que es de alguno vencido, es sujeto a la servidumbre del que lo venció\". 2 Pedro 2:19. Cuando el hombre cayó bajo el cautiverio de Satanás, el dominio que antes ejercía pasó a manos de su conquistador. De esa manera Satanás llegó a ser \"el dios de este siglo\". 2 Corintios 4:4. Él había usurpado el dominio que originalmente fue otorgado a Adán. Pero Cristo, mediante su sacrificio, al pagar la pena del pecado, no solo redimiría al hombre, sino que también recuperaría el dominio que éste había perdido. Todo lo que perdió el primer Adán será recuperado por el segundo Y el apóstol Pablo dirige nuestras miradas hacia \"la redención de la posesión adquirida\". Efesios 1:14... Ese propósito será cumplido, cuando sea renovada mediante el poder de Dios y libertada del pecado y el dolor; entonces se convertirá en la morada eterna de los redimidos (Historia de los patriarcas y profetas, p. 53).</p><p><br></p><p>Debemos aprender de Cristo. Debemos saber lo que él es para los que ha rescatado. Debemos comprender que creyendo en él tenemos el privilegio de participar de la naturaleza divina y huir así de la corrupción que hay en el mundo a causa de la concupiscencia. Entonces quedamos limpios de todo pecado, de todo defecto de carácter. No debemos retener una sola tendencia pecaminosa... [Se cita Efesios 2: 1-6.]...</p><p><br></p><p>Las tendencias al mal, hereditarias y cultivadas, son eliminadas del carácter a medida que participamos de la naturaleza divina, y somos convertidos en un poder viviente para el bien. Cooperamos con Dios en el triunfo sobre las tentaciones de Satanás aprendiendo siempre del divino Maestro, participando diariamente de su naturaleza. Dios actúa y el hombre actúa para que éste pueda ser uno con Cristo como Cristo es uno con Dios. Entonces nos sentamos con Cristo en los lugares celestiales. La mente reposa con paz y seguridad en Jesús (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 7, p. 954).</p><p><br></p><p>Por su vida y su muerte, Cristo logró aún más que restaurar lo que el pecado había arruinado. Era el propósito de Satanás conseguir una eterna separación entre Dios y el hombre; pero en Cristo llegamos a estar más íntimamente unidos a Dios que si nunca hubiésemos pecado...</p><p><br></p><p>La exaltación de los redimidos será un testimonio eterno de la misericordia de Dios. \"En los siglos venideros\", él revelará \"la soberana riqueza de su gracia, en su bondad para con nosotros en Jesucristo\". \"A fin de que... sea dado a conocer a las potestades y a las autoridades en las regiones celestiales, la multiforme sabiduría de Dios, de conformidad con el propósito eterno que se había propuesto en Cristo Jesús, Señor nuestro\". Efesios 2:7; 3:10, 11 (El Deseado de todas las gentes, pp. 17, 18).</p><p><br></p>",
+          "date": "2 de julio",
+          "day": "-",
+          "dayTitle": "<p>ELEGIDOS Y ACEPTADOS EN CRISTO</p>",
+          "id": 22,
+          "idDay": 2,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>[E]l amor de Cristo no se limita a una clase. Se identifica con cada hijo de la humanidad. A fin de que pudiésemos llegar a ser miembros de la familia celestial, se hizo miembro de la familia terrenal. Es Hijo del hombre, y así hermano de cada hijo e hija de Adán. Sus seguidores no se han de sentir separados del mundo que perece en derredor suyo. Son una parte de la trama y urdimbre de la humanidad; y el Cielo los mira como hermanos de los pecadores tanto como de los santos. Los que han caído, los que yerran y los pecaminosos, son abarcados por el amor de Cristo; y cada buena acción hecha para elevar a un alma caída, cada acto de misericordia, son aceptados como hechos a él (El Deseado de todas las gentes, p. 593).</p><br><p>Jesús va a venir, pero no será, como en su primer advenimiento, un niño en Belén; no como cabalgó al entrar en Jerusalén, cuando los discípulos alabaron a Dios con fuerte voz y clamaron: \"¡Hosanna!\", sino que vendrá en la gloria del Padre y con todo el séquito de santos ángeles para escoltarlo en su traslado a la tierra. Todo el cielo se vaciará de ángeles, mientras los santos lo estén esperando, mirando hacia el cielo, como lo hicieron los galileos cuando ascendió desde el Monte de las Olivas. Entonces únicamente los que sean santos, los que hayan seguido plenamente al manso Dechado, se sentirán arrobados de gozo y exclamarán al contemplarle: \"He aquí, este es nuestro Dios; le hemos esperado, y nos salvará\". Y serán transformados \"en un momento, en un abrir y cerrar de ojos, a la final trompeta\", aquella trompeta que despierta a los santos que duermen, y los invita a salir de sus camas de polvo, revestidos de gloriosa inmortalidad, y clamando: \"¡Victoria! ¡Victoria sobre la muerte y el sepulcro!\" Los santos transformados son luego arrebatados juntamente con los ángeles al encuentro del Señor en el aire, para nunca más quedar separados del objeto de su amor (Primeros escritos, pp. 109, 110).</p><br><p>Dios dispuso que el Príncipe de los sufrientes en su condición humana fuera el juez de todo el mundo. Aquel que vino de las cortes celestiales para salvar al hombre de la muerte eterna... Aquel que se sometió para ser procesado ante un tribunal terreno, y que sufrió la ignominiosa muerte de la cruz pronunciará él solo la sentencia de recompensa o castigo. Aquel que se sometió aquí al sufrimiento y la humillación de la cruz, en el consejo de Dios tendrá la más plena compensación, y ascenderá al trono reconocido por todo el universo celestial como el Rey de los santos... En el día del castigo y la recompensa finales, tanto los santos como los pecadores reconocerán en Aquel que fue crucificado al Juez de todos los vivientes (En los lugares celestiales, p. 361).</p><br>",
-         "date":"LUNES, 03 DE ABRIL",
-         "day":"-",
-         "dayTitle":"<p>LA VENIDA DEL HIJO DEL HOMBRE<br><br></p>",
-         "id":23,
-         "idDay":3,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>[Muestro Padre celestial... aborrece el pecado, pero ama al pecador, pues se dio en la persona de Cristo para que todos los que quieran puedan ser salvos y gozar de eterna bienaventuranza en el reino de gloria. ¿Qué lenguaje más tierno o más poderoso podría haberse empleado para expresar su amor hacia nosotros? Declara: \"¿Se olvidará acaso la mujer de su niño mamante, de modo que no tenga compasión del hijo de sus entrañas? ¡Aun las tales le pueden olvidar; mas no me olvidaré yo de ti!\" Isaías 49:15...</p><p><br></p><p>Cuando leáis las promesas, recordad que son la expresión de un amor y una piedad inefables. El gran Corazón de amor infinito se siente atraído hacia el pecador por una compasión ilimitada. \"En quien tenemos redención por medio de su sangre, la remisión de nuestros pecados\". Efesios 1:7. Sí, creed tan solo que Dios es vuestro ayudador. Él quiere restaurar su imagen moral en el hombre. Acercaos a él expresándole vuestra confesión y arrepentimiento, y él se acercará a vosotros con misericordia y perdón (El camino a Cristo, pp. 54, 55).</p><p><br></p><p>Las condiciones para obtener la misericordia son sencillas, justas y razonables. El Señor no requiere que hagamos alguna cosa penosa para que obtengamos el perdón del pecado. No es necesario que hagamos largos y fatigadores peregrinajes o dolorosas penitencias para encomendar nuestras almas al Dios del cielo o para expiar nuestra transgresión; pero el que confiesa su pecado y se aparta de él, hallará misericordia. Esta es una preciosa promesa, dada al hombre caído para animarlo a confiar en el Dios de amor y a buscar la vida eterna en su reino (Testimonios para la iglesia, pp. 597, 598).</p><p><br></p><p>Desearía poder presentar este asunto a nuestro pueblo exactamente como lo vi: la admirable Ofrenda hecha en favor del hombre. La justicia exigía los sufrimientos de un hombre. Cristo, igual a Dios, ofreció los sufrimientos de un Dios. Él mismo no necesitaba expiación. Lo hizo por el hombre, todo por el hombre... La intensidad de su agonía fue proporcional a la dignidad y grandeza de su carácter. Nunca veremos ni comprenderemos la profunda angustia de los sufrimientos del inmaculado Cordero de Dios hasta que palpemos cuán hondo es el abismo del cual hemos sido rescatados, qué atroz es el pecado del cual la humanidad es culpable, y por fe nos apoderemos del perdón total y completo.</p><p><br></p><p>Aquí es donde miles están fracasando. No creen realmente que Jesús los perdona individualmente. Fallan en tomarle la palabra a Dios. Él nos asegura que es fiel, que ha prometido perdonamos y ser justo con su propia ley. Su misericordia no carece de nada. Si hubiera un eslabón defectuoso en la cadena, entonces estaríamos desesperadamente perdidos en nuestros pecados... No hay ni una falla en ella, ni falta ningún eslabón. ¡Oh, preciosa redención! ¿Por qué no introducimos esta inestimable verdad más completamente en nuestras vidas? Cuán amplia es, que Dios por causa de Cristo nos perdona —a mí, aun a mí— en el momento en que se lo pedimos con fe viva, creyendo que él es totalmente capaz de hacerlo (Alza tus ojos, p. 217).</p><p><br></p>",
+          "date": "3 de julio",
+          "day": "-",
+          "dayTitle": "<p>REDENCIÓN COSTOSA; PERDÓN GENEROSO</p>",
+          "id": 23,
+          "idDay": 3,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Mientras los discípulos estaban mirando arriba para recibir la última vislumbre de su Señor que ascendía, él fue recibido en las gozosas filas de los ángeles celestiales. Mientras estos ángeles lo escoltarán a los atrios de arriba, cantaban triunfalmente: \"Reinos de la tierra, cantad a Dios, cantad al Señor; al que cabalga sobre los cielos de los cielos.... Atribuid fortaleza a Dios: sobre Israel es su magnificencia, y su poder está en los cielos\". Salmo 68:32-34.<br><br>Los discípulos estaban todavía mirando fervientemente hacia el cielo cuando \"he aquí, dos varones se pusieron junto a ellos en vestidos blancos; los cuales también les dijeron: Varones Galileos, ¿qué estáis mirando al cielo? este mismo Jesús que ha sido tomado desde vosotros arriba en el cielo, así vendrá como le habéis visto ir al cielo\". Hechos 1:10, 11.<br><br>La promesa de la segunda venida de Cristo habría de mantenerse siempre fresca en las mentes de sus discípulos. El mismo Jesús a quien ellos habían visto ascender al cielo, vendría otra vez, para llevar consigo a aquellos que aquí estuvieran entregados a su servicio (Los hechos de los apóstoles, pp. 26, 27).<br><br>Cristo se humilló para encabezar a la humanidad, para afrontar las tentaciones y sobrellevar las pruebas que los hombres deben arrastrar de parte del enemigo caído, a fin de saber cómo socorrer a los que son tentados.<br><br>Y Cristo ha sido hecho nuestro Juez. No es el Padre el Juez. Tampoco lo son los ángeles. Nos juzgará Aquél que se revistió de nuestra humanidad y vivió una vida perfecta en este mundo. Él solo puede ser nuestro Juez. ¿Os acordaréis de ello, hermanos y hermanas? ¿Lo recordaréis también, vosotros los predicadores? ¿Y vosotros también, padres y madres? Cristo se revistió de nuestra humanidad para poder ser nuestro Juez. Ninguno de vosotros ha sido designado para juzgar a otros. Todo lo que podéis hacer es corregiros a vosotros mismos. Os exhorto, en el nombre de Cristo, a obedecer la orden que os da, de no sentaros jamás en el sitial del juez. Día tras día, este mensaje ha repercutido en mis oídos: \"Bajad del estrado del tribunal. Bajad de él con humildad\" (Testimonios para la iglesia, t. 9, p. 149).<br><br>Y Dios \"le ha dado potestad de ejecutar juicio, por cuanto él es Hijo del hombre\". Porque gustó las mismas heces de la aflicción y tentación humanas, y comprende las debilidades y los pecados de los hombres; porque en nuestro favor resistió victoriosamente las tentaciones de Satanás y tratará justa y tiernamente con las almas por cuya salvación fue derramada su sangre, por todo esto, el Hijo del hombre ha sido designado para ejecutar el juicio.<br><br>Pero la misión de Cristo no era juzgar, sino salvar. \"No envió Dios a su Hijo al mundo para que condene al mundo, mas para que el mundo sea salvo por él\". Y delante del Sanedrín, Jesús declaró: \"El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá a condenación, mas pasó de muerte a vida\". Juan 5:24 (El Deseado de todas las gentes, p. 181).<br><br></p>",
-         "date":"MARTES, 04 DE ABRIL",
-         "day":"-",
-         "dayTitle":"<p>EL JUICIO CELESTIAL<br></p>",
-         "id":24,
-         "idDay":4,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Nunca podrá comprenderse el costo de nuestra redención hasta que los redimidos estén con el Redentor delante del trono de Dios. Entonces, al percibir de repente nuestros sentidos arrobados las glorias de la patria eterna, recordaremos que Jesús dejó todo esto por nosotros, que no solo se desterró de las cortes celestiales, sino que por nosotros corrió el riesgo de fracasar y de perderse eternamente. Entonces arrojaremos nuestras coronas a sus pies, y elevaremos este canto: \"¡Digno es el Cordero que ha sido inmolado, de recibir el poder, y la riqueza, y la sabiduría, y la fortaleza, y la honra, y la gloria, y la bendición!\" Apocalipsis 5:12 (El Deseada de todas las gentes, p. 105).</p><p><br></p><p>La vid tiene muchas ramas, pero aunque todas las ramas son diferentes, no disputan entre sí; hay unidad en la diversidad. Todas las ramas reciben su alimento de una sola fuente. Esta es una ilustración de la unidad que debe existir entre los seguidores de Cristo. En sus diferentes tipos de trabajo no tienen sino una Cabeza. El mismo Espíritu obra a través de ellos en diferentes formas. Hay acción armoniosa, aunque varían los dones. Estudiad este capítulo; por él veréis que el hombre que está verdaderamente unido con Cristo nunca procederá como si fuera una unidad completa en sí mismo...</p><p><br></p><p>La perfección de la iglesia no depende de que cada miembro tenga exactamente la misma capacidad. Dios requiere que cada uno ocupe su debido lugar, que esté en su sitio para hacer su obra asignada de acuerdo con la capacidad que le ha sido dada (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 6, p. 1090).</p><p><br></p><p>Solo se puede leer debidamente la enseñanza de la naturaleza a la luz que procede del Calvario. Hágase ver por medio de la historia de Belén y de la cruz cuán bueno es vencer el mal, y cómo constituye un don de la redención cada bendición que recibimos.</p><p><br></p><p>En la zarza y la espina, el abrojo y la cizaña, está representado el mal que marchita y desfigura. En el canto del pájaro y el pimpollo que se abre, en la lluvia y la luz del sol, en la brisa estival y en el suave rocío, en diez mil objetos de la naturaleza, desde el cedro del bosque hasta la violeta que florece a su pie, se ve el amor que restaura. Y la naturaleza nos habla todavía de la bondad de Dios.</p><p><br></p><p>\"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal\". Jeremías 29:11. Este es el mensaje que, a la luz que procede de la cruz, debe leerse en toda la naturaleza. Los cielos declaran la gloria de Dios, y la tierra está llena de sus riquezas (La educación, p. 101).</p>",
+          "date": "4 de julio",
+          "day": "-",
+          "dayTitle": "<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS</p>",
+          "id": 24,
+          "idDay": 4,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>\"Decía más: Así es el reino de Dios, como si un hombre echa simiente en la tierra; y duerme, y se levanta de noche y de día, y la simiente brota y crece como él no sabe. Porque de suyo fructifica la tierra, primero hierba, luego espiga, después grano lleno en la espiga. Y cuando el fruto fuere producido, luego se mete la hoz, porque la siega es llegada\".<br><br>El agricultor que \"mete la hoz, porque la siega es llegada\", no puede ser otro que Cristo. Él es quien en el gran día final recogerá la cosecha de la tierra. Pero el sembrador de la semilla representa a los que trabajan en lugar de Cristo. Se dice que \"la simiente brota y crece como él no sabe\", y esto no es verdad en el caso del Hijo de Dios. Cristo no se duerme sobre su cometido, sino que vela sobre él día y noche. Él no ignora cómo crece la simiente (Palabras de vida del gran Maestro, p. 43).<br><br>Dios es el que hace florecer el capullo y fructificar las flores. Su poder es el que hace a la simiente desarrollar... Las plantas y las flores no crecen por su propio cuidado, solicitud o esfuerzo, sino porque reciben lo que Dios proporcionó para favorecer su vida. El niño no puede por su solicitud o poder propio añadir algo a su estatura. Ni vosotros podréis por vuestra solicitud o esfuerzo conseguir el crecimiento espiritual. La planta y el niño crecen al recibir de la atmósfera circundante aquello que sostiene su vida: el aire, el sol y el alimento. Lo que estos dones de la naturaleza son para los animales y las plantas, llega a serlo Cristo para los que en él confían. Él es su \"luz eterna\", \"escudo y sol\". Isaías 60:19; Salmo 84:11...<br>En el don incomparable de su Hijo, Dios rodeó al mundo entero con una atmósfera de gracia tan real como el aire que circula en derredor del globo. Todos los que decidan respirar esta atmósfera vivificante vivirán y crecerán hasta alcanzar la estatura de hombres y mujeres en Cristo Jesús.<br><br>Como la flor se vuelve hacia el sol para que los brillantes rayos le ayuden a perfeccionar su belleza y simetría, así debemos volvemos hacia el Sol de justicia, a fin de que la luz celestial brille sobre nosotros y nuestro carácter se transforme a la imagen de Cristo (El camino a Cristo, pp. 67, 68).<br><br>Hoy necesitamos mentes capaces de comprender la sencillez de la piedad. Por encima de cualquier otra cosa, deberíamos desear que Cristo more en el templo de nuestra alma, porque no puede habitar en él sin revelarse y proyectarse desde allí en forma de frutos y buenas obras... Dios desea que cada uno de ustedes sea su mano ayudadora; y si se someten a él, les enseñará y trabajará a través de ustedes capacitándolos para compartir con otros. Entonces podrán decir: Oh Dios, \"tu benignidad me ha engrandecido\". Salmo 18:35 (Exaltad a Jesús, p. 179).<br><br></p>",
-         "date":"MIÉRCOLES, 05 DE ABRIL",
-         "day":"-",
-         "dayTitle":"<p>LA CORONA DEL VENCEDOR<br><br></p>",
-         "id":25,
-         "idDay":5,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Cristo nunca debiera estar alejado de nuestra mente. Los ángeles dijeron de El: \"Llamarás su nombre JESUS, porque él salvará a su pueblo de sus pecados\". Mateo 1:21. ¡Qué precioso Salvador es Jesús! Seguridad, auxilio, confianza y paz hay en él. Es el disipador de todas nuestras dudas, la prenda de todas nuestras esperanzas. Cuán precioso es el pensamiento de que realmente podemos llegar a ser participantes de la naturaleza divina, con la que podemos vencer así como Jesús venció. Jesús es la plenitud de nuestras expectativas. Es la melodía de nuestros himnos, la sombra de una gran roca en el desierto. Es el agua viva para el alma sedienta. Es nuestro refugio en la tempestad. Es nuestra justicia, nuestra santificación, nuestra redención. Cuando Cristo es nuestro Salvador personal, anunciaremos las virtudes de Aquel que nos llamó de las tinieblas a su luz admirable (Reflejemos a Jesús, p. 13).</p><p><br></p><p>Y antes de mucho las puertas del cielo se abrirán para recibir a los hijos de Dios, y de los labios del Rey de gloria resonará en sus oídos, como la música más dulce, la invitación: \"¡Venid, benditos de mi Padre, poseed el reino destinado para vosotros desde la fundación del mundo!\" Mateo 25:34.</p><p><br></p><p>Entonces los redimidos recibirán con gozo la bienvenida al hogar que el Señor Jesús les está preparando. Allí su compañía... será... los que hayan vencido a Satanás y por la gracia divina hayan adquirido un carácter perfecto. Toda tendencia pecaminosa, toda imperfección que los aflige aquí, habrá sido quitada por la sangre de Cristo, y se les comunicará la excelencia y brillantez de su gloria, que excede con mucho a la del sol...</p><p>En vista de la herencia gloriosa que puede ser suya, \"¿qué rescate dará el hombre por su alma?\" Mateo 16:26... El alma redimida y limpiada de pecado, con todas sus nobles facultades dedicadas al servicio de Dios, es de un valor incomparable; y hay gozo en el cielo delante de Dios y de los santos ángeles por cada alma rescatada, un gozo que se expresa con cánticos de santo triunfo (El camino a Cristo, pp. 125, 126).</p><p><br></p><p>Algunas veces los cristianos piensan que sus dificultades son la consecuencia de haberse adherido a una verdad impopular, y de profesar ser seguidores de Cristo; creen que eso es lo que hace más duro el camino y cuesta tantos sacrificios realizar, cuando en realidad no hacen ningún sacrificio. Si en verdad son adoptados en la familia de Dios, ¿qué sacrificio pueden hacer? Al seguir a Cristo habrán tenido que cortar alguna amistad con sus relaciones amadoras del mundo, pero contemplemos el cambio —sus nombres escritos en el libro de la vida del Cordero, elevados, sí, grandemente exaltados, para ser partícipes de la salvación, herederos de Dios y coherederos con Jesucristo en una herencia imperecedera...</p><p><br></p><p>Si hay alguien que continuamente debe estar agradecido, es el seguidor de Cristo. Si hay alguien que disfruta de un verdadero gozo aun en esta vida, es el fiel cristiano... Si apreciamos o tenemos sentido del costo de nuestra salvación, todo lo que podamos llamar sacrificio desaparecerá en la insignificancia (Nuestra elevada vocación, p. 203).</p>",
+          "date": "5 de julio",
+          "day": "-",
+          "dayTitle": "<p>VIVIR PARA ALABAR SU GLORIA</p>",
+          "id": 25,
+          "idDay": 5,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>El inmaculado Hijo de Dios pendía de la cruz: su carne estaba lacerada por los azotes; aquellas manos que tantas veces se habían extendido para bendecir, estaban clavadas en el madero; aquellos pies tan incansables en los ministerios de amor estaban también clavados a la cruz; esa cabeza real estaba herida por la corona de espinas; aquellos labios temblorosos formulaban clamores de dolor. Y todo lo que sufrió: las gotas de sangre que cayeron de su cabeza, sus manos y sus pies, la agonía que torturó su cuerpo y la inefable angustia que llenó su alma al ocultarse el rostro de su Padre, habla a cada hijo de la humanidad y declara: Por ti consiente el Hijo de Dios en llevar esta carga de culpabilidad; por ti saquea el dominio de la muerte y abre las puertas del Paraíso. El que calmó las airadas ondas y anduvo sobre la cresta espumosa de las olas, el que hizo temblar a los demonios y huir a la enfermedad, el que abrió los ojos de los ciegos y devolvió la vida a los muertos, se ofrece como sacrificio en la cruz, y esto por amor a ti. Él, el Expiador del pecado, soporta la ira de la justicia divina y por causa tuya se hizo pecado…<br><br>Entre las terribles tinieblas, aparentemente abandonado de Dios, Cristo había apurado las últimas heces de la copa de la desgracia humana. En esas terribles horas había confiado en la evidencia que antes recibiera de que era aceptado de su Padre: Conocía el carácter de su Padre; comprendía su justicia, su misericordia y su gran amor. Por la fe, confió en Aquel a quien había sido siempre su placer obedecer. Y mientras, sumiso, se confiaba a Dios, desapareció la sensación de haber perdido el favor de su Padre. Por la fe, Cristo venció (El Deseado de todas las gentes, pp. 703, 704).<br><br>La cosecha es la reproducción de la semilla sembrada. Toda semilla da fruto \"según su género\". Lo mismo ocurre con los rasgos de carácter que fomentamos. El egoísmo, el amor propio, el engreimiento, la propia complacencia, se reproducen, y el final es desgracia y ruina. \"Porque el que siembra para su carne, de la carne segará corrupción; mas el que siembra para el espíritu, del espíritu segará vida eterna\". Gálatas 6:8. El amor, la simpatía y la bondad, dan fruto de bendición, una cosecha imperecedera.<br><br>En la cosecha, la semilla se multiplica. Un solo grano de trigo, multiplicado por repetidas siembras, cubriría todo un terreno de gavillas doradas. La misma extensión puede tener la influencia de una sola vida, y hasta de una sola acción (La educación, p. 109).<br><br>Estas verdades, tal cual están presentadas en Apocalipsis 14, en relación con el \"evangelio eterno\", serán lo que distinga a la iglesia de Cristo cuando él aparezca. Pues, como resultado del triple mensaje, se dice: \"Aquí están los que guardan los mandamientos de Dios, y la fe de Jesús\". Y este es el último mensaje que se ha de dar antes que venga el Señor. Inmediatamente después de su proclamación, el profeta vio al Hijo del hombre venir en gloria para segar la mies de la tierra (El conflicto de los siglos, p. 447).<br><br></p>",
-         "date":"JUEVES, 06 DE ABRIL",
-         "day":"-",
-         "dayTitle":"",
-         "id":26,
-         "idDay":6,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Hemos de distinguirnos del mundo porque Dios imprimió su sello en nosotros y porque manifiesta en nosotros su carácter de amor. Nuestro Redentor nos ampara con su justicia...</p><p><br></p><p>Al escoger a hombres y mujeres para su servicio, Dios no pregunta si tienen bienes terrenales, cultura o elocuencia. Su pregunta es: ¿Andan ellos en tal humildad que yo pueda enseñarles mi camino? ¿Puedo poner mis palabras en sus labios? ¿Me representarán a mí?</p><p><br></p><p>Dios puede emplear a cada cual en la medida en que pueda poner su Espíritu en el templo del alma. Aceptará la obra que refleje su imagen. Sus discípulos han de llevar, como credenciales ante el mundo, las indelebles características de sus principios inmortales (El ministerio de curación, pp. 24, 25).</p><p><br></p><p>El Espíritu Santo se da como agente regenerador, para hacer efectiva la salvación obrada por la muerte de nuestro Redentor. El Espíritu Santo está tratando constantemente de llamar la atención de los hombres a la gran ofrenda hecha en la cruz del Calvario, de exponer al mundo el amor de Dios, y abrir al alma arrepentida las cosas preciosas de las Escrituras.</p><p><br></p><p>Después de convencer de pecado, y de presentar ante la mente la norma de justicia, el Espíritu Santo quita los afectos de las cosas de esta tierra, y llena el alma con un deseo de santidad. \"Él os guiará a toda verdad\" (Juan 16:13), declaró el Salvador. Si los hombres están dispuestos a ser amoldados, se efectuará la santificación de todo el ser. El Espíritu tomará las cosas de Dios y las imprimirá en el alma. Mediante su poder, el camino de la vida será hecho tan claro que nadie necesite errar (Los hechos de los apóstoles, p. 43).</p><p><br></p><p>Dios desea dar a su pueblo el refrigerio del Espíritu Santo, bautizándolo nuevamente en su amor. La falta de poder espiritual no tiene razón de ser en la iglesia. Después de la ascensión de Cristo, el Espíritu Santo descendió sobre los discípulos que esperaban, oraban y creían, con una plenitud y poder que llenó todos los corazones. En el futuro, toda la tierra debe ser iluminada con la gloria de Dios. Los que han sido santificados por la verdad deben ejercer sobre el mundo una santa influencia. Una atmósfera de gracia debe rodear el mundo. El Espíritu Santo obrará en los corazones, tomando las cosas de Dios y revelándolas a los hombres (Testimonios para la iglesia, t. 9, pp. 32, 33).</p>",
+          "date": "6 de julio",
+          "day": "-",
+          "dayTitle": "<p>EL ESPÍRITU SANTO: SELLO Y ANTICIPO</p>",
+          "id": 26,
+          "idDay": 6,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p><strong>PARA ESTUDIAR Y MEDITAR</strong><br>Reflejemos a Jesús, \"El poder transformador del Espíritu Santo\", 22 de julio, p. 209; Mensajes selectos, t. 1, \"Un cielo que ganar\", pp. 112, 113.<br><br></p>",
-         "date":"VIERNES, 07 DE ABRIL",
-         "day":"-",
-         "dayTitle":"",
-         "id":27,
-         "idDay":7,
-         "idLesson":2,
-         "quarterCode":"2T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Nuestra elevada vocación, 7 de febrero, \"Tengamos en cuenta a Dios\", p. 46; Reflejemos a Jesús, 20 de abril, \"Por fe todo es nuestro\", p. 116.</p>",
+          "date": "7 de julio",
+          "day": "-",
+          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
+          "id": 27,
+          "idDay": 7,
+          "idLesson": 2,
+          "quarterCode": "3T2023",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      }
-   ],
-   "title":"<p>UN MOMENTO DEL DESTINO<br></p>",
-   "verse":"<p>“Entonces miré y vi una nube blanca, y sobre la nube, a uno sentado semejante al Hijo del hombre, con una corona de oro en su cabeza, y en su mano una hoz aguda. Y del Santuario salió otro ángel, y clamó a gran voz al que estaba sentado sobre la nube: ‘Toma tu hoz y siega, porque ha llegado la hora de segar, y la mies de la Tierra está madura’ ” (Apoc. 14:14, 15).<br></p>",
-   "versionCode":2,
-   "weekDate":"1-7 de abril"
-}
+          ]
+        }
+      ],
+      "title": "<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS</p>",
+      "verse": "<p>-</p>",
+      "versionCode": 10,
+      "weekDate": "1-7 de julio"
+    }
