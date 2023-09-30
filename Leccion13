@@ -1,134 +1,128 @@
 {
-  "data": [
-    {
-      "color": "#105ed0",
-      "finalDate": "-",
-      "id": 13,
-      "idEs": 22,
-      "language": "es",
-      "lessonNumber": 13,
-      "lessonType": "A",
-      "quarter": "4T2023",
-      "studies": [
-        {
-          "content": "<p>Dios espera que los que llevan el nombre de Cristo lo representen en pensamiento, palabra y obra. Sus pensamientos han de ser puros y sus palabras y hechos nobles y elevadores, que atraigan a quienes los rodean más cerca del Salvador. En un sentido especial, los adventistas del séptimo día han sido puestos en este mundo como centinelas y portadores de luz. A ellos se les ha confiado el último mensaje de misericordia para un mundo que perece. Sobre ellos brilla la luz maravillosa de la Palabra de Dios. ¿Qué clase de personas, entonces, deben ser?...<br><br>Es necesario que haya una obra más profunda de la gracia en el corazón del pueblo de Dios. Se debe ver menos del yo y más de Cristo. Se aproximan para todos pruebas severas y apremiantes. La religión de la Biblia debe estar entretejida con todo lo que hacemos y decimos... debe tener el perfume de la presencia de Dios (In Heavenly Places, p. 332; parcialmente en En los lugares celestiales, p. 334).<br><br>El plan que Dios se propone llevar a cabo hoy mediante su pueblo, es el mismo que deseaba llevar a cabo mediante Israel cuando lo sacó de Egipto. Contemplando la bondad, la misericordia, la justicia y el amor de Dios revelados en la iglesia, el mundo ha de obtener una representación de su carácter. Y cuando la ley de Dios quede así manifestada en su vida, el mundo reconocerá la superioridad de los que aman, temen y sirven a Dios por encima de todos los demás habitantes de la tierra.<br><br>Los ojos del Señor observan a cada uno de sus hijos; él tiene planes para cada uno de ellos. Él se propone que quienes practiquen sus santos preceptos constituyan un pueblo distinguido. Al pueblo de Dios de este tiempo, tanto como al antiguo Israel, se le aplican las palabras que Moisés escribió por inspiración del Espíritu: \"Porque tú eres pueblo santo para Jehová tu Dios; Jehová tu Dios te ha escogido para serle un pueblo especial, más que todos los pueblos que están sobre la tierra\". Deuteronomio 7:6 (Testimonios para la iglesia, t. 6, p. 21).<br><br>A nosotros, como pueblo, nos incumbe preparar el camino del Señor bajo la dirección de su Espíritu Santo. El evangelio debe ser proclamado en su pureza. El raudal de aguas vivas debe profundizar y ensanchar su curso. En todos los campos, cercanos y lejanos, habrá hombres que serán llamados a dejar el arado y los negocios que ocupan de costumbre el pensamiento, para prepararse junto a hombres de experiencia. A medida que aprendan a trabajar con éxito, anunciarán la verdad con poder. Merced a las maravillosas operaciones de la Providencia divina, montañas de dificultades serán removidas y arrojadas al mar. El mensaje, que tanto significa para todos los habitantes de la tierra, será oído y comprendido. Los hombres' verán dónde está la verdad. La obra progresará más y más hasta que la tierra entera sea amonestada; y entonces vendrá el fin (Testimonios para la iglesia, t. 9, pp. 78, 79).<br><br></p>",
-          "date": "23 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
-          "id": 131,
-          "idDay": 1,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+   "color":"#105ed0",
+   "finalDate":"-",
+   "id":13,
+   "idEs":22,
+   "language":"es",
+   "lessonNumber":13,
+   "lessonType":"A",
+   "quarter":"4T2023",
+   "studies":[
+      {
+         "content":"<p>Dios espera que los que llevan el nombre de Cristo lo representen en pensamiento, palabra y obra. Sus pensamientos han de ser puros y sus palabras y hechos nobles y elevadores, que atraigan a quienes los rodean más cerca del Salvador. En un sentido especial, los adventistas del séptimo día han sido puestos en este mundo como centinelas y portadores de luz. A ellos se les ha confiado el último mensaje de misericordia para un mundo que perece. Sobre ellos brilla la luz maravillosa de la Palabra de Dios. ¿Qué clase de personas, entonces, deben ser?...<br><br>Es necesario que haya una obra más profunda de la gracia en el corazón del pueblo de Dios. Se debe ver menos del yo y más de Cristo. Se aproximan para todos pruebas severas y apremiantes. La religión de la Biblia debe estar entretejida con todo lo que hacemos y decimos... debe tener el perfume de la presencia de Dios (In Heavenly Places, p. 332; parcialmente en En los lugares celestiales, p. 334).<br><br>El plan que Dios se propone llevar a cabo hoy mediante su pueblo, es el mismo que deseaba llevar a cabo mediante Israel cuando lo sacó de Egipto. Contemplando la bondad, la misericordia, la justicia y el amor de Dios revelados en la iglesia, el mundo ha de obtener una representación de su carácter. Y cuando la ley de Dios quede así manifestada en su vida, el mundo reconocerá la superioridad de los que aman, temen y sirven a Dios por encima de todos los demás habitantes de la tierra.<br><br>Los ojos del Señor observan a cada uno de sus hijos; él tiene planes para cada uno de ellos. Él se propone que quienes practiquen sus santos preceptos constituyan un pueblo distinguido. Al pueblo de Dios de este tiempo, tanto como al antiguo Israel, se le aplican las palabras que Moisés escribió por inspiración del Espíritu: \"Porque tú eres pueblo santo para Jehová tu Dios; Jehová tu Dios te ha escogido para serle un pueblo especial, más que todos los pueblos que están sobre la tierra\". Deuteronomio 7:6 (Testimonios para la iglesia, t. 6, p. 21).<br><br>A nosotros, como pueblo, nos incumbe preparar el camino del Señor bajo la dirección de su Espíritu Santo. El evangelio debe ser proclamado en su pureza. El raudal de aguas vivas debe profundizar y ensanchar su curso. En todos los campos, cercanos y lejanos, habrá hombres que serán llamados a dejar el arado y los negocios que ocupan de costumbre el pensamiento, para prepararse junto a hombres de experiencia. A medida que aprendan a trabajar con éxito, anunciarán la verdad con poder. Merced a las maravillosas operaciones de la Providencia divina, montañas de dificultades serán removidas y arrojadas al mar. El mensaje, que tanto significa para todos los habitantes de la tierra, será oído y comprendido. Los hombres' verán dónde está la verdad. La obra progresará más y más hasta que la tierra entera sea amonestada; y entonces vendrá el fin (Testimonios para la iglesia, t. 9, pp. 78, 79).<br><br></p>",
+         "date":"23 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
+         "id":131,
+         "idDay":1,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Al acercarnos al fin de la historia de este mundo, las profecías que se relacionan con los últimos días requieren en forma especial nuestro estudio. El último libro del Nuevo Testamento está lleno de verdades que necesitamos entender. Satanás ha cegado las mentes de muchos, de manera que se han regocijado de encontrar alguna excusa para no estudiar el Apocalipsis. Pero Cristo, por medio de su siervo Juan, ha declarado allí lo que acontecerá en los postreros días, y dice: \"Bienaventurado el que lee, y los que oyen [as palabras de esta profecía, y guardan las cosas en ella escritas\". Apocalipsis 1:3.<br><br>\"Esta empero es la vida eterna —dice Cristo—: que te conozcan el solo Dios verdadero, y a Jesucristo, al cual has enviado\". Juan 17:3. ¿Por qué es que no comprendemos el valor de este conocimiento? ¿Por qué no arden estas preciosas verdades en nuestro corazón? ¿Por qué no hacen temblar nuestros labios y penetran todo nuestro ser? (Palabras de vida del gran Maestro, p. 103).<br><br>[El] Señor obrará mediante los instrumentos humanos que se unen a Cristo. Los que tienen confianza permanente en Cristo, tendrán, corno Enoc, un sentido de la constante presencia de Dios. ¿Por qué sucede que hay tantos que experimentan incertidumbre y se sienten huérfanos? Se debe a que no cultivan la fe en la certidumbre preciosa de que Cristo es el portador de sus pecados. Jesús tomó sobre sí la naturaleza humana en favor de los que habían transgredido la ley, y llegó a ser semejante a nosotros para que pudiéramos tener seguridad y paz eternas. Tenemos un abogado en los cielos, y quienquiera que lo acepte como su Salvador personal, no queda huérfano para soportar la maldición de sus propios pecados (Hijos e hijas de Dios, p. 289).<br><br>La Iglesia es el medio señalado por Dios para la salvación de los hombres. Fue organizada para servir, y su misión es la de anunciar el evangelio al mundo. Desde el principio fue el plan de Dios que su iglesia reflejase al mundo su plenitud y suficiencia. Los miembros de la iglesia, los que han sido llamados de las tinieblas a su luz admirable, han de revelar su gloria. La iglesia es la depositaria de las riquezas de la gracia de Cristo; y mediante la iglesia se manifestará con el tiempo, aun a \"los principados y potestades en los cielos\". Efesios 3:10...<br><br>A través de los siglos de persecución, lucha y tinieblas, Dios ha sostenido a su iglesia. Ni una nube ha caído sobre ella sin que él hubiese hecho provisión; ni una fuerza opositora se ha levantado para contrarrestar su obra, sin que él lo hubiese previsto. Todo ha sucedido como él lo predijo. Él no ha dejado abandonada a su iglesia, sino que ha señalado en las declaraciones proféticas lo que ocurriría, y se ha producido aquello que su Espíritu inspiró a los profetas a predecir. Todos sus propósitos se cumplirán. Su ley está ligada a su trono, y ningún poder del maligno puede destruirla (Los hechos de los apóstoles, pp. 9-11).<br><br></p>",
-          "date": "24 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>EL APOCALIPSIS: LA MISIÓN DE DIOS PARA LOS ÚLTIMOS DÍAS</p>",
-          "id": 132,
-          "idDay": 2,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Al acercarnos al fin de la historia de este mundo, las profecías que se relacionan con los últimos días requieren en forma especial nuestro estudio. El último libro del Nuevo Testamento está lleno de verdades que necesitamos entender. Satanás ha cegado las mentes de muchos, de manera que se han regocijado de encontrar alguna excusa para no estudiar el Apocalipsis. Pero Cristo, por medio de su siervo Juan, ha declarado allí lo que acontecerá en los postreros días, y dice: \"Bienaventurado el que lee, y los que oyen [as palabras de esta profecía, y guardan las cosas en ella escritas\". Apocalipsis 1:3.<br><br>\"Esta empero es la vida eterna —dice Cristo—: que te conozcan el solo Dios verdadero, y a Jesucristo, al cual has enviado\". Juan 17:3. ¿Por qué es que no comprendemos el valor de este conocimiento? ¿Por qué no arden estas preciosas verdades en nuestro corazón? ¿Por qué no hacen temblar nuestros labios y penetran todo nuestro ser? (Palabras de vida del gran Maestro, p. 103).<br><br>[El] Señor obrará mediante los instrumentos humanos que se unen a Cristo. Los que tienen confianza permanente en Cristo, tendrán, corno Enoc, un sentido de la constante presencia de Dios. ¿Por qué sucede que hay tantos que experimentan incertidumbre y se sienten huérfanos? Se debe a que no cultivan la fe en la certidumbre preciosa de que Cristo es el portador de sus pecados. Jesús tomó sobre sí la naturaleza humana en favor de los que habían transgredido la ley, y llegó a ser semejante a nosotros para que pudiéramos tener seguridad y paz eternas. Tenemos un abogado en los cielos, y quienquiera que lo acepte como su Salvador personal, no queda huérfano para soportar la maldición de sus propios pecados (Hijos e hijas de Dios, p. 289).<br><br>La Iglesia es el medio señalado por Dios para la salvación de los hombres. Fue organizada para servir, y su misión es la de anunciar el evangelio al mundo. Desde el principio fue el plan de Dios que su iglesia reflejase al mundo su plenitud y suficiencia. Los miembros de la iglesia, los que han sido llamados de las tinieblas a su luz admirable, han de revelar su gloria. La iglesia es la depositaria de las riquezas de la gracia de Cristo; y mediante la iglesia se manifestará con el tiempo, aun a \"los principados y potestades en los cielos\". Efesios 3:10...<br><br>A través de los siglos de persecución, lucha y tinieblas, Dios ha sostenido a su iglesia. Ni una nube ha caído sobre ella sin que él hubiese hecho provisión; ni una fuerza opositora se ha levantado para contrarrestar su obra, sin que él lo hubiese previsto. Todo ha sucedido como él lo predijo. Él no ha dejado abandonada a su iglesia, sino que ha señalado en las declaraciones proféticas lo que ocurriría, y se ha producido aquello que su Espíritu inspiró a los profetas a predecir. Todos sus propósitos se cumplirán. Su ley está ligada a su trono, y ningún poder del maligno puede destruirla (Los hechos de los apóstoles, pp. 9-11).<br><br></p>",
+         "date":"24 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>EL APOCALIPSIS: LA MISIÓN DE DIOS PARA LOS ÚLTIMOS DÍAS</p>",
+         "id":132,
+         "idDay":2,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>[V]emos revelado [en la Palabra de Dios] el gran plan de redención, el medio ideado para liberar a la humanidad del poder de Satanás. Vemos a Cristo, el Capitán de nuestra salvación, enfrentando al príncipe de las tinieblas en batalla abierta y obteniendo la victoria por nosotros. Aprendemos también que, mediante esta victoria, se nos abrió una puerta de esperanza, una fuente de poder, y que como soldados fieles podemos pelear nuestras propias batallas con el astuto enemigo, y vencer en el nombre de Jesús. Cada alma debe hacer frente a los poderes de las tinieblas. Los jóvenes y los ancianos serán atacados, y todos deben comprender cuál es la naturaleza del gran conflicto entre Cristo y Satanás, y deben comprender que atañe a ellos mismos...<br><br>No basta poseer un conocimiento intelectual de la verdad... La palabra debe penetrar en nuestro corazón. Debe arraigarse en nosotros mediante el poder del Espíritu Santo. La voluntad debe ser puesta en armonía con sus requerimientos. No solo el intelecto sino el corazón y la conciencia deben concurrir en la aceptación de la verdad (A fin de conocerle, p. 192).<br><br>El mandato dado a los discípulos nos es dado también a nosotros. Hoy día, como entonces, un Salvador crucificado y resucitado ha de ser levantado delante de los que están sin Dios y sin esperanza en el mundo. El Señor llama a pastores, maestros y evangelistas. De puerta en puerta han de proclamar sus siervos el mensaje de salvación. A toda nación, tribu, lengua y pueblo se han de proclamar las nuevas del perdón por Cristo. El mensaje ha de ser dado, no con expresiones atenuadas y sin vida, sino en términos claros, decididos y conmovedores. Centenares están aguardando la amonestación para poder escapar a la condenación. El mundo necesita ver en los cristianos una evidencia del poder del cristianismo. No meramente en unos pocos lugares, sino por todo el mundo, se necesitan mensajes de misericordia (Obreros evangélicos, p. 29).<br><br>Por el gozo que le fue propuesto, Cristo soportó la cruz... murió en la cruz como sacrificio por el mundo, y gracias a este sacrificio tenemos acceso a la mayor bendición que Dios pudiera haber derramado: el don del Espíritu Santo. Esta bendición es para todos los que reciban a Cristo. El mundo caído es el campo de batalla donde se lleva a cabo el mayor conflicto que el universo celestial y los poderes terrenales hayan observado jamás. Fue designado como el escenario donde se pelearía la batalla colosal entre el bien y el mal, entre el cielo y el infierno. En este conflicto cada ser humano tiene una parte que desarrollar. Nadie puede mantenerse en un terreno neutral. Los seres humanos tienen que aceptar o rechazar al Redentor del mundo. Todos son testigos, en favor de Cristo o en contra de él. Cristo llama a los que se han alistado bajo su estandarte para que se empeñen en el conflicto con él como soldados fieles, para que puedan heredar la corona de la vida. Han sido adoptados como hijos e hijas de Dios (Exaltad a Jesús, p. 247).<br><br></p>",
-          "date": "25 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>EL MENSAJE Y LA MISIÓN DE LOS TRES ÁNGELES<br><br></p>",
-          "id": 133,
-          "idDay": 3,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>[V]emos revelado [en la Palabra de Dios] el gran plan de redención, el medio ideado para liberar a la humanidad del poder de Satanás. Vemos a Cristo, el Capitán de nuestra salvación, enfrentando al príncipe de las tinieblas en batalla abierta y obteniendo la victoria por nosotros. Aprendemos también que, mediante esta victoria, se nos abrió una puerta de esperanza, una fuente de poder, y que como soldados fieles podemos pelear nuestras propias batallas con el astuto enemigo, y vencer en el nombre de Jesús. Cada alma debe hacer frente a los poderes de las tinieblas. Los jóvenes y los ancianos serán atacados, y todos deben comprender cuál es la naturaleza del gran conflicto entre Cristo y Satanás, y deben comprender que atañe a ellos mismos...<br><br>No basta poseer un conocimiento intelectual de la verdad... La palabra debe penetrar en nuestro corazón. Debe arraigarse en nosotros mediante el poder del Espíritu Santo. La voluntad debe ser puesta en armonía con sus requerimientos. No solo el intelecto sino el corazón y la conciencia deben concurrir en la aceptación de la verdad (A fin de conocerle, p. 192).<br><br>El mandato dado a los discípulos nos es dado también a nosotros. Hoy día, como entonces, un Salvador crucificado y resucitado ha de ser levantado delante de los que están sin Dios y sin esperanza en el mundo. El Señor llama a pastores, maestros y evangelistas. De puerta en puerta han de proclamar sus siervos el mensaje de salvación. A toda nación, tribu, lengua y pueblo se han de proclamar las nuevas del perdón por Cristo. El mensaje ha de ser dado, no con expresiones atenuadas y sin vida, sino en términos claros, decididos y conmovedores. Centenares están aguardando la amonestación para poder escapar a la condenación. El mundo necesita ver en los cristianos una evidencia del poder del cristianismo. No meramente en unos pocos lugares, sino por todo el mundo, se necesitan mensajes de misericordia (Obreros evangélicos, p. 29).<br><br>Por el gozo que le fue propuesto, Cristo soportó la cruz... murió en la cruz como sacrificio por el mundo, y gracias a este sacrificio tenemos acceso a la mayor bendición que Dios pudiera haber derramado: el don del Espíritu Santo. Esta bendición es para todos los que reciban a Cristo. El mundo caído es el campo de batalla donde se lleva a cabo el mayor conflicto que el universo celestial y los poderes terrenales hayan observado jamás. Fue designado como el escenario donde se pelearía la batalla colosal entre el bien y el mal, entre el cielo y el infierno. En este conflicto cada ser humano tiene una parte que desarrollar. Nadie puede mantenerse en un terreno neutral. Los seres humanos tienen que aceptar o rechazar al Redentor del mundo. Todos son testigos, en favor de Cristo o en contra de él. Cristo llama a los que se han alistado bajo su estandarte para que se empeñen en el conflicto con él como soldados fieles, para que puedan heredar la corona de la vida. Han sido adoptados como hijos e hijas de Dios (Exaltad a Jesús, p. 247).<br><br></p>",
+         "date":"25 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>EL MENSAJE Y LA MISIÓN DE LOS TRES ÁNGELES<br><br></p>",
+         "id":133,
+         "idDay":3,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El evangelio de Cristo debe alcanzar a todas las clases, todas las naciones, todas las lenguas y pueblos. La influencia del evangelio debe unir en una gran hermandad. Tenemos un solo Modelo que debemos. imitar en la edificación del carácter, y entonces todos tendremos el molde de Cristo; estaremos en armonía perfecta; las nacionalidades se unirán en Jesucristo, poseyendo la misma mente, y el mismo juicio, hablando de las mismas cosas, y glorificando a Dios con una sola boca. Esta es la obra que el Redentor del mundo debe realizar por nosotros. Si aceptamos la verdad como está en Jesús desaparecerán los prejuicios nacionalistas y los celos, y el Espíritu de verdad unirá los corazones en uno solo. Nos amaremos como hermanos; estimaremos al prójimo más que a nosotros mismos; seremos bondadosos y corteses, humildes y afables, y accederemos fácilmente a las súplicas; estaremos llenos de misericordia y de buenos frutos (Nuestra elevada vocación, p. 173).<br><br>Cuando miráis la cruz del Calvario, no podéis dudar del amor de Dios o de su deseo de salvar. Tiene una inmensidad de mundos que le tributan honor divino, y el cielo y todo el universo hubieran estado felices si él hubiera dejado perecer este mundo; pero su amor fue tan grande que dio a su propio Hijo para que muriera a fin de que nosotros fuésemos redimidos de la muerte eterna. Al ver el cuidado y el amor que Dios tiene por nosotros, respondamos a ellos; démosle a Jesús todas las facultades de nuestro ser, peleando varonilmente las batallas del Señor. No podemos permitirnos perder el alma; no podemos permitirnos pecar contra Dios. La vida, la vida eterna en el reino de la gloria, lo vale todo (That I May Know Him, p. 367; parcialmente en A fin de conocerle, p. 366).<br><br>Aquellos a quienes Cristo elogia en el juicio, pueden haber sabido poca teología, pero albergaron sus principios. Por la influencia del Espíritu divino, fueron una bendición para los que los rodeaban. Aun entre los paganos, hay quienes han abrigado el espíritu de bondad; antes que las palabras de vida cayesen en sus oídos, manifestaron amistad para con los misioneros, hasta el punto de servirles con peligro de su propia vida. Entre los paganos hay quienes adoran a Dios ignorantemente, quienes no han recibido jamás la luz por un instrumento humano, y sin embargo no perecerán. Aunque ignorantes de la ley escrita de Dios, oyeron su voz hablarles en la naturaleza e hicieron las cosas que la ley requería. Sus obras son evidencia de que el Espíritu de Dios tocó su corazón, y son reconocidos como hijos de Dios.<br><br>¡Cuánto se sorprenderán y alegrarán los humildes de entre las naciones y entre los paganos, al oír de los labios del Salvador: \"En cuanto lo hicisteis a uno de estos mis hermanos pequeñitos, a mí lo hicisteis\"! ¡Cuán alegre se sentirá el corazón del Amor Infinito cuando sus seguidores le miren con sorpresa y gozo al oír sus palabras de aprobación! (El Deseado de todas las gentes, p. 593).<br><br></p>",
-          "date": "26 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>LA CRISIS FINAL<br></p>",
-          "id": 134,
-          "idDay": 4,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El evangelio de Cristo debe alcanzar a todas las clases, todas las naciones, todas las lenguas y pueblos. La influencia del evangelio debe unir en una gran hermandad. Tenemos un solo Modelo que debemos. imitar en la edificación del carácter, y entonces todos tendremos el molde de Cristo; estaremos en armonía perfecta; las nacionalidades se unirán en Jesucristo, poseyendo la misma mente, y el mismo juicio, hablando de las mismas cosas, y glorificando a Dios con una sola boca. Esta es la obra que el Redentor del mundo debe realizar por nosotros. Si aceptamos la verdad como está en Jesús desaparecerán los prejuicios nacionalistas y los celos, y el Espíritu de verdad unirá los corazones en uno solo. Nos amaremos como hermanos; estimaremos al prójimo más que a nosotros mismos; seremos bondadosos y corteses, humildes y afables, y accederemos fácilmente a las súplicas; estaremos llenos de misericordia y de buenos frutos (Nuestra elevada vocación, p. 173).<br><br>Cuando miráis la cruz del Calvario, no podéis dudar del amor de Dios o de su deseo de salvar. Tiene una inmensidad de mundos que le tributan honor divino, y el cielo y todo el universo hubieran estado felices si él hubiera dejado perecer este mundo; pero su amor fue tan grande que dio a su propio Hijo para que muriera a fin de que nosotros fuésemos redimidos de la muerte eterna. Al ver el cuidado y el amor que Dios tiene por nosotros, respondamos a ellos; démosle a Jesús todas las facultades de nuestro ser, peleando varonilmente las batallas del Señor. No podemos permitirnos perder el alma; no podemos permitirnos pecar contra Dios. La vida, la vida eterna en el reino de la gloria, lo vale todo (That I May Know Him, p. 367; parcialmente en A fin de conocerle, p. 366).<br><br>Aquellos a quienes Cristo elogia en el juicio, pueden haber sabido poca teología, pero albergaron sus principios. Por la influencia del Espíritu divino, fueron una bendición para los que los rodeaban. Aun entre los paganos, hay quienes han abrigado el espíritu de bondad; antes que las palabras de vida cayesen en sus oídos, manifestaron amistad para con los misioneros, hasta el punto de servirles con peligro de su propia vida. Entre los paganos hay quienes adoran a Dios ignorantemente, quienes no han recibido jamás la luz por un instrumento humano, y sin embargo no perecerán. Aunque ignorantes de la ley escrita de Dios, oyeron su voz hablarles en la naturaleza e hicieron las cosas que la ley requería. Sus obras son evidencia de que el Espíritu de Dios tocó su corazón, y son reconocidos como hijos de Dios.<br><br>¡Cuánto se sorprenderán y alegrarán los humildes de entre las naciones y entre los paganos, al oír de los labios del Salvador: \"En cuanto lo hicisteis a uno de estos mis hermanos pequeñitos, a mí lo hicisteis\"! ¡Cuán alegre se sentirá el corazón del Amor Infinito cuando sus seguidores le miren con sorpresa y gozo al oír sus palabras de aprobación! (El Deseado de todas las gentes, p. 593).<br><br></p>",
+         "date":"26 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>LA CRISIS FINAL<br></p>",
+         "id":134,
+         "idDay":4,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Pablo había tratado de impresionar en la mente de los hermanos corintios el hecho de que él y los ministros que estaban asociados con él no eran sino hombres comisionados por Dios para enseñar la verdad; que todos estaban ocupados en la misma obra; y que dependían igualmente de Dios para tener éxito en sus labores. La discusión que se había levantado en la iglesia en cuanto a los méritos relativos de los diferentes ministros, no estaba de acuerdo con la voluntad de Dios, sino que era el resultado de abrigar los atributos del corazón natural. \"Porque diciendo el uno: Yo cierto soy de Pablo: y el otro: yo de Apolos; ¿no sois carnales? ¿Qué pues es Pablo? ¿y qué es Apolos? Ministros por los cuales habéis creído; y eso según que a cada uno ha concedido el Señor. Yo planté, Apolos negó; mas Dios ha dado el crecimiento. Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento.\" 1 Corintios 3:4-7 (Los hechos de los apóstoles, pp. 221, 222).<br><br>Pablo fue quien predicó primero el evangelio en Corinto y quien había organizado la iglesia allí. Esta era la obra que el Señor le había asignado. Más tarde, por la dirección de Dios, otros obreros fueron enviados allí, para que ocuparan su debido lugar. La semilla sembrada debía regarse, y esto debía hacerlo Apolos. Siguió a Pablo en su obra, para dar instrucción adicional y ayudar al crecimiento de la semilla sembrada. Conquistó los corazones del pueblo, pero era Dios el que daba el crecimiento. No es el poder humano, sino el divino, el que obra la transformación del carácter. Los que plantan y los que riegan, no hacen crecer la semilla; trabajan bajo la dirección de Dios, como sus agentes señalados, y cooperan con él en su obra. Al Artífice maestro pertenecen el honor y la gloria del éxito (Los hechos de los apóstoles, p. 222).<br><br>Jesús desea borrar la imagen de lo terrenal de las mentes de sus seguidores, e impresionar sobre ellos la imagen de lo celestial, para que puedan llegar a ser uno con El, reflejando su carácter, y anunciando las virtudes de Aquel que nos llamó de las tinieblas a su luz admirable...<br><br>El carácter que cultivamos y las actitudes que asumimos hoy están fijando nuestro destino futuro. Todos estamos haciendo elecciones, ya sea para estar con los benditos dentro de la ciudad de luz, o estar con los malvados, fuera de la ciudad. Los principios que gobiernan nuestros actos sobre la tierra son conocidos en el cielo, y nuestros hechos son fielmente anotados en los libros de registro. Allí se sabe si nuestros caracteres son como el de Cristo... ¿Somos vírgenes prudentes?... Esta es la cuestión que estamos decidiendo hoy por nuestro carácter y actitud (Reflejemos a Jesús, p. 295).<br><br></p>",
-          "date": "27 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>ÉXITO EN LA MISIÓN<br></p>",
-          "id": 135,
-          "idDay": 5,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Pablo había tratado de impresionar en la mente de los hermanos corintios el hecho de que él y los ministros que estaban asociados con él no eran sino hombres comisionados por Dios para enseñar la verdad; que todos estaban ocupados en la misma obra; y que dependían igualmente de Dios para tener éxito en sus labores. La discusión que se había levantado en la iglesia en cuanto a los méritos relativos de los diferentes ministros, no estaba de acuerdo con la voluntad de Dios, sino que era el resultado de abrigar los atributos del corazón natural. \"Porque diciendo el uno: Yo cierto soy de Pablo: y el otro: yo de Apolos; ¿no sois carnales? ¿Qué pues es Pablo? ¿y qué es Apolos? Ministros por los cuales habéis creído; y eso según que a cada uno ha concedido el Señor. Yo planté, Apolos negó; mas Dios ha dado el crecimiento. Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento.\" 1 Corintios 3:4-7 (Los hechos de los apóstoles, pp. 221, 222).<br><br>Pablo fue quien predicó primero el evangelio en Corinto y quien había organizado la iglesia allí. Esta era la obra que el Señor le había asignado. Más tarde, por la dirección de Dios, otros obreros fueron enviados allí, para que ocuparan su debido lugar. La semilla sembrada debía regarse, y esto debía hacerlo Apolos. Siguió a Pablo en su obra, para dar instrucción adicional y ayudar al crecimiento de la semilla sembrada. Conquistó los corazones del pueblo, pero era Dios el que daba el crecimiento. No es el poder humano, sino el divino, el que obra la transformación del carácter. Los que plantan y los que riegan, no hacen crecer la semilla; trabajan bajo la dirección de Dios, como sus agentes señalados, y cooperan con él en su obra. Al Artífice maestro pertenecen el honor y la gloria del éxito (Los hechos de los apóstoles, p. 222).<br><br>Jesús desea borrar la imagen de lo terrenal de las mentes de sus seguidores, e impresionar sobre ellos la imagen de lo celestial, para que puedan llegar a ser uno con El, reflejando su carácter, y anunciando las virtudes de Aquel que nos llamó de las tinieblas a su luz admirable...<br><br>El carácter que cultivamos y las actitudes que asumimos hoy están fijando nuestro destino futuro. Todos estamos haciendo elecciones, ya sea para estar con los benditos dentro de la ciudad de luz, o estar con los malvados, fuera de la ciudad. Los principios que gobiernan nuestros actos sobre la tierra son conocidos en el cielo, y nuestros hechos son fielmente anotados en los libros de registro. Allí se sabe si nuestros caracteres son como el de Cristo... ¿Somos vírgenes prudentes?... Esta es la cuestión que estamos decidiendo hoy por nuestro carácter y actitud (Reflejemos a Jesús, p. 295).<br><br></p>",
+         "date":"27 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>ÉXITO EN LA MISIÓN<br></p>",
+         "id":135,
+         "idDay":5,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cristo nos dice cuándo será introducido el día de su reino. No nos dice que todo el mundo será convertido, sino que \"será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin\". Mateo 24:14. Al dar el evangelio al mundo, tenemos la posibilidad de apresurar la venida del día de Dios...<br><br>Cristo va a venir en las nubes y con grande gloria. Le acompañará una multitud de ángeles resplandecientes. Vendrá para resucitar a los muertos y para transformar a los santos vivos de gloria en gloria. Vendrá para honrar a los que le amaron y guardaron sus mandamientos, y para llevarlos consigo. No los ha olvidado ni tampoco ha olvidado su promesa... Aún un poco más, y veremos al Rey en su hermosura. Un poco más, y enjugará toda lágrima de nuestros ojos. Un poco más, y nos presentará \"delante de su gloria irreprensibles, con grande alegría\". Judas 24 (La segunda venida y el cielo, pp. 153, 154).<br><br>La gloriosa ciudad de Dios tiene doce puertas, guarnecidas de las más preciosas perlas. También tiene doce cimientos de distintos colores. Las calles de la ciudad son de oro puro. En ella está el trono de Dios, y hay un río puro y hermoso que fluye del mismo, transparente como el cristal. Su diáfana belleza y su pureza alegran la ciudad de Dios. Los santos beberán cuanto deseen de las aguas salutíferas del río de la vida...<br>Todos los rostros reflejarán la imagen de su Redentor. No habrá semblantes ansiosos y preocupados; en cambio todos revelarán alegría y sonreirán con pureza inmaculada. Estarán allí los ángeles, y los santos resucitados y los mártires, y, lo mejor de todo, lo que nos producirá el mayor gozo, es que allí veremos a nuestro amado Salvador, que sufrió y murió para que pudiéramos disfrutar tanta felicidad y libertad. Su glorioso rostro resplandecerá con más brillo que el sol, inundará de luz la hermosa ciudad y reflejará su gloria en derredor (Mi vida hoy, p. 361).<br><br>En la ciudad de Dios \"no habrá ya más noche\". Nadie necesitará ni deseará descanso. No habrá quien se canse haciendo la voluntad de Dios ni ofreciendo alabanzas a su nombre. Sentiremos siempre la frescura de la mañana, que nunca se agostará... La luz del sol será sobrepujada por un brillo que sin deslumbrar la vista excederá sin medida la claridad de nuestro mediodía. La gloria de Dios y del Cordero inunda la ciudad santa con una luz que nunca se desvanece. Los redimidos andan en la luz gloriosa de un día eterno que no necesita sol.<br><br>\"No vi templo en ella; porque el Señor Dios Todopoderoso, y el Cordero son el templo de ella\". Apocalipsis 21:22 (VM). El pueblo de Dios tiene el privilegio de tener comunión directa con el Padre y el Hijo. \"Ahora vemos oscuramente, como por medio de un espejo\". 1 Corintios 13:12 (VM). Vemos la imagen de Dios reflejada como en un espejo en las obras de la naturaleza y en su modo de obrar para con los hombres; pero entonces le veremos cara a cara sin velo que nos lo oculte (El conflicto de los siglos, p. 655, 656).<br><br></p>",
-          "date": "28 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>MISIÓN COMPLETADA<br></p>",
-          "id": 136,
-          "idDay": 6,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Cristo nos dice cuándo será introducido el día de su reino. No nos dice que todo el mundo será convertido, sino que \"será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin\". Mateo 24:14. Al dar el evangelio al mundo, tenemos la posibilidad de apresurar la venida del día de Dios...<br><br>Cristo va a venir en las nubes y con grande gloria. Le acompañará una multitud de ángeles resplandecientes. Vendrá para resucitar a los muertos y para transformar a los santos vivos de gloria en gloria. Vendrá para honrar a los que le amaron y guardaron sus mandamientos, y para llevarlos consigo. No los ha olvidado ni tampoco ha olvidado su promesa... Aún un poco más, y veremos al Rey en su hermosura. Un poco más, y enjugará toda lágrima de nuestros ojos. Un poco más, y nos presentará \"delante de su gloria irreprensibles, con grande alegría\". Judas 24 (La segunda venida y el cielo, pp. 153, 154).<br><br>La gloriosa ciudad de Dios tiene doce puertas, guarnecidas de las más preciosas perlas. También tiene doce cimientos de distintos colores. Las calles de la ciudad son de oro puro. En ella está el trono de Dios, y hay un río puro y hermoso que fluye del mismo, transparente como el cristal. Su diáfana belleza y su pureza alegran la ciudad de Dios. Los santos beberán cuanto deseen de las aguas salutíferas del río de la vida...<br>Todos los rostros reflejarán la imagen de su Redentor. No habrá semblantes ansiosos y preocupados; en cambio todos revelarán alegría y sonreirán con pureza inmaculada. Estarán allí los ángeles, y los santos resucitados y los mártires, y, lo mejor de todo, lo que nos producirá el mayor gozo, es que allí veremos a nuestro amado Salvador, que sufrió y murió para que pudiéramos disfrutar tanta felicidad y libertad. Su glorioso rostro resplandecerá con más brillo que el sol, inundará de luz la hermosa ciudad y reflejará su gloria en derredor (Mi vida hoy, p. 361).<br><br>En la ciudad de Dios \"no habrá ya más noche\". Nadie necesitará ni deseará descanso. No habrá quien se canse haciendo la voluntad de Dios ni ofreciendo alabanzas a su nombre. Sentiremos siempre la frescura de la mañana, que nunca se agostará... La luz del sol será sobrepujada por un brillo que sin deslumbrar la vista excederá sin medida la claridad de nuestro mediodía. La gloria de Dios y del Cordero inunda la ciudad santa con una luz que nunca se desvanece. Los redimidos andan en la luz gloriosa de un día eterno que no necesita sol.<br><br>\"No vi templo en ella; porque el Señor Dios Todopoderoso, y el Cordero son el templo de ella\". Apocalipsis 21:22 (VM). El pueblo de Dios tiene el privilegio de tener comunión directa con el Padre y el Hijo. \"Ahora vemos oscuramente, como por medio de un espejo\". 1 Corintios 13:12 (VM). Vemos la imagen de Dios reflejada como en un espejo en las obras de la naturaleza y en su modo de obrar para con los hombres; pero entonces le veremos cara a cara sin velo que nos lo oculte (El conflicto de los siglos, p. 655, 656).<br><br></p>",
+         "date":"28 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>MISIÓN COMPLETADA<br></p>",
+         "id":136,
+         "idDay":6,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Reflejemos a Jesús, 13 de febrero, \"Dios revela su justicia y amor\", p. 50; Exaltad a Jesús, 7 de agosto, \"Cristo murió por nosotros\", p. 227.<br><br></p>",
-          "date": "29 DE DICIEMBRE",
-          "day": "-",
-          "dayTitle": "<p>&nbsp;PARA ESTUDIAR Y MEDITAR<br></p>",
-          "id": 137,
-          "idDay": 7,
-          "idLesson": 13,
-          "quarterCode": "4T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Reflejemos a Jesús, 13 de febrero, \"Dios revela su justicia y amor\", p. 50; Exaltad a Jesús, 7 de agosto, \"Cristo murió por nosotros\", p. 227.<br><br></p>",
+         "date":"29 DE DICIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>&nbsp;PARA ESTUDIAR Y MEDITAR<br></p>",
+         "id":137,
+         "idDay":7,
+         "idLesson":13,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
-      "verse": "<p>“Siendo que todo será destruido, ¿qué clase de personas deben ser ustedes en santa y piadosa conducta, esperando y apresurándose para la venida del día de Dios? En ese día los cielos serán encendidos y deshechos, y los elementos se fundirán abrasados por el fuego” (2 Ped. 3:11, 12).<br></p>",
-      "versionCode": 30,
-      "weekDate": "23 - 29 de diciembre"
-    }
-  ],
-  "message": "Consulta con éxito",
-  "success": true
+         ]
+      }
+   ],
+   "title":"<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
+   "verse":"<p>“Siendo que todo será destruido, ¿qué clase de personas deben ser ustedes en santa y piadosa conducta, esperando y apresurándose para la venida del día de Dios? En ese día los cielos serán encendidos y deshechos, y los elementos se fundirán abrasados por el fuego” (2 Ped. 3:11, 12).<br></p>",
+   "versionCode":30,
+   "weekDate":"23 - 29 de diciembre"
 }
