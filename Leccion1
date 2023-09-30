@@ -1,128 +1,128 @@
 {
-      "color": "#FF6B33",
-      "finalDate": "-",
-      "id": 1,
-      "idEs": 20,
-      "language": "es",
-      "lessonNumber": 1,
-      "lessonType": "A",
-      "quarter": "3T2023",
-      "studies": [
-        {
-          "content": "<p>Pablo era un ejemplo viviente de lo que debe ser cada cristiano. Vivía para la gloria de Dios. Sus palabras llegan resonando hasta nuestro tiempo: \"Para mí el vivir es Cristo\". \"Lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo, por quien el mundo me es crucificado a mí, y yo al mundo\". El que una vez fuera perseguidor de Cristo en la persona de sus santos, ahora exhibe ante el mundo la cruz de Cristo. El corazón de Pablo ardía de amor por las almas, y consagró todas sus energías para la conversión de los hombres. Nunca vivió un obrero más abnegado, ferviente y perseverante. Su vida era Cristo; realizaba las obras de Cristo. Todas las bendiciones que recibía eran estimadas como otras tantas ventajas para ser usadas en bendecir a otros (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 6, p. 1112).</p><p><br></p><p>En el concilio del cielo se dispuso que los hombres, aunque transgresores, no debían perecer en su desobediencia, sino que por medio de la fe en Cristo como su sustituto y fiador pudieran convertirse en los elegidos de Dios, predestinados para la adopción de hijos por Jesucristo y para él, según el puro afecto de su voluntad. Dios desea que todos los hombres sean salvos, pues ha dispuesto un amplio recurso al dar a su Hijo unigénito para pagar el rescate del hombre. Los que perezcan, perecerán porque se niegan a ser adoptados como hijos de Dios por medio de Cristo Jesús.</p><p><br></p><p>Antes de que se pusieran los fundamentos de la tierra, se hizo el pacto de que serían hijos de Dios todos los que fueran obedientes, todos los que por medio de la abundante gracia proporcionada llegarán a ser santos en carácter y sin mancha delante de Dios, al apropiarse de esa gracia. Ese pacto, hecho desde la eternidad, fue dado a Abraham mil novecientos años antes de que viniera Cristo. ¡Con cuánto interés y con cuánta intensidad estudió Cristo en su humanidad a la raza humana para ver si los hombres aprovecharían el recurso ofrecido! (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 6, p. 1114).</p><p><br></p><p>Dios muestra a su pueblo todos los favores que ha prodigado a su Hijo al aceptar la gran expiación. Los que con amor han unido su empeño con Cristo, son aceptos en el Amado. Sufrieron con Cristo en su más profunda humillación, y la glorificación de él es de gran interés para ellos, porque son aceptos en él. Dios los ama como ama a su Hijo. Cristo, Emanuel, está entre Dios y el creyente revelando la gloria de Dios a sus elegidos y cubriendo sus defectos y transgresiones con las vestiduras de su propia justicia inmaculada (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 6, p. 1115).</p><p><br></p>",
-          "date": "24 de junio",
-          "day": "-",
-          "dayTitle": "",
-          "id": 11,
-          "idDay": 1,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+   "color":"#105ed0",
+   "finalDate":"-",
+   "id":1,
+   "idEs":22,
+   "language":"es",
+   "lessonNumber":1,
+   "lessonType":"A",
+   "quarter":"4T2023",
+   "studies":[
+      {
+         "content":"<p>Como las complicaciones semejantes a ruedas eran dirigidas por la mano que había debajo de las alas de los querubines, el complicado juego de los acontecimientos humanos se halla bajo el control divino. En medio de las disensiones y el tumulto de las naciones, el que está sentado más arriba que los querubines sigue guiando los asuntos de esta tierra.<br><br>La historia de las naciones nos habla a nosotros hoy. Dios asignó a cada nación e individuo un lugar en su gran plan. Hoy los hombres y las naciones son probados por la plomada que está en la mano de Aquel que no comete error. Por su propia elección, cada uno decide su destino, y Dios lo rige todo para cumplir sus propósitos.<br><br>Al unir un eslabón con otro en la cadena de los acontecimientos, desde la eternidad pasada a la eternidad futura, las profecías que el gran YO SOY dio en su Palabra nos dicen dónde estamos hoy en la procesión de los siglos y lo que puede esperarse en el tiempo futuro. Todo lo que la profecía predijo como habiendo de acontecer hasta el momento actual, se lee cumplido en las páginas de la historia, y podemos tener la seguridad de que todo lo que falta por cumplir se realizará en su orden (Profetas y reyes, pp. 393, 394).<br><br>Los planes eternos de Dios están por cumplirse, y el fin de todas las cosas está cerca. Es la hora cuando los que poseen un conocimiento de la verdad de Dios debieran alistarse bajo la bandera manchada de sangre del Príncipe Emmanuel. Debieran levantarse como defensores de la fe dada a los santos. Debieran hacer conocer al mundo qué significa guardar los mandamientos de Dios y tener la fe de Jesús. Debieran permitir que su luz brille claramente, derramando poderosos rayos sobre la senda de los que caminan en la oscuridad. Los soldados de Cristo debieran defender la verdad hombro a hombro, ser leales a ella, vindicando la ley de Jehová (Hijos e hijas de Dios, p. 271).<br><br>Así como los rayos del sol penetran hasta las partes más remotas del mundo, Dios quiere que el evangelio llegue a toda alma en la tierra...<br>&nbsp;<br>De esta manera ha de cumplirse el propósito de Dios al llamar a su pueblo, desde Abraham en los llanos de Mesopotamia hasta nosotros en el siglo actual. Dice: \"Haré de ti una nación grande, y te bendeciré... y serás bendición\" Génesis 12:2... Si sobre nuestro espíritu nació la gloria del Señor, si hemos visto la hermosura del que es \"señalado entre diez mil\" y \"todo él codiciable\", si nuestra alma se llenó de resplandor en presencia de su gloria, entonces estas palabras del Maestro fueron dirigidas a nosotros. ¿Hemos estado con Cristo en el monte de la transfiguración? Abajo, en la llanura, hay almas esclavizadas por Satanás que esperan las palabras de fe y las oraciones que las pongan en libertad (El discurso maestro de Jesucristo, p. 39).<br><br></p>",
+         "date":" 30 DE SEPTIEMBRE",
+         "day":"-",
+         "dayTitle":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br></p>",
+         "id":11,
+         "idDay":1,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cuando Pablo se relacionó directamente con los idólatras habitantes de Éfeso, el poder de Dios se manifestó notablemente por medio de él. Los apóstoles no siempre podían hacer milagros a voluntad. El Señor concedía a sus siervos ese poder especial cuando lo exigía el progreso de su causa o el honor de su nombre. Como Moisés y Aarón en la corte de Faraón, el apóstol ahora tenía que defender la verdad contra los prodigios mentirosos de los magos. Por lo tanto, los milagros que hizo fueron de un carácter diferente de los que hasta entonces había hecho. Así como el borde de la vestimenta de Cristo había comunicado poder sanador a la que buscó alivio mediante el toque de la fe, así también en esta ocasión las vestimentas fueron el medio de curación para todos los que creían: \"las enfermedades se iban de ellos, y los espíritus malos salían\". Sin embargo, esos milagros no fomentaron una ciega superstición. Cuando Jesús sintió el toque de la mujer que sufría, exclamó: \"Ha salido poder de mí\". Las Escrituras declaran que el Señor hacía milagros mediante la mano de Pablo, y era ensalzado el nombre del Señor Jesús, no el nombre de Pablo (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 6, pp. 1063, 1064).</p><p><br></p><p>Al quemar estos libros de magia, los conversos efesios mostraron que ahora aborrecían las cosas en las cuales se habían deleitado una vez. Era por la magia cómo habían ofendido especialmente a Dios y puesto en peligro sus almas; y contra la magia manifestaron tal indignación. Así dieron evidencia de su verdadera conversión.</p><p><br></p><p>Estos tratados sobre adivinación contenían reglas y formas de comunicarse con los malos espíritus. Eran los reglamentos del culto de Satanás, instrucciones para solicitar su ayuda y obtener de él información. Reteniendo estos libros, los discípulos se hubieran expuesto a la tentación; vendiéndolos, hubieran colocado la tentación en el camino de otros. Habían renunciado al reino de las tinieblas; y para destruir su poder, no vacilaron ante ningún sacrificio. Así la verdad triunfó sobre los prejuicios de los hombres, y también sobre su amor al dinero.</p><p><br></p><p>Por esta manifestación del poder de Cristo, se ganó una poderosa victoria en favor del cristianismo en la misma fortaleza de la superstición. La influencia que tuvo fue más extensa de lo que aun Pablo comprendía. Desde Éfeso las nuevas se extendieron ampliamente, y se dio un poderoso impulso a la causa de Cristo. Mucho después que el apóstol mismo hubo terminado su carrera, estas escenas vivían en la memoria de los hombres, y eran el medio de ganar conversos para el evangelio (Los hechos de los apóstoles, p. 234).</p><p><br></p><p>Podemos ejercer una influencia, una influencia poderosa en el mundo... Debemos tener por único blanco la gloria de Dios. Debemos trabajar con toda la inteligencia que Dios nos ha dado, colocándonos donde fluye la luz, para que la gracia de Dios pueda derramarse sobre nosotros para amoldarnos y conformarnos a la semejanza divina. El cielo está esperando otorgarles sus más ricas bendiciones a aquellos que quieran consagrarse para hacer la obra de Dios en estos últimos días de la historia del mundo (La maravillosa gracia de Dios, p. 272).</p><p><br></p>",
-          "date": "25 de junio",
-          "day": "-",
-          "dayTitle": "<p>PABLO, EVANGELISTA EN ÉFESO</p>",
-          "id": 12,
-          "idDay": 2,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>La ropa blanca de la inocencia era llevada por nuestros primeros padres cuando fueron colocados por Dios en el santo Edén. Ellos vivían en perfecta conformidad con la voluntad de Dios. Toda la fuerza de sus afectos era dada a su Padre celestial. Una hermosa y suave luz, la luz de Dios, envolvía a la santa pareja. Este manto de luz era un símbolo de sus vestiduras espirituales de celestial inocencia. Si hubieran permanecido fieles a Dios, habría continuado envolviéndolos. Pero cuando entró el pecado, rompieron su relación con Dios, y la luz que los había circuido se apartó. Desnudos y avergonzados, procuraron suplir la falta de los mantos celestiales cosiendo hojas de higuera para cubrirse (Palabras de vida del gran Maestro, p. 252).<br>Desde la caída del hombre, el Señor ha estado llevando a cabo sus designios en el plan de la redención, un plan por el cual procura restaurar en el hombre su perfección original. Gracias a la muerte de Cristo en la cruz, Dios recibe y perdona a cada alma arrepentida...<br>La salvación de la raza humana siempre ha sido el objeto de los concilios celestiales. El pacto de misericordia fue hecho antes de la fundación del mundo. Ha existido desde toda la eternidad y se lo llama el pacto eterno. Tan cierto como que nunca hubo un momento en que Dios no existiese, así de seguro nunca hubo un momento en que manifestar su gracia a la humanidad no fuese la delicia de la mente eterna (Dios nos cuida, p. 74).<br>El amor de Jesús por las almas no se puede medir. Cristo murió para salvar no solo a los pocos que lo aceptan; no, él vino a nuestro mundo para salvar a cada hijo e hija de Adán. No vino a buscar y a salvar a los que eran intachables y hermosos, sino que vino a buscar y a salvar a los que están perdidos. \"No he venido a llamar a justos, sino a pecadores, al arrepentimiento\". Él es el verdadero Pastor, siempre dispuesto a dejar el rebaño que está en el redil e ir al desierto en busca de la oveja perdida (Manuscript Releases, t. 19, p. 330).<br>&nbsp;<br>Cuando veáis la enormidad del pecado, cuando os veáis como sois en realidad, no os entreguéis a la desesperación, pues a los pecadores es a quienes Cristo vino a salvar. No tenemos que reconciliar a Dios con nosotros, sino que —¡oh maravilloso amor!— \"Dios estaba en Cristo, reconciliando consigo mismo al mundo\". Por su tierno amor está atrayendo a sí los corazones de sus hijos errantes. Ningún padre según la carne podría ser tan paciente con las faltas y los yerros de sus hijos, como lo es Dios con aquellos a quienes trata de salvar. Nadie podría argüir más tiernamente con el pecador. Jamás enunciaron los labios humanos invitaciones más tiernas que las dirigidas por él al extraviado. Todas sus promesas, sus amonestaciones, no son sino la expresión de su amor inefable (El camino a Cristo, p. 35).<br><br></p>",
+         "date":"1 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>EL DIOS QUE NOS TIENDE LA MANO<br></p>",
+         "id":12,
+         "idDay":2,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>En su discurso Demetrio había indicado que su oficio estaba en peligro. Estas palabras revelan la verdadera causa del tumulto de Éfeso, y también la causa de mucha de la persecución que afrontaron los apóstoles en su trabajo. Demetrio y sus compañeros de oficio vieron que por la enseñanza y la extensión del evangelio, el negocio de la fabricación de imágenes estaba en peligro. Los ingresos de los sacerdotes y artesanos paganos estaban comprometidos y por esta razón levantaron contra Pablo la más acerba oposición.</p><p><br></p><p>La decisión del escribano y de otros que ocupaban puestos de honor en la ciudad, había puesto a Pablo delante del pueblo como una persona inocente de acto ilegal alguno. Este fue otro triunfo del cristianismo sobre el error y la superstición. Dios había levantado a un gran magistrado para vindicar a su apóstol y detener a la turba tumultuosa. El corazón de Pablo se llenó de gratitud a Dios porque su vida había sido conservada y el cristianismo no había cobrado mala fama a causa del tumulto de Éfeso (Los hechos de los apóstoles, p. 239).</p><p><br></p><p>Pablo, además de trabajar en público iba de casa en casa predicando el arrepentimiento para con Dios y la fe en nuestro Señor Jesucristo. Se encontraba con los hombres en sus hogares, y les rogaba con lágrimas declarándoles todo el consejo de Dios. Jesús entró en contacto personal con los hombres. No se mantuvo apartado de los que necesitaban su ayuda... Hemos de acercamos a los que necesitan nuestro ministerio Hemos de abrir la Biblia a su comprensión, presentar las demandas de la ley de Dios, leer las promesas a los que vacilan, instar a los que demoran, despertar a los descuidados, fortalecer a los débiles.</p><p><br></p><p>No descuidemos la tarea de hablar a nuestros vecinos y de hacerles todo el bien que podamos... Necesitamos buscar el espíritu que impulsaba al apóstol Pablo a ir de casa en casa, suplicando con lágrimas, y enseñando \"acerca del arrepentimiento para con Dios, y de la fe en nuestro Señor Jesucristo\" (Reflejemos a Jesús, p. 237).</p><p><br></p><p>Hay mil tentaciones disfrazadas y preparadas para aquellos que tienen la luz de la verdad; y la única seguridad para cualquiera de nosotros consiste en no recibir ninguna nueva doctrina, ninguna nueva interpretación de las Escrituras, sin someterla primero a hermanos de experiencia. Presentádsela con un espíritu humilde y dispuesto a recibir enseñanza, con ferviente oración, y si ellos no la aceptan, ateneos a su juicio...</p><p>&nbsp;</p><p>Satanás está trabajando constantemente; pero pocos tienen idea alguna de su actividad y sutileza. El pueblo de Dios debe estar preparado para resistir al astuto enemigo. Esta resistencia es lo que Satanás teme. Él conoce mejor que nosotros el límite de su poder, y cuán fácilmente puede ser vencido si le resistimos y le hacemos frente. Por la fuerza divina, el santo más débil puede más que él y todos sus ángeles, y si se lo sometiese a prueba podría demostrar su poder superior. Por eso los pasos de Satanás son silenciosos, sus movimientos furtivos, y sus baterías enmascaradas. Él no se atreve a mostrarse abiertamente, no sea que despierte las energías dormidas del cristiano, y lo impulse a ir a Dios en oración (Maranata: el Señor viene, p. 62).</p><p><br></p>",
-          "date": "26 de junio",
-          "day": "-",
-          "dayTitle": "<p>UN MOTÍN EN EL ANFITEATRO</p>",
-          "id": 13,
-          "idDay": 3,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El Dios que es todo misericordia velaba su gloria... a fin de que Moisés pudiese mirarla y sobrevivir. Así también en la columna de nube de día y la columna de fuego de noche, Dios se comunicaba con Israel, les revelaba su voluntad a los hombres, y les impartía su gracia. La gloria de Dios estaba suavizada, y velada su majestad, a fin de que la débil visión de los hombres finitos pudiese contemplarla. Así Cristo había de venir en \"el cuerpo de nuestra bajeza\" (Filipenses 3:21), \"hecho semejante a los hombres.\" A los ojos del mundo, no poseía hermosura que lo hiciese desear; sin embargo era Dios encarnado, la luz del cielo y de la tierra. Su gloria estaba velada, su grandeza y majestad ocultas, a fin de que pudiese acercarse a los hombres entristecidos y tentados.<br><br>Dios ordenó a Moisés respecto a Israel: \"Hacerme han un santuario, y yo habitaré entre ellos\" (Éxodo 25:8), y moraba en el santuario en medio de su pueblo. Durante todas sus penosas peregrinaciones en el desierto, estuvo con ellos el símbolo de su presencia. Así Cristo levantó su tabernáculo en medio de nuestro campamento humano. Hincó su tienda al lado de la tienda de los hombres, a fin de morar entre nosotros y familiarizarnos con su vida y carácter divinos. \"Aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad (El Deseado de todas las gentes, pp. 14, 15).<br><br>La notable prosperidad que acompañaba a todo lo que se encargara a José no era resultado de un milagro directo, sino que su industria, su interés y su energía fueron coronados con la bendición divina. José atribuyó su éxito al favor de Dios, y hasta su amo idólatra aceptó eso como el secreto de su sin igual prosperidad. Sin embargo, sin sus esfuerzos constantes y bien dirigidos, nunca habría podido alcanzar tal éxito. Dios fue glorificado por la fidelidad de su siervo. Era el propósito divino que por la pureza y la rectitud, el creyente en Dios apareciera en marcado contraste con los idólatras, para que así la luz de la gracia celestial brillase en medio de las tinieblas del paganismo (Patriarcas y profetas, p. 216).<br><br>&nbsp;<br>Hoy también el Señor declara a sus hijos: \"Esfuérzate... y obrad: porque yo soy con vosotros.\" El creyente tiene siempre en el Señor a un poderoso auxiliador. Tal vez no sepamos cómo nos ayuda; pero esto sabemos: Nunca falta su ayuda para aquellos que ponen su confianza en él. Si los cristianos pudieran saber cuántas veces el Señor ordenó su camino, para que los propósitos del enemigo acerca de ellos no se cumplieran, no seguirían tropezando y quejándose. Su fe se estabilizaría en Dios, y ninguna prueba podría moverlos. Le reconocerían como su sabiduría y eficiencia, y él haría que se cumpliese lo que él desea obrar por su medio (Profetas y reyes, p. 422).<br><br></p>",
+         "date":"2 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>EL DIOS QUE ANHELA ESTAR CON NOSOTROS<br></p>",
+         "id":13,
+         "idDay":3,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El apóstol [Pablo] continúa: \"Para que habite Cristo por la fe... para que seáis dignos de toda la plenitud de Dios\". Efesios 4:17-19. Aunque esta plenitud divina ha sido colocada a nuestro alcance, con cuánta facilidad nos satisfacemos. Nos hemos acostumbrado a pensar que es suficiente poseer un conocimiento de la verdad sin su poder santificador. Un solo trago en la fuente de la vida apaga nuestra sed. No regresamos a beber vez tras vez. Pero esto no está de acuerdo con el pensamiento de Dios. Nuestras almas deberían experimentar constantemente sed por el agua de la vida. Nuestros corazones deberían andar siempre en busca de Cristo, anhelosos de tener comunión con él. Es el hambre y la sed de justicia lo que nos hará recibir una medida llena de su gracia.</p><p><br></p><p>Enoc \"caminó con Dios\"; ¿pero cómo obtuvo esta dulce comunión? Fue manteniendo continuamente pensamientos de Dios delante de sí. Al salir y al entrar, sus meditaciones se concentraban en la bondad, la perfección y la hermosura del carácter divino. Y al ocuparse de esto, fue transformado a la gloriosa imagen de su Señor; porque es mediante la contemplación como somos cambiados (Exaltad a Jesús, p. 259).</p><p><br></p><p>No es solamente el privilegio sino también el deber de todo cristiano mantener una íntima unión con Cristo, y tener una rica experiencia en las cosas de Dios. Entonces su vida será fructífera en buenas obras. Dijo Cristo: \"En esto es glorificado mi Padre, en que llevéis mucho fruto\". Juan 15:8. Cuando leemos acerca de la vida de hombres que han sido eminentes por su piedad, a menudo consideramos su experiencia y sus conquistas como muy fuera de nuestro alcance. Pero éste no es el caso. Cristo murió por todos; y se nos asegura en su Palabra que él está más dispuesto a dar su Espíritu Santo a los que se lo piden que los padres terrenales a dar buenas dádivas a sus hijos. Los profetas y apóstoles no perfeccionaron caracteres cristianos por milagro. Ellos utilizaron los medios que Dios había colocado a su alcance; y todos los que desean aplicar el mismo esfuerzo obtendrán los mismos resultados.</p><p><br></p><p>En su carta a la iglesia de Éfeso, Pablo les presenta \"el misterio del evangelio\" (Efesios 6:19), \"las inescrutables riquezas de Cristo\" (Efesios 3:8), y entonces les asegura que elevará sus fervientes oraciones por su prosperidad espiritual (La edificación del carácter, p. 83).</p><p><br></p>",
-          "date": "27 de junio",
-          "day": "-",
-          "dayTitle": "<p>ESCUCHAR LA CARTA A LOS EFESIOS</p><p><br></p>",
-          "id": 14,
-          "idDay": 4,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Desde los días de la eternidad, el Señor Jesucristo era uno con el Padre; era \"la imagen de Dios,\" la imagen de su grandeza y majestad, \"el resplandor de su gloria.\" Vino a nuestro mundo para manifestar esta gloria. Vino a esta tierra obscurecida por el pecado para revelar la luz del amor de Dios, para ser \"Dios con nosotros.\" Por lo tanto, fue profetizado de él: \"Y será llamado su nombre Emmanuel\".<br><br>Al venir a morar con nosotros, Jesús iba a revelar a Dios tanto a los hombres como a los ángeles. Él era la Palabra de Dios: el pensamiento de Dios hecho audible. En su oración por sus discípulos, dice: \"Yo les he manifestado tu nombre\" —\"misericordioso y piadoso; tardo para la ira, y grande en benignidad y verdad\"—, \"para que el amor con que me has amado, esté en ellos, y yo en ellos\" (El Deseado de todas las gentes, p. 11).<br><br>Fue la [de Cristo] una vida de abnegación y preocupación por los demás. Toda alma era preciosa a sus ojos. A la vez que se condujo siempre con dignidad divina, se inclinaba con la más tierna consideración sobre cada uno de los miembros de la familia de Dios. En todos los hombres veía almas caídas a quienes era su misión salvar.<br>Tal fue el carácter que Cristo reveló en su vida. Tal es el carácter de Dios. Del corazón del Padre es de donde manan para todos los hijos de los hombres los ríos de la compasión divina, demostrada por Cristo. Jesús, el tierno y piadoso Salvador, era Dios \"manifestado en la carne\". 1 Timothy 3:16...<br><br>Pero este gran sacrificio [de Cristo] no fue hecho para crear amor en el corazón del Padre hacia el hombre, ni para moverle a salvarnos. ¡No! ¡No! \"Porque de tal manera amó Dios al mundo, que dio a su Hijo unigénito\". Juan 3:16. Si el Padre nos ama no es a causa de la gran propiciación, sino que él proveyó la propiciación porque nos ama. Cristo fue el medio por el cual el Padre pudo derramar su amor infinito sobre un mundo caído. \"Dios estaba en Cristo, reconciliando consigo mismo al mundo\". 2 Corintios 5:19. Dios sufrió con su Hijo. En la agonía del Getsemaní, en la muerte del Calvario, el corazón del Amor infinito pagó el precio de nuestra redención (El camino a Cristo, pp. 12-14).<br>&nbsp;<br>Ahora es el momento de ponerse decididamente de parte de la verdad; y siendo que Dios ha dado a cada uno su medida de influencia, es deber de cada uno ejercerla para gloria de Dios y para bien de sus semejantes. Ninguno de los mayordomos de Cristo permanecerá ocioso en un tiempo como el presente, o se contentará simplemente con vivir para sí. Los que están en comunión con Cristo se darán cuenta de que hay almas a cada paso que pueden beneficiarse mediante su ayuda, su ejemplo, y su influencia Se darán cuenta de que pueden ser agentes mediante los cuales Jesús obrará para salvar a aquellos por los que murió (Sons and Daughters of God, p. 269; parcialmente en Hijos e hijas de Dios, p. 271).<br><br></p>",
+         "date":"3 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>EL DIOS QUE SE HIZO UNO CON NOSOTROS<br></p>",
+         "id":14,
+         "idDay":4,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor inalterable. Efesios 6:24.</p><p><br></p><p>Muchos dan por sentado que son cristianos simplemente porque aceptan ciertos dogmas teológicos. Pero no han hecho penetrar la verdad en la vida práctica. No la han creído ni amado; por lo tanto, no han recibido el poder y la gracia que provienen de la santificación de la verdad. Los hombres pueden profesar creer en la verdad; pero esto no los hace sinceros, bondadosos, pacientes y tolerantes, ni les da aspiraciones celestiales; es una maldición para sus poseedores, y por la influencia de ellos es una maldición para el mundo.</p><p><br></p><p>El mundo necesita evidencias de sincero cristianismo. El profeso cristianismo puede verse por doquiera; pero cuando el poder de la gracia de Dios se vea en nuestras iglesias, los miembros realizarán las obras de Cristo. Rasgos de carácter natural y hereditario serán transformados. La morada interna de su Espíritu los habilitará a revelar la semejanza de Cristo, y en proporción con la pureza de su piedad, será el éxito de su obra (La maravillosa gracia de Dios, p. 263).</p><p><br></p><p>En ocasiones, las dificultades que encontraremos serán muy desalentadoras. La misma grandeza de la tarea nos abrumará. Y, sin embargo, con la ayuda de Dios sus siervos triunfarán finalmente. Por lo cual pido hermanos míos, que no desmayéis a causa de las tribulaciones que os esperan. Jesús estará con vosotros. Él irá delante de vosotros por medio de su Santo Espíritu, preparando el camino. Y él será vuestro ayudador en toda emergencia.</p><p><br></p><p>\"'Por esta causa doblo mis rodillas ante el Padre de nuestro Señor Jesucristo, de quien toma nombre toda familia en los cielos y en la tierra, para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu; para que habite Cristo por la fe en vuestros corazones, a fin de que, arraigados y cimentados en amor, seáis plenamente capaces de comprender con todos los santos cuál sea la anchura, la longitud, la profundidad y la altura; y de conocer el amor de Cristo, que excede a todo conocimiento, para que seáis llenos de toda la plenitud de Dios (Notas biográficas de Elena G. de White, pp. 480, 481).</p><p><br></p><p>En favor de los creyentes de Éfeso, el apóstol rogó así: \"Que el Dios de nuestro Señor Jesucristo, el Padre de la gloria, os conceda espíritu de sabiduría y de revelación en el conocimiento de él; siendo iluminados los ojos de vuestro entendimiento, para que conozcáis cuál sea la esperanza de vuestra vocación... y cuál la soberana grandeza de su poder para con nosotros que creemos\". Efesios 1:17-19 (VM). Que el ministerio del Espíritu divino ilumina el entendimiento y revelara a la mente las cosas profundas de la santa Palabra de Dios, tal era la bendición que San Pablo pedía para la iglesia de Éfeso (El conflicto de los siglos, p. 12).</p><p><br></p>",
-          "date": "28 de junio",
-          "day": "-",
-          "dayTitle": "<p>EFESIOS EN SU TIEMPO</p><p><br></p>",
-          "id": 15,
-          "idDay": 5,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Jesús consideró al mundo en su estado caído con piedad infinita. Tomó sobre sí la humanidad para tocarla y elevarla. Vino a buscar y a salvar lo que estaba perdido. Llegó hasta lo más profundo de la miseria y la aflicción humanas, para tomar al hombre tal como lo encontró, un ser manchado de corrupción, degradado por el vicio, depravado por el pecado y unido a Satanás en la apostasía, y elevarlo a un asiento en su trono. Pero estaba escrito de él que \"no desfallecerá ni se desanimará\", y siguió adelante en el camino de la abnegación y el sacrificio, dándonos un ejemplo para que siguiéramos sus pasos.<br><br>Debemos trabajar como lo hizo Jesús, apartándonos de nuestro propio placer, alejándonos de los sobornos de Satanás, despreciando la comodidad y aborreciendo el egoísmo, a fin de poder buscar y salvar lo que está perdido, llevando a las almas de las tinieblas a la luz, al resplandor del amor de Dios. Se nos ha encomendado que vayamos y prediquemos el evangelio a toda criatura. Hemos de llevar a los perdidos la noticia de que Cristo puede perdonar los pecados, puede renovar la naturaleza, puede revestir el alma con el manto de su justicia, traer al pecador a su sano juicio, y enseñarle y capacitarlo para ser un obrero junto con Dios (Fundamentals of Christian Education, p. 199).<br><br>La muerte de Cristo demuestra el gran amor de Dios por el hombre. Es nuestra garantía de salvación. Quitarle al cristiano la cruz sería como borrar del cielo el sol. La cruz nos acerca a Dios, y nos reconcilia con él. Con la perdonadora compasión del amor de un padre, Jehová contempla los sufrimientos que su Hijo soportó con el fin de salvar de la muerte eterna a la familia humana, y nos acepta en el Amado.<br>Sin la cruz, el hombre no podría unirse con el Padre. De ella depende toda nuestra esperanza. De ella emana la luz del amor del Salvador; y cuando al pie de la cruz el pecador mira al que murió para salvarle, puede regocijarse con pleno gozo; porque sus pecados son perdonados. Al postrarse con fe junto a la cruz, alcanza el más alto lugar que pueda alcanzar el hombre.<br><br>Mediante la cruz podemos saber que el Padre celestial nos ama con un amor infinito. ¿Debemos maravillarnos de que Pablo exclamara: \"Lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo\"? Gálatas 6:14. Es también nuestro privilegio gloriarnos en la cruz, entregarnos completamente a Aquel que se entregó por nosotros, Entonces, con la luz que irradia del Calvario brillando en nuestros rostros, podemos salir para revelar esta luz a los que están en tinieblas (Los hechos de los apóstoles, pp. 170, 171).<br><br></p>",
+         "date":"4 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>EL DIOS QUE SIGUE ESTANDO CON NOSOTROS<br></p>",
+         "id":15,
+         "idDay":5,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El Salvador anhelaba exponer a sus discípulos la. verdad concerniente al derribamiento de la \"pared intermedia de separación\" entre Israel y las otras naciones —la verdad de que \"los Gentiles sean juntamente herederos\" con los judíos, y \"consortes de su promesa en Cristo por el evangelio\". Efesios 2:14; 3:6...</p><p><br></p><p>Así Cristo trataba de enseñar a sus discípulos la verdad de que en el reino de Dios no hay fronteras nacionales, ni castas, ni aristocracia; que ellos debían ir a todas las naciones, llevándoles el mensaje del amor del Salvador. Pero solo más tarde comprendieron ellos en toda su plenitud que Dios \"de una sangre ha hecho todo el linaje de los hombres, para que habitasen sobre toda la faz de la tierra; y les ha prefijado el orden de los tiempos, y los términos de la habitación de ellos; para que buscasen a Dios, si en alguna manera, palpando, le hallen; aunque cierto no está lejos de cada uno de nosotros\". Hechos 17:26, 27 (Los hechos de los apóstoles, pp. 16, 17).</p><p><br></p><p>\"Esta empero es la vida eterna —dice Cristo—: que te conozcan el solo Dios verdadero, y a Jesucristo, al cual has enviado\". Juan 17:3. ¿Por qué es que no comprendemos el valor de este conocimiento? ¿Por qué no arden estas preciosas verdades en nuestro corazón? ¿Por qué no hacen temblar nuestros labios y penetran todo nuestro ser?</p><p><br></p><p>Al concedemos su Palabra, Dios nos puso en posesión de toda verdad esencial para nuestra salvación. Millares han sacado agua de estas fuentes de vida, y sin embargo la provisión no ha disminuido. Millares han puesto al Señor delante de si, y contemplándolo han sido transformados a su misma imagen. Su espíritu arde dentro de ellos mientras hablan de su carácter, contando lo que Cristo es para ellos y lo que ellos son para Cristo. Pero estos investigadores no han agotado estos temas grandiosos y santos. Millares más pueden empeñarse en la obra de investigar los misterios de la salvación. Mientras uno se espacie en la vida de Cristo y el carácter de su misión, rayos de luz brillarán más distintamente con cada intento de descubrir la verdad. Cada nuevo estudio revelará algo más profundo e interesante que lo que ya ha sido desplegado (Exaltad a Jesús, p. 372).</p><p><br></p><p>\"Dios os haya escogido desde el principio para salvación —escribe el apóstol Pablo— mediante la santificación -por el Espíritu y la fe en la verdad\". 2 Tesalonicenses 2:13. En este pasaje se nos revelan los dos agentes de la obra de la salvación: la influencia divina, y la fe viva y fuerte de los que siguen a Cristo. Por la santificación del espíritu y por creer en la verdad, llegamos a ser colaboradores con Dios. Cristo espera la cooperación de su iglesia. Él no se propone añadir un nuevo elemento de eficiencia a su Palabra; ha hecho su gran obra al darle a ésta su inspiración. La sangre de Jesucristo, el Espíritu Santo, la Palabra divina están a nuestra disposición.</p><p>&nbsp;</p><p>El objeto de todas estas provisiones del cielo está delante de nosotros: la salvación de las almas por quienes Cristo murió; y depende de nosotros que echemos mano de las promesas que Dios ha dado, para que lleguemos a ser colaboradores juntamente con él. Las agencias divinas y humanas deben cooperar en la obra (Consejos para los maestros, pp. 22, 23).</p><p><br></p>",
-          "date": "29 de junio",
-          "day": "-",
-          "dayTitle": "<p>EFESIOS: UNA CARTA COLMADA DE CRISTO</p><p><br></p>",
-          "id": 16,
-          "idDay": 6,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Cuando el ministerio terrenal de Cristo estaba por terminar, y él comprendía que debía dejar pronto a sus discípulos para que continuaran la obra sin su superintendencia personal, trató de animarlos y prepararlos para lo futuro. No los engañó con falsas esperanzas. Como en un libro abierto leía lo que iba a suceder. Sabía que estaba por separarse de ellos y dejarlos como ovejas entre lobos. Sabía que iban a sufrir persecución, que iban a ser expulsados de las sinagogas y encarcelados. Sabía que por testificar de él como el Mesías, algunos de ellos serían muertos, y les dijo algo de esto. Al hablarles del futuro de ellos, lo hacía en forma clara y definida, para que en sus pruebas venideras pudieran recordar sus palabras y ser fortalecidos creyendo en él como el Redentor.<br><br>Les habló también palabras de esperanza y valor. \"No se turbe vuestro corazón —dijo—, creéis en Dios, creed también en mí. En la casa de mi Padre muchas moradas hay: de otra manera os lo hubiera dicho: voy, pues, a preparar lugar para vosotros. Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré a mí mismo: para que donde yo estoy, vosotros también estéis. Y sabéis a dónde yo voy; y sabéis el camino\". Juan 14:1-4. Por amor a vosotros he venido al mundo, por vosotros he trabajado. Cuando me vaya, todavía trabajaré fervientemente por vosotros. Vine al mundo para revelarme a vosotros, para que pudierais creer. Voy a mi Padre y a vuestro Padre para cooperar con él en favor vuestro (Los hechos de los apóstoles, p. 21).<br><br>Mientras Cristo ascendía, con sus manos extendidas para bendecir a sus discípulos, una nube de ángeles lo recibió y lo ocultó de su vista. Mientras los discípulos esforzaban la vista para captar el último destello de su Señor que ascendía, dos ángeles de la gozosa multitud se pararon junto a ellos y les dijeron: \"Varones galileos, ¿por qué estáis mirando al cielo? Este mismo Jesús, que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo\". Hechos 1:11.<br><br>Los discípulos se llenaron de gran gozo. Vez tras vez repitieron las palabras que Cristo les había dicho en sus últimas lecciones, tal como están registradas en los (capítulos 14, 15, 16 y 17) de Juan; y cada uno de ellos tenía alguna cosa que decir acerca de la instrucción recibida, especialmente con relación a las palabras de Juan [se citan los versículos 1-3]...<br>&nbsp;<br>La promesa de que volvería, y también el pensamiento de que les dejaría su paz, llenaron sus corazones de gozo (Alza tus ojos, p. 355).<br>Es nuestro privilegio comprender las grandes responsabilidades que Dios ha colocado sobre nosotros, de manera que no estemos en tinieblas respecto de lo que se aproxima sobre nuestro mundo. No podemos permitimos enfrentar ese día sin estar preparados, sino que, cuando pensamos en el grande y solemne evento de la venida de Cristo en las nubes de los cielos con poder y gran gloria, debiéramos vivir delante de Dios con gran humildad, no sea que caigamos de la gracia de Dios y seamos hallados indignos de la vida eterna (Alza tus ojos, p. 190).<br><br></p>",
+         "date":"5 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>EL DIOS QUE VOLVERÁ POR NOSOTROS<br><br></p>",
+         "id":16,
+         "idDay":6,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>La maravillosa gracia de Dios, \"Fuente de una influencia correcta\", 21 de septiembre, p. 272; Testimonios para los ministros, \"Orad por la lluvia tardía\", pp. 506, 507.</p>",
-          "date": "30 de junio",
-          "day": "-",
-          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
-          "id": 17,
-          "idDay": 7,
-          "idLesson": 1,
-          "quarterCode": "3T2023",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Hijos e hijas de Dios, 15 de octubre, \"Para que sean una cosa\", p. 297; Alza tus ojos, 7 de diciembre, \"¿Dónde está tu tesoro?\", p. 353.<br><br></p>",
+         "date":"6 DE OCTUBRE",
+         "day":"-",
+         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR<br></p>",
+         "id":17,
+         "idDay":7,
+         "idLesson":1,
+         "quarterCode":"4T2023",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>PABLO Y LOS EFESIOS</p>",
-      "verse": "<p>-</p>",
-      "versionCode": 10,
-      "weekDate": "24-30 de junio"
-    }
+         ]
+      }
+   ],
+   "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br></p>",
+   "verse":"<p>“Pero Dios el Señor llamó al hombre y le dijo: ‘¿Dónde estás?’ ” (Efe. 1:9, 10).<br></p>",
+   "versionCode":30,
+   "weekDate":"30 de septiembre - 6 de octubre"
+}
