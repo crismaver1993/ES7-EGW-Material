@@ -1,128 +1,129 @@
 {
-   "color":"#105ed0",
-   "finalDate":"-",
-   "id":11,
-   "idEs":22,
-   "language":"es",
-   "lessonNumber":11,
-   "lessonType":"A",
-   "quarter":"4T2023",
-   "studies":[
-      {
-         "content":"<p>La caída del hombre llenó todo el cielo de tristeza... Los ángeles suspendieron sus himnos de alabanza. Por todos los ámbitos de los atrios celestiales, había lamentos por la ruina que el pecado había causado.<br><br>El Hijo de Dios, el glorioso Soberano del cielo, se conmovió de compasión por la raza caída. Una infinita misericordia conmovió su corazón al evocar las desgracias de un mundo perdido. Pero el amor divino había concebido un plan mediante el cual el hombre podría ser redimido. La quebrantada ley de Dios exigía la vida del pecador. En todo el universo solo existía uno que podía satisfacer sus exigencias en lugar del hombre. Puesto que la ley divina es tan sagrada como el mismo Dios, solo uno igual a Dios podría expiar su transgresión. Ninguno sino Cristo podía salvar al hombre de la maldición de la ley, y colocarlo otra vez en armonía con el Cielo. Cristo cargaría con la culpa y la vergüenza del pecado, que era algo tan abominable a los ojos de Dios que iba a separar al Padre y su Hijo. Cristo descendería a la profundidad de la desgracia para rescatar la raza caída (Patriarcas y profetas, p. 48).<br><br>Para salvar a los que yerran, debemos cultivar el espíritu con que Cristo trabajó. Ellos le son tan caros como nosotros. Son igualmente capaces de ser trofeos de su gracia y herederos del reino. Pero están expuestos a las trampas del astuto enemigo, expuestos al peligro y a la contaminación, y sin la gracia salvadora de Cristo, a la ruina segura. Si nosotros considerásemos este asunto en su debida luz, ¡cómo se vivificaría nuestro celo, se multiplicarían nuestros esfuerzos fervientes y abnegados, a fin de acercarnos a aquellos que necesitan nuestra ayuda, nuestras oraciones, nuestra simpatía y nuestro amor!...<br><br>Viven tan solo para Cristo y honran su nombre aquellos que son fieles a su Maestro, tratando de salvar lo que se había perdido. La pie-dad genuina se manifestará ciertamente mediante el anhelo profundo y la ferviente labor del Salvador crucificado para salvar a aquellos por quienes murió. Si nuestro corazón está enternecido y subyugado por la gracia de Cristo, si está iluminado con un sentido de la bondad y el amor de Dios, habrá un flujo natural de amor, simpatía y ternura hacia los demás. La verdad ejemplificada en la vida ejercerá su poder, como la levadura oculta, en todos aquellos con quienes sea puesta en contacto (Testimonios para la iglesia, t. 5, pp. 570, 571).<br><br>El hombre es propiedad de Dios, y los ángeles observan con intenso interés para ver cómo tratará el hombre con sus semejantes. Cuando las inteligencias celestiales ven a los que dicen ser hijos e hijas de Dios realizar esfuerzos semejantes a los de Cristo para ayudar los errantes, y manifiestan un espíritu tierno y compasivo por los arrepentidos y caídos, los ángeles se acercan más a ellos y les hacen recordar las palabras adecuadas para aliviar y elevar el alma. Hay ángeles santos en la senda de cada uno de nosotros. No debemos despreciar a ninguno de los pequeñitos de Dios (Exaltad a Jesús, p. 203).<br><br></p>",
-         "date":"9 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE<br><br></p>",
-         "id":111,
-         "idDay":1,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+
+      "color": "#1A8CFF",
+      "finalDate": "-",
+      "id": 11,
+      "idEs": 25,
+      "language": "es",
+      "lessonNumber": 11,
+      "lessonType": "A",
+      "quarter": "1T2024",
+      "studies": [
+        {
+          "content": "<p>Anhela mi alma y aun ardientemente desea los atrios de Jehová; mi corazón y mi carne cantan al Dios vivo. Salmo 84:2...</p><p>El corazón del hombre puede ser la morada del Espíritu Santo. La paz de Cristo que sobrepuja todo entendimiento puede descansar sobre vuestra alma, y el poder transformador de su gracia puede obrar en vuestra vida, preparándoos para las cortes de gloria...</p><p>Si vuestro ojo está fijo en el blanco, si está dirigido hacia el cielo, la luz celestial llenará vuestra alma, y las cosas terrenales parecerán insignificantes e insípidas. Los propósitos del corazón cambiarán y las admoniciones de Jesús serán atendidas... Vuestros pensamientos se dirigirán a la gran recompensa de la eternidad. Todos vuestros planes se harán con respecto a la vida futura e inmortal (La maravillosa gracia de Dios, p. 251).</p><p>El templo de Dios está abierto en el cielo, y su umbral está inundado por la gloria destinada para cada iglesia que ama a Dios y guarda sus mandamientos. Necesitamos estudiar, meditar y orar. Entonces tendremos visión espiritual para discernir las cortes interiores del templo celestial. Captaremos los temas de los cantos y las acciones de gracias del coro celestial que rodea el trono. Cuando Sion se levante y brille, su luz será más penetrante, y preciosos cantos de alabanza y agradecimiento se escucharán en las reuniones de los santos. Dejarán de escucharse las murmuraciones, las quejas y los lamentos por pequeños chascos y dificultades. Al aplicarnos el colirio celestial contemplaremos la gloria que se extiende más allá. La fe irrumpirá en la sombra infernal de Satanás, y veremos a nuestro Abogado que ofrece el incienso de sus propios méritos en nuestro favor (A fin de conocerle, p. 275).</p><p>En el Santuario del tabernáculo construido en el desierto y en el del templo, que eran símbolos terrenales de la morada de Dios, había un lugar sagrado para su presencia. El velo adornado de querubines a su entrada solo debía ser alzado por una mano. Alzar aquel velo, y entrar sin invitación en el sagrado misterio del Lugar Santísimo, acarreaba la muerte, pues sobre el propiciatorio descansaba la gloria del Santo de los santos, a la que nadie podía mirar y sobrevivir. En el único día del año señalado para el desempeño de su ministerio en el Lugar Santísimo, el sumo sacerdote penetraba en él temblando ante la presencia de Dios, mientras que nubes de incienso velaban la gloria ante sus ojos. En todos los atrios del templo se acallaba todo rumor. Ningún sacerdote actuaba en los altares. Los adoradores, inclinados en silencioso temor, dirigían sus peticiones en demanda de misericordia divina...</p><p>\"Jehová está en su santo templo:</p><p>calle delante de él toda la tierra\".</p><p>\"Jehová reinó, temblarán los pueblos:</p><p>él está sentado sobre los querubines, conmoverse la tierra.</p><p>Jehová en Sion es grande,</p><p>y ensalzado sobre todos los pueblos.</p><p>Alaben tu nombre grande y tremendo: él es santo\"</p><p>(El ministerio de curación, p. 344).</p>",
+          "date": "9 de marzo",
+          "day": "-",
+          "dayTitle": "<p>EL ANHELO DE DIOS EN SION</p>",
+          "id": 111,
+          "idDay": 1,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Cristo dijo: \"Como tú me enviaste al mundo, también los he enviado al mundo\"' (Juan 17:18)... Cada alma que Cristo ha rescatado está llamada a trabajar en su nombre para la salvación de los perdidos...<br><br>Cuando te apartas de los que no parecen promisorios ni atractivos, ¿te das cuenta de que estás descuidando las almas que está buscando Cristo? En el preciso momento en que te apartas de ellos, quizá es cuando necesiten más de tu compasión. En cada reunión de culto, hay almas que anhelan descanso y paz. Quizá parezca que viven vidas descuidadas, pero no son insensibles a la influencia del Espíritu Santo. Muchas de ellas pueden ser ganadas para Cristo (Palabras de vida del gran Maestro, pp. 149, 150).<br><br>Todo el cielo está interesado en la obra de salvar a los perdidos. Los ángeles velan con sumo interés para ver quién dejará a las noventa y nueve y saldrá en la tempestad, la tormenta y la lluvia al árido desierto para buscar la oveja perdida. Los perdidos están todos a nuestro alrededor, pereciendo y tristemente abandonados. Pero son de valor ante Dios, la compra de la sangre de Cristo (En los lugares celestiales, p. 102).<br><br>Cuando os dedicáis a esta obra, tenéis compañeros invisibles para los ojos humanos. Los ángeles del cielo estaban al lado del samaritano que atendió al extranjero herido. Y están al lado de todos aquellos que prestan servicio a Dios ministrando a sus semejantes. Y tenéis la cooperación de Cristo mismo. Él es el restaurador, y mientras trabajéis bajo su dirección, veréis grandes resultados...<br><br>Cristo está tratando de elevar a todos aquellos que quieran ser elevados a un compañerismo consigo, para que podamos ser uno con él, como él es uno con el Padre. Nos permite llegar a relacionarnos con el sufrimiento y la calamidad a fin de sacarnos de nuestro egoísmo; trata de desarrollar en nosotros los atributos de su carácter: la compasión, la ternura y el amor. Aceptando esta obra de ministración, nos colocamos en su escuela, a fin de ser hechos idóneos para las cortes de Dios (Palabras de vida del gran Maestro, pp. 320, 321).<br><br>Las palabras del Salvador... indican que confió a sus seguidores una misión de alcance mundial. En los tiempos de Cristo, el orgullo, el egoísmo y el prejuicio habían levantado una muralla de separación sólida y alta entre los que habían sido designados custodios de los oráculos sagrados y las demás naciones del mundo. Cristo vino a cambiar todo esto... Cristo derribó la muralla de separación, el amor propio, y el prejuicio divisor del nacionalismo egoísta; enseñó a amar a toda la familia humana. Elevó al hombre por encima del círculo limitado que les prescribía su propio egoísmo; anuló toda frontera territorial y toda distinción artificial de las capas sociales. Para él no había diferencia entre vecinos y extranjeros ni entre amigos y enemigos. Nos enseña a considerar a cada alma necesitada como nuestro prójimo y al mundo como nuestro campo (El discurso maestro de Jesucristo, p. 38).<br><br></p>",
-         "date":" 10 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>MISIÓN A REGIONES MÁS ALEJADAS<br></p>",
-         "id":112,
-         "idDay":2,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Mi alma clama por el Dios vivo. Mi ser entero anhela al Señor. ¡Oh, si tan solo pudiera reflejar más perfectamente su imagen amorosa! ¡Oh, si pudiera consagrarme completamente a El! ¡Oh, cuán difícil le es morir al querido yo! Podemos regocijarnos en un Salvador completo; uno que nos salva de todo pecado. Debiéramos decirle a Dios diariamente: \"Ya no vivo yo, mas vive Cristo en mí para obrar tanto el querer como el hacer su buena voluntad\". A Dios sea la gloria. Sé que mi vida está escondida con Cristo en Dios.</p><p>El velo ha sido levantado. Contemplé el rico galardón reservado para los santos. He probado los gozos del mundo por venir, y me ha llevado a despreciar este mundo. Mis afectos, mis intereses, mis esperanzas, mi todo está en el cielo. Anhelo ver al Rey en su hermosura; a quien ama mi alma. Cielo, dulce cielo. Anhelo allí vivir; y el solo pensar cuán cerca está, me hace impacientar por ver a Cristo aparecer. Alabado sea el Señor por darnos esperanza de inmortalidad y de vida eterna a través de Cristo (Reflejemos a Jesús, p. 342).</p><p>Después de buscar al Señor en oración, doy gracias a mi Padre celestial por sus bendiciones. Voy a mi Padre celestial como un niño necesitado va a su padre terrenal. Sabemos que Dios debe estar interesado en nosotros, así como el padre terrenal se interesa en su hijo, pero en un sentido mucho mayor. Me coloco como su hija, y con fe sencilla le pido los pequeños favores, así como le pediría los dones mayores, creyendo que el Señor escucha la sencilla y contrita oración.</p><p>Continúo diciendo en mi corazón, me ama, quiere mi amor, y quiere que yo sea feliz. \"No quitará el bien a los que andan en integridad\". \"Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová\". \"Jehová de los ejércitos, dichoso el hombre que en ti confía\". Salmo 84:11, 12 (A fin de conocerle, p. 145).</p><p>La obra de la redención estará completa. Donde el pecado abundó, sobreabundó la gracia de Dios. La tierra misma, el campo que Satanás reclama como suyo, ha de quedar no solo redimida sino exaltada. Nuestro pequeño mundo, que es bajo la maldición del pecado la única mancha obscura de su gloriosa creación, será honrado por encima de todos los demás mundos en el universo de Dios. Aquí, donde el Hijo de Dios habitó en forma humana; donde el Rey de gloria vivió, sufrió y murió; aquí, cuando renueve todas las cosas, estará el tabernáculo de Dios con los hombres, \"morará con ellos; y ellos serán su pueblo, y el mismo Dios será su Dios con ellos\". Y a través de las edades sin fin, mientras los redimidos anden en la luz del Señor, le alabarán por su don inefable: \"Emmanuel; \"Dios con nosotros\" (El Deseado de todas las gentes, p. 18).</p>",
+          "date": "10 de marzo",
+          "day": "-",
+          "dayTitle": "<p>UN DÍA EN TUS ATRIOS ES MEJOR QUE MIL FUERA DE ELLOS</p>",
+          "id": 112,
+          "idDay": 2,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Jesús subió a una montaña y allí la muchedumbre acudió a él trayendo a sus enfermos y cojos y poniéndolos a sus pies. Él los sanaba a todos; y la gente, pagana como era, glorificaba al Dios de Israel. Durante tres días este gentío continuó rodeando al Salvador, durmiendo de noche al aire libre y de día agolpándose ávidamente para oír las palabras de Cristo y ver sus obras. Al fin de los tres días, se habían agotado sus provisiones. Jesús no quería despedir a la gente hambrienta, e invitó a sus discípulos a que le diesen alimentos. Otra vez los discípulos manifestaron su incredulidad. En Betsaida habían visto cómo, con la bendición de Cristo, su pequeña provisión alcanzó para alimentar a la muchedumbre; sin embargo, no trajeron ahora todo lo que tenían ni confiaron en su poder de multiplicarlo en favor de las muchedumbres hambrientas. Además, los que Jesús había alimentado en Betsaida eran judíos; estos eran gentiles y paganos. El prejuicio judío era todavía fuerte en el corazón de los discípulos, y respondieron a Jesús: \"¿De dónde podrá alguien hartar a estos de pan aquí en el desierto?\" Pero, obedientes a su palabra, le trajeron lo que tenían: siete panes y dos peces. La muchedumbre fue alimentada, y sobraron siete grandes cestos de fragmentos. Cuatro mil hombres, además de las mujeres y los niños, repararon así sus fuerzas, y Jesús los despidió llenos de alegría y gratitud (El Deseado de todas las gentes, pp. 371, 372).<br><br>Como pueblo no estamos suficientemente despiertos ante el corto tiempo en el cual nos toca trabajar, y no entendemos la magnitud de la obra para este tiempo. La noche pronto viene, en la cual nadie puede obrar. Dios llama a hombres y mujeres que tengan las cualidades necesarias —consagración a la voluntad divina y fervor en el estudio de las Escrituras—, para hacer su obra especial en estos últimos días. Él llama ahora a hombres que puedan trabajar. A medida que se empeñan en la tarea con sinceridad y humildad para hacer todo lo que puedan, obtendrán una experiencia más completa. Tendrán un conocimiento mejor de la verdad y de los métodos para alcanzar a las almas y ayudarlas, precisamente cuando necesitan ser ayudadas. Se necesitan obreros ahora, ahora mismo, para trabajar por Dios. Los campos ya están blancos para la siega, y sin embargo los obreros son pocos (Notas biográficas de Elena G. de White, p. 234).<br><br>Hay una posibilidad de que el creyente en Cristo obtenga una experiencia que será del todo suficiente para colocarlo en correcta relación con Dios. Cada promesa que está en el Libro de Dios nos hace resaltar el ánimo de que podemos ser participantes de la naturaleza divina. Esta es la posibilidad: de descansar en Dios, de creer su Palabra, de efectuar sus obras... Esa posibilidad vale más para nosotros que todas las riquezas del mundo. No hay nada en la tierra que podamos comparar con ella. Al aferrarnos del poder que es así colocado dentro de nuestro alcance, recibimos una esperanza tan poderosa que podemos descansar plenamente sobre las promesas de Dios; y aferrándonos de las posibilidades que hay en Cristo, llegamos a ser los hijos y las hijas de Dios (En los lugares celestiales, p. 34).<br><br></p>",
-         "date":"11 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>EN BUSCA DE LAS MULTITUDES<br></p>",
-         "id":113,
-         "idDay":3,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Por todo el país, grupos de peregrinos se dirigían hacia Jerusalén. Los pastores que habían dejado por el momento sus rebaños y sus montes, así como los pescadores del mar de Galilea, los labradores de los campos y los hijos de los profetas que acudían de las escuelas sagradas, todos dirigían sus pasos hacia el sitio donde se revelaba la presencia de Dios. Viajaban en cortas etapas, pues muchos iban a pie. Las caravanas veían continuamente aumentar sus filas, y a menudo se hacían muy numerosas antes de llegar a la santa ciudad.</p><p>La alegría de la naturaleza despertaba alborozo en el corazón de Israel y gratitud hacia el Dador de todas las cosas buenas. Se cantaban los grandiosos salinos hebreos que ensalzaban la gloria y la majestad de Jehová. A la señal de la trompeta, con acompañamiento de címbalos, se elevaba el coro de agradecimiento, entonado por centenares de voces:</p><p>\"Yo me alegré con los que me decían:</p><p>A la casa de Jehová iremos.</p><p>Nuestros pies estuvieron</p><p>en tus puertas, oh Jerusalem...</p><p>Y allá subieron las tribus, las tribus de JAH...</p><p>Para alabar el nombre de Jehová...</p><p>Pedid la paz de Jerusalem:</p><p>Sean prosperados los que te aman\". Salmo 122:1-6</p><p>(Historia de los patriarcas y profetas, p. 579).</p><p>Cristo había mandado a los primeros discípulos que se amasen unos a otros como él los había amado. Así debían testificar al mundo que Cristo, la esperanza de gloria, se había desarrollado en ellos. \"Un mandamiento nuevo os doy —había dicho—: Que os améis unos a otros: como os he amado, que también os améis los unos a los otros\". Juan 13:34. Cuando se dijeron esas palabras, los discípulos no las pudieron entender; pero después de presenciar los sufrimientos de Cristo, después de su crucifixión, resurrección y ascensión al cielo, y después que el Espíritu Santo descendió sobre ellos en Pentecostés, tuvieron un claro concepto del amor de Dios y de la naturaleza del amor que debían tener el uno con el otro. Entonces Juan pudo decir a sus condiscípulos:</p><p>\"En esto hemos conocido el amor, porque él puso su vida por nosotros: también nosotros debemos poner nuestras vidas por los hermanos\"...</p><p>En su asociación diaria, revelaban el amor que Cristo les había enseñado. Por medio de palabras y hechos desinteresados, se esforzaban por despertar ese sentimiento en otros corazones (Los hechos de los apóstoles, pp. 436, 437).</p><p>El glorioso evangelio, el mensaje del amor redentor de Dios, debe llegar a toda la gente, y se debe manifestar en el corazón de los obreros. El tema de la gracia salvadora es un antídoto para la aspereza de espíritu. El amor de Cristo en el corazón se manifestará mediante una obra ferviente en favor de la salvación de las almas...</p><p>Sea presentado el evangelio como la Palabra de Dios para vida y salvación. El evangelio será ensalzado mediante la manifestación de un espíritu que obra por amor. \"¡Cuán hermosos son sobre los montes los pies del que trae alegres nuevas, del que anuncia la paz\". Isaías 52:7 (Cada día con Dios, p. 295).</p>",
+          "date": "11 de marzo",
+          "day": "-",
+          "dayTitle": "<p>OREN POR LA PAZ DE JERUSALÉN</p>",
+          "id": 113,
+          "idDay": 3,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Mirando hacia el occidente, [Jesús] podía ver dispersas por la llanura que se extendía abajo las antiguas ciudades de Tiro y Sidón, con sus templos paganos, sus magníficos palacios y emporios de comercio, y los puertos llenos de embarcaciones cargadas. Más allá, se encontraba la expansión azul del Mediterráneo, por el cual los mensajeros del evangelio iban a llevar las buenas nuevas hasta los centros del gran imperio mundial. Pero el tiempo no había llegado todavía. La obra que le esperaba ahora consistía en preparar a sus discípulos para su misión...<br><br>Los habitantes de esta región pertenecían a la antigua raza cana-nea. Eran idólatras, despreciados y odiados por los judíos. A esta clase pertenecía la mujer que ahora había venido a Jesús. Era pagana, y por lo tanto estaba excluida de las ventajas que los judíos disfrutaban diariamente. Había muchos judíos que vivían entre los fenicios, y las noticias de la obra de Cristo habían penetrado hasta esa región...<br><br>Cristo conocía la situación de esta mujer. Él sabía que ella anhelaba verle, y se colocó en su camino. Ayudándola en su aflicción, él podía dar una representación viva de la lección que quería enseñar. Para esto había traído a sus discípulos. Deseaba que ellos viesen la ignorancia existente en las ciudades y aldeas cercanas a la tierra de Israel. El pueblo al cual había sido dada toda oportunidad de comprender la verdad no conocía las necesidades de aquellos que le rodeaban. No hacía ningún esfuerzo para ayudar a las almas que estaban en tinieblas. El muro de separación que el orgullo judío había erigido impedía hasta a los discípulos sentir simpatía por el mundo pagano. Pero las barreras debían ser derribadas (El Deseado de todas las gentes, pp. 365, 366).<br><br>Durante su ministerio terrenal, Cristo empezó a derribar la pared divisoria levantada entre los judíos y gentiles, y a predicar la salvación a toda la humanidad. Aunque era judío, trataba libremente con los samaritanos y anulaba las costumbres farisaicas de los judíos con respecto a ese pueblo despreciado. Dormía bajo sus techos, comía junto a sus mesas, y enseñaba en sus calles.<br><br>El Salvador anhelaba exponer a sus discípulos la verdad concerniente al derribamiento de la \"pared intermedia de separación\" entre Israel y las otras naciones: la verdad de que \"los Gentiles sean junta-mente herederos\" con los judíos, y \"consortes de su promesa en Cristo por el evangelio.\" Efesios 2:14; 3:6. Esta verdad fue revelada en parte cuando recompensó la fe del centurión de Capemaum, y también cuan-do predicó el evangelio a los habitantes de Sicar. Fue revelada todavía más claramente en ocasión de su visita a Fenicia, cuando sanó a la hija de la mujer cananea. Estos incidentes ayudaron a sus discípulos a comprender que entre aquellos a quienes muchos consideraban indignos de la salvación, había almas ansiosas de la luz de la verdad (Los hechos de los apóstoles, pp. 16, 17).<br><br></p>",
-         "date":"12 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>EN TIRO Y SIDÓN<br></p>",
-         "id":114,
-         "idDay":4,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Las naciones de los salvos no conocerán otra ley que la del cielo. Todos constituirán una familia feliz y unida, ataviada con las vestiduras de alabanza y agradecimiento. Al presenciar la escena, las estrellas de la mañana cantarán juntas, y los hijos de los hombres aclamarán de gozo, mientras Dios y Cristo se unirán para proclamar: No habrá más pecado ni muerte\"...</p><p>\"Ciertamente consolará Jehová a Sión: consolará todas sus soledades, y tornará su desierto como paraíso, y su soledad como huerto de Jehová\". \"La gloria del Líbano le será dada, la hermosura de Carmel y de Sarón\". \"No te llamarán ya más la 'Desamparada,' ni se llamará tu tierra 'Desierta,' sino que te llamarán a ti 'Mi complacencia en ella,' y a tu tierra 'Desposada.' ... Como la esposa hace las delicias del esposo, así harás tú las delicias de tu Dios\". Isaías 66:23; 40:5; 61: 11; 28:5; 51:3; 35:2; 62:4, 5 (VNC) (Profetas y reyes, pp. 541, 542).</p><p>Así el reino de Cristo al principio parecía humilde e insignificante. Comparado con los reinos de la tierra parecía el menor de todos. La aseveración de Cristo de que era rey fue ridiculizada por los gobernantes de este mundo. Sin embargo, en las grandes verdades encomendadas a los seguidores de Cristo, el reino del evangelio poseía una vida divina. ¡Y cuán rápido fue su crecimiento, cuán amplia su influencia! Cuando Cristo pronunció esta parábola, había solamente unos pocos campesinos galileos que representaban el nuevo reino. Su pobreza, lo escaso de su número, era presentado repetidas veces como razón por la cual los hombres no debían unirse con estos sencillos pescadores que seguían a Jesús. Pero la semilla de mostaza había de crecer y extender sus ramas a través del mundo. Cuando pereciesen los gobiernos terrenales, cuya gloria llenaba entonces los corazones humanos, el reino de Cristo seguiría siendo una Fuerza poderosa y de vasto alcance...</p><p>Y en esta última generación la parábola de la semilla de mostaza ha (le alcanzar un notable y triunfante cumplimiento. La pequeña simiente llegará a ser un árbol. El último mensaje de amonestación y misericordia ha de ir a \"toda nación y tribu y lengua\" (Apocalipsis 14:6-14) \"para tomar de ellos pueblo para su nombre\". Hechos 15:14 (La maravillosa gracia de Dios, p. 17).</p><p>La constante preocupación de nuestros corazones debería ser: ¿Qué puedo hacer para salvar las almas por las cuales Cristo murió? Alrededor de mí hay almas preciosas, sumidas en la maldad, que van a perecer a menos que alguien trabaje por su salvación. ¿Qué puedo hacer para alcanzar a esas almas errantes, para llevarlas a la gloriosa ciudad de Dios, y presentarlas delante del trono diciendo: \"Aquí estoy yo y los hijos que me diste'\"? ...</p><p>Dios le ha asignado a cada cual su tarea... Los siervos fieles no perderán su recompensa. Obtendrán la vida eterna y el \"bien, buen siervo y fiel\" (Mateo 25:23) descenderá como dulce música hasta sus oídos (Cada día con Dios, p. 216).</p>",
+          "date": "12 de marzo",
+          "day": "-",
+          "dayTitle": "<p>SION: EL HOGAR DE TODAS LAS NACIONES</p>",
+          "id": 114,
+          "idDay": 4,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>El Salvador manifestó compasión divina hacia la mujer sirofenicia. Su corazón fue conmovido al contemplar su aflicción. Anhelaba darle una seguridad inmediata de que su oración había sido escuchada; pero quería enseñar una lección a sus discípulos, y por un momento pareció desatender el clamor de su corazón torturado. Cuando la fe de la mujer se hubo manifestado, le dirigió palabras de encomio, y la envió con la preciosa bendición que había pedido. Los discípulos nunca olvidaron esta lección, y fue registrada para demostrar el resultado de la oración perseverante.<br><br>Fue Cristo mismo quien puso en el corazón de aquella madre la persistencia que no pudo ser rechazada. Fue Cristo el que concedió valor y determinación ante el juez a la viuda suplicante. Fue Cristo quien, siglos antes, en el conflicto misterioso desarrollado junto al Jaboc, había inspirado a Jacob la misma fe perseverante. Y no dejó sin recompensar la confianza que él mismo había implantado (Palabras de vida del gran Maestro, pp. 138, 139).<br><br>Jesús conoce la carga del corazón de toda madre. Aquel cuya madre luchó con la pobreza y las privaciones simpatiza con toda madre apenada. El que hiciera un largo viaje para aliviar el corazón angustiado de una cananea, hará otro tanto por las madres de hoy. El que devolvió a la viuda de Naín su único hijo, y en su agonía de la cruz se acordó de su propia madre, se conmueve hoy por el pesar de las madres. Él las consolará y auxiliará en toda aflicción y necesidad...<br><br>En los niños allegados a él, veía el Salvador a hombres y mujeres que serían un día herederos de su gracia y súbditos de su reino, y algunos, mártires por su causa. Sabía que aquellos niños le escucharían y le aceptarían por Redentor con mejor voluntad que los adultos, muchos de los cuales eran sabios según el mundo, pero duros de corazón. Al enseñarles, se colocaba al nivel de ellos. El, la Majestad de los cielos, respondía a sus preguntas y simplificaba sus importantes lecciones para que las comprendiera su inteligencia infantil. Plantaba en la mente de ellos la semilla de la verdad, que años después brotaría y llevaría fruto para vida eterna (El ministerio de curación, p. 27).<br><br>Si no se lleva la oveja perdida de vuelta al aprisco, vaga hasta que perece, y muchas almas descienden a la ruina por falta de una mano que se extienda para salvarlas. Los que van errantes pueden parecer duros e indiferentes; pero si hubieran tenido las mismas ventajas que otros han tenido, habrían revelado mayor nobleza de alma, y mayor talento para la utilidad. Los ángeles se compadecen de ellos. Los ángeles lloran mientras los ojos humanos están secos y los corazones cerrados a la piedad.<br><br>¡Oh, la falta de simpatía profunda y enternecedora por los tentados y errantes! ¡Oh, más del espíritu de Cristo, y menos, mucho menos del yo! (Palabras de vida del gran Maestro, p. 150).<br><br></p>",
-         "date":"13 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>\"DESPÍDELA\"<br></p>",
-         "id":115,
-         "idDay":5,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Bienaventurado el hombre que tiene en ti sus fuerzas. Salmo 84:5…</p><p>[La vida de Enoc] fue lo que puede ser la vida de cada persona que vive cerca de Dios. Debiéramos recordar que Enoc estuvo rodeado de influencias impías. La sociedad que lo rodeaba era tan depravada que Dios trajo el diluvio sobre el mundo para destruir a sus habitantes, a causa de su corrupción...</p><p>José conservó su integridad cuando estuvo rodeado de idólatras en Egipto, en medio del pecado, la blasfemia e influencias corruptoras. Cuando fue tentado a apartarse de la senda de la virtud su respuesta fue: \"¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?\" Génesis 39:9. Enoc, José y Daniel dependieron de una fuerza que era infinita; y este es el único camino seguro para los cristianos de hoy (Reflejemos a Jesús, p. 299).</p><p>Ya ha llegado el tiempo en que en un momento podremos estar pisando tierra firme, y en el siguiente la tierra estará moviéndose debajo de nuestros pies. Ocurrirán terremotos cuando menos se los espere.</p><p>En incendios, inundaciones, terremotos, en la furia de las grandes profundidades, en calamidades por mar y tierra, se da la advertencia de que el Espíritu de Dios no contenderá para siempre con el hombre.</p><p>Antes de que el Hijo del hombre aparezca en las nubes del cielo todo estará convulsionado en la naturaleza. Rayos del cielo unidos con el fuego interno de la tierra harán que las montañas ardan como un horno y que hagan fluir sus torrentes de lava sobre aldeas y ciudades. Masas de rocas derretidas, arrojadas dentro del agua por el solevantamiento de cosas ocultas dentro de la tierra, harán que hierva el agua y despida rocas y tierra. Habrá formidables terremotos y gran destrucción de vidas humanas (Eventos de los últimos días, pp. 25, 26).</p><p>Si hoy tomásemos tiempo para ir a Jesús y contarle nuestras necesidades, no quedaríamos chasqueados; él estaría a nuestra diestra para ayudarnos. Necesitamos más sencillez, más confianza en nuestro Salvador...</p><p>En todos los que reciben la preparación divina, debe revelarse una vida que no está en armonía con el mundo, sus costumbres o prácticas; y cada uno necesita tener experiencia personal en cuanto a obtener el conocimiento de la voluntad de Dios. Debemos oírle individualmente hablarnos al corazón. Cuando todas las demás voces quedan acalladas, y en la quietud esperamos delante de él, el silencio del alma hace más distinta la voz de Dios. Nos invita: \"Estad quietos, y conoced que yo soy Dios\". Salmo 46:10. Solamente allí puede encontrarse verdadero descanso. Y esta es la preparación eficaz para todo trabajo que se haya de realizar para Dios. Entre la muchedumbre apresurada y el recargo de las intensas actividades de la vida, el alma que es así refrigerada quedará rodeada de una atmósfera de luz y de paz. La vida respirará fragancia, y revelará un poder divino que alcanzará a los corazones humanos (El Deseado de todas las gentes, pp. 330, 331).</p>",
+          "date": "13 de marzo",
+          "day": "-",
+          "dayTitle": "<p>SEGURIDAD Y PAZ DE SION</p>",
+          "id": 115,
+          "idDay": 5,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Así como los rayos del sol penetran hasta las partes más remotas del mundo, Dios quiere que el evangelio llegue a toda alma en la tierra. Si la iglesia de Cristo cumpliera el propósito del Señor, se derramaría luz sobre todos los que moran en las tinieblas y en regiones de sombra de muerte. En vez de agruparse y rehuir la responsabilidad y el peso de la cruz, los miembros de la iglesia deberían dispersarse por todos los países para irradiar la luz de Cristo y trabajar como él por la salvación de las almas. Así este \"evangelio del reino\" sería pronto llevado a todo el mundo.<br><br>De esta manera ha de cumplirse el propósito de Dios al llamar a su pueblo, desde Abraham en los llanos de Mesopotamia hasta nosotros en el siglo actual (El discurso maestro de Jesucristo, pp. 38, 39).<br><br>Cristo renunció a todo para poder llevar la salvación a todo pueblo, nación y lengua. Tendió un puente sobre el abismo que había abierto el pecado, para que por sus méritos el hombre pudiera reconciliarse con Dios. ¿Por qué no hay un ejército de obreros alistados bajo el estandarte ensangrentado del Príncipe Emanuel, listos para salir a... traer almas de Ices tinieblas a la luz? ¿Por qué no enseñamos a los que perecen a creer en Cristo como su Salvador personal, ayudarlos a ver a Cristo mediante la le, y a lavarse en la fuente que ha sido abierta para limpiar los pecados del inundo? Debemos enseñarles cómo despojarse de sus viejas vestiduras de carácter manchadas por el pecado, y cómo revestirse de la justicia de Cristo. Debemos plantar en sus mentes entenebrecidas los pensamientos elevadores y ennoblecedores de los temas celestiales. Debemos conducir a los contaminados a una vida pura y santa mediante la fe, la simpatía y el ejemplo semejantes a los de Cristo. Debemos vivir una vida tal ante ellos que disciernan la diferencia entre el error y el vicio, y la pureza, la rectitud y la santidad (The Southern Work, p. 27).<br><br>En las ciudades populosas hay ciertas clases sociales que no es posible alcanzar por medio de reuniones públicas. Los miembros de estas clases deben buscarse así como el pastor busca a la oveja perdida. Hay que buscarlos con esfuerzo diligente y personal. Cuando se des-cuida la obra personal, se pierden numerosas oportunidades preciosas, las cuales, si se aprovecharan, harían progresar definidamente la obra...<br>Quienes desean investigar la verdad, necesitan que se les enseñe a estudiar con diligencia la Palabra de Dios. Alguien debe ayudarles a construir sobre firme fundamento. En este momento crítico de su experiencia religiosa, es muy importante que obreros bíblicos dirigidos con sabiduría les ayuden a comprender los tesoros de la Palabra de Dios (Testimonios para la iglesia, t. 9, pp. 90, 91).<br><br></p>",
-         "date":"14 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>¿FE, EN LA TIERRA?<br></p>",
-         "id":116,
-         "idDay":6,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>Los saduceos y fariseos resolvieron conjuntamente hacer cesar la obra de los discípulos, pues demostraban su culpabilidad en la muerte de Jesús. Poseídos de indignación, los sacerdotes echaron violentamente mano a Pedro y Juan y los pusieron en la cárcel pública.&nbsp;</p><p>No se intimidaron ni se abatieron los discípulos por semejante trato... El Dios del cielo, el poderoso Gobernador del universo, tomó por su cuenta el asunto del encarcelamiento de los discípulos, porque los hombres guerreaban contra su obra. Por la noche, el ángel del Señor abrió las puertas de la cárcel y dijo a los discípulos: \"Id, y estando en el templo, hablad al pueblo todas las palabras de esta vida\". Hechos 5:20.</p><p>Poco antes de su crucifixión, Cristo había dejado a sus discípulos un legado de paz: \"La paz os dejo —dijo—, mi paz os doy... Esta paz no es la paz que proviene de la conformidad con el mundo. Cristo nunca procuró paz transigiendo con el mal. La que Cristo dejó a sus discípulos  es interior más bien qué exterior, y había de permanecer para siempre con sus testigos a través de las luchas y contiendas (Exaltad a Jesús, p. 222).</p><p>¿Cuál fue la fortaleza de los que en tiempos pasados padecieron persecución por causa de Cristo? Consistió en su unión con Dios, con el Espíritu Santo y con Cristo. El vituperio y la persecución han separa-do a muchos de sus amigos terrenales, pero nunca del amor de Cristo. Nunca es tan amada de su Salvador el alma combatida por las tormentas de la prueba como cuando padece afrenta por la verdad. \"Yo le amaré, y me manifestaré a él\", dijo Cristo. Juan 14:21. Cuando el creyente se sienta en el banquillo de los acusados ante los tribunales terrenales por causa de la verdad, está Cristo a su lado. Cuando se ve recluido entre las paredes de una cárcel, Cristo se le manifiesta y le consuela con su amor. ( 'liando padece la muerte por causa de Cristo, el Salvador le dice: Podrán malar el cuerpo, pero no podrán dañar el alma...</p><p>\"Los que confían en Jehová son como el monte de Sión, que no deslizará: estará para siempre. Como Jerusalem tiene montes alrededor de ella, así Jehová alrededor de su pueblo desde ahora y para siempre\". \"De engaño y de violencia redimirá sus almas; y la sangre de ellos será preciosa en sus ojos\". Salmo 125:1, 2 (Los hechos de los apóstoles, pp. 70, 71).</p><p>El peligro acecha en medio de la prosperidad. A través de los siglos, las riquezas y los honores han hecho peligrar la humildad y la espiritualidad. No es la copa vacía la que nos cuesta llevar; es la que rebosa la que debe ser llevada con cuidado. La aflicción y la adversidad pueden ocasionar pesar; pero es la prosperidad la que resulta más peligrosa para la vida espiritual. A menos que el súbdito humano esté constantemente sometido a la voluntad de Dios, a menos que esté santificado por la verdad, la prosperidad despertará la inclinación natural a la presunción (Profetas y reyes, p. 43).</p>",
+          "date": "14 de marzo",
+          "day": "-",
+          "dayTitle": "<p>INAMOVIBLE COMO EL MONTE SION</p>",
+          "id": 116,
+          "idDay": 6,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      },
-      {
-         "content":"<p>Mi vida hoy, 24 de junio, \"El inmenso poder del amor\", p. 183; Notas biográficas de Elena G. de White, \"Sembrar sobre todas las aguas\", pp. 235, 236.<br><br></p>",
-         "date":"15 DE DICIEMBRE",
-         "day":"-",
-         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR<br><br></p>",
-         "id":117,
-         "idDay":7,
-         "idLesson":11,
-         "quarterCode":"4T2023",
-         "verses":[
+          ]
+        },
+        {
+          "content": "<p>La fe por la cual vivo, 29 de enero, \"Santificado para el culto\", p. 37;</p><p>Cada día con Dios, 16 de noviembre, \"Nuestro refugio y fortaleza\", p. 327.</p>",
+          "date": "15 de marzo",
+          "day": "-",
+          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
+          "id": 117,
+          "idDay": 7,
+          "idLesson": 11,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "verse":"",
-               "verseText":""
+              "verse": "",
+              "verseText": ""
             }
-         ]
-      }
-   ],
-   "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE<br></p>",
-   "verse":"<p>“Entonces Jesús respondió: ‘Mujer, ¡grande es tu fe! Sea hecho como quieres’. Y su hija quedó sana desde esa hora” (Mat. 15:28).<br></p>",
-   "versionCode":30,
-   "weekDate":"9-16 Diciembre"
-}
+          ]
+        }
+      ],
+      "title": "<p>EL ANHELO DE DIOS EN SION</p>",
+      "verse": "<p>“Anhelo y ardientemente deseo los atrios del Señor. Mi corazón y mi carne cantan al Dios vivo” (Sal. 84:2).</p>",
+      "versionCode": 100,
+      "weekDate": "9-15 de marzo"
+    }
