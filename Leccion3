@@ -1,129 +1,128 @@
-{
-
-         "color":"#105ed0",
-         "finalDate":"-",
-         "id":3,
-         "idEs":22,
-         "language":"es",
-         "lessonNumber":3,
-         "lessonType":"A",
-         "quarter":"4T2023",
-         "studies":[
+ {
+      "color": "#1A8CFF",
+      "finalDate": "-",
+      "id": 3,
+      "idEs": 25,
+      "language": "es",
+      "lessonNumber": 3,
+      "lessonType": "A",
+      "quarter": "1T2024",
+      "studies": [
+        {
+          "content": "<p>Dios invita a los hombres a verle en las maravillas de los cielos. \"Levantad en alto vuestros ojos —dice— y mirad quién creó estas cosas; él saca y cuenta su ejército; a todas llama por sus nombres; ninguna faltará; tal es la grandeza de su fuerza, y el poder de su dominio\". Isaías 40:26. Dios quiere que estudiemos las obras del infinito, y aprendamos de ese estudio a amarle, reverenciarle y obedecerle. Los cielos y la tierra, con sus tesoros, enseñan las lecciones del amor de Dios, de su cuidado y poder.</p><p>Dios invita a sus criaturas a apartar su atención de la perplejidad que los rodea, y a admirar las obras de sus manos. Mientras las estudiamos, los ángeles del cielo estarán a nuestro lado para iluminar nuestra mente, y protegerla contra los engaños de Satanás...&nbsp;</p><p>El salmista declara: \"Mi corazón ha dicho de ti: Buscad mi rostro. Tu rostro buscaré, oh Jehová\". Salmo 27:8... El Salmo 81 explica por qué fue dispersado Israel, por olvidarse de Dios, como las iglesias de nuestra tierra están olvidándole hoy. Considérense también los. Salmos 89, 90, 91, 92 y 93.</p><p>Estas cosas fueros escritas para nuestra admonición, en quienes los fines de los siglos han parado; ¿y no debieran ser estudiadas en nuestras escuelas? La Palabra de Dios contiene lecciones instructivas, dadas en reprensión, amonestación, estímulo y ricas promesas (Consejos para los maestros, pp. 441, 442).</p><p>Nuestro Dios tiene a su disposición el cielo y la tierra y sabe exactamente lo que necesitamos. Solo podemos ver hasta corta distancia delante de nosotros; mas \"todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta\". Hebreos 4:13. Por sobre las perturbaciones de la tierra está él entronizado; y todas las cosas están abiertas a su visión divina; y desde su grande y serena eternidad ordena aquello que su providencia ve que es lo mejor.</p><p>Ni siquiera un pajarillo cae al suelo sin que lo note el Padre. El odio de Satanás contra Dios le induce a deleitarse en destruir hasta los animales. Y solo por el cuidado protector de Dios son preservadas las aves para alegrarnos con sus cantos de gozo. Pero él no se olvida siquiera de los pajarillos. \"Así que, no temáis; más valéis vosotros que muchos pajarillos\". Mateo 10:31 (Testimonios para la iglesia, t. 8, p. 285).</p><p>Cuando se fija la atención sobre la cruz de Cristo, todo el ser se ennoblece. El conocimiento del amor del Salvador subyuga el alma, y eleva la mente por encima de las cosas del tiempo y los sentidos. Aprendamos a valorar todas las cosas temporales a la luz que brilla de la cruz. Esforcémonos por sondear las profundidades de humillación a las cuales descendió nuestro Salvador con el fin de hacer que el hombre poseyera las riquezas eternas. A medida que estudiamos el plan de redención, el corazón sentirá los latidos del amor del Salvador, y quedará cautivado por el encanto de su carácter (Exaltad a Jesús, p. 242).</p>",
+          "date": "13 de enero",
+          "day": "-",
+          "dayTitle": "<p>EL SEÑOR REINA</p>",
+          "id": 31,
+          "idDay": 1,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
             {
-               "content":"<p>El Ángel del pacto está dotando a sus siervos de poder para que lleven la verdad a todas partes del mundo. Ha enviado a sus ángeles con el mensaje de misericordia; pero, como si no se apresuraran lo suficiente para satisfacer el amoroso anhelo de su corazón, coloca sobre dada miembro de su iglesia la responsabilidad de proclamar este mensaje. \"El que oye, diga: ¡Ven!\"' Todo miembro de iglesia ha de mostrar su lealtad invitando a los sedientos a beber del agua de la vida. Una cadena de testigos vivientes ha de llevar la invitación al mundo. ¿Realizarás tu parte en esta gran obra?<br><br>Cristo llama a muchos misioneros, tanto hombres como mujeres, para que se consagren a Dios, y estén dispuestos a gastar y ser gastados en su servicio. ¡Oh!, ¿podemos dejar de recordar que existe un mundo por el cual trabajar? ¿No avanzaremos paso a paso permitiendo que Dios nos use como su mano ayudadora? ¿No nos colocaremos sobre el altar del servicio? Entonces el amor de Cristo nos tocará y transformará, convirtiéndonos, por su causa, en personas dispuestas a trabajar con osadía (El colportor evangélico, p. 19).<br><br>Dios nos ha dado el don del habla para que podamos relatar a otros cómo él nos trata, para que su amor y compasión pueda conmover a otros corazones, y que de otras almas puedan elevarse también alabanza a Aquel que nos ha llamado de las tinieblas a su luz admirable. El Señor ha dicho: \"Vosotros sois mis testigos\". Isaías 43:10. Pero todos los que son llamados a testificar por Cristo, deben aprender de él a fin de ser testigos eficientes. Como hijos del Rey celestial, deben educarse para dar testimonio en voz clara y distinta, y de tal manera que nadie pueda recibir la impresión de que les cuesta hablar de la misericordia del Señor (Consejos para los maestros, p. 230).<br>En un sentido muy especial, los adventistas del séptimo día han sido colocados en el mundo como centinelas y transmisores de luz. A ellos ha sido confiada la tarea de dirigir la última amonestación a un mundo que perece. La Palabra de Dios proyecta sobre ellos una luz maravillosa. Una obra de la mayor importancia les ha sido confiada: proclamar los mensajes del primero, segundo y tercer ángeles. Ninguna otra obra puede ser comparada con esta y nada debe desviar nuestra atención de ella.<br>&nbsp;<br>Las verdades que debemos proclamar al mundo son las más solemnes que jamás hayan sido confiadas a seres mortales. Nuestra tarea consiste en proclamarlas. El mundo debe ser amonestado, y el pueblo de Dios tiene que ser fiel a su cometido...<br><br>No es un hecho de poca importancia que Dios nos haya revelado con tanta claridad sus planes y sus consejos. Comprender la voluntad de Dios, tal como está revelada en la segura palabra profética, es para nosotros un maravilloso privilegio, pero nos impone una pesada responsabilidad. Dios espera que impartamos a otros el conocimiento que nos ha dado (Testimonios para la iglesia, t. 9, p. 17).<br><br></p>",
-               "date":"14 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>EL LLAMADO DE DIOS A LA MISIÓN<br><br></p>",
-               "id":31,
-               "idDay":1,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>Los moradores de la llanura de Sinar establecieron su reino para su exaltación propia, no para la gloria de Dios. Si hubieran tenido éxito, hubiera nacido un imperio poderoso, que, proscribiendo la justicia, inauguraría una nueva religión. El mundo se hubiera desmoralizado... Pero Dios nunca deja al mundo sin testigos suyos. En esa época había hombres que se humillaban ante Dios y oraban a él. \"Oh, Señor\", rogaban, \"interponte entre tu causa y los planes y métodos del hombre\"...<br><br>De repente, la obra que había estado avanzando tan prósperamente fue interrumpida. Fueron enviados ángeles para anular los propósitos de los edificadores... Esto produjo confusión y consternación. Toda la obra se detuvo...<br><br>\"Así los esparció Jehová desde allí sobre la faz de toda la tierra\". Esta dispersión obligó a los hombres a poblar la tierra, y el propósito de Dios se alcanzó por el medio empleado por ellos para evitarlo.<br><br>En nuestros días el Señor desea que su pueblo sea dispersado por toda la tierra. No deben colonizar. Jesús dijo: \"Id por todo el mundo y predicad el evangelio a toda criatura\". Marcos 16:15 (Conflicto y valor, p. 43).<br><br>El mundo caído es el campo de batalla del mayor conflicto que el universo celestial y los poderes de la tierra hayan presenciado jamás. Fue señalado como el escenario en el cual se libraría la mayor lucha entre el bien y el mal, entre el cielo y el infierno. Todo ser humano desempeña una parte en este conflicto. Nadie puede permanecer en terreno neutral. Los hombres pueden aceptar o rechazar al Redentor del mundo. Todos son testigos, en favor o en contra de Cristo. Cristo llama a los que se alistan bajo su estandarte para que entren con él en el conflicto como fieles soldados, para que puedan heredar la corona de la vida. Han sido adoptados como hijos e hijas de Dios. Cristo les ha dejado su promesa segura de que habrá un gran galardón en el reino de los cielos para que participen en su humillación y sufrimientos por causa de la verdad (Hijos e hijas de Dios, p. 244).<br><br>El fiel embajador de Cristo no se avergüenza de la bandera de la cruz. No deja de proclamar la verdad por impopular que sea. En todo lugar, a tiempo y fuera de tiempo, proclama las buenas nuevas de la salvación. Los misioneros de Dios son llamados a enfrentar peligros, a soportar privaciones y a sufrir vituperio por causa de la verdad. Pero en medio de los peligros, de las privaciones y del vituperio, aún deben mantener en alto la bandera...<br><br>Estos testigos de los últimos días son osados soldados de Jesucristo. Han gustado los poderes del mundo por venir. Sus pies no están en arenas movedizas sino sobre la roca sólida. No son alejados fácilmente de la fe una vez dada a los santos. Serán fortalecidos por su Dirigente para enfrentar las dificultades. Son mensajeros de justicia, representantes de Cristo que revelan los triunfos de la gracia (Reflejemos a Jesús, p. 339).<br><br></p>",
-               "date":"15 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>SALIR DE NUESTRA ZONA DE CONFORT<br></p>",
-               "id":32,
-               "idDay":2,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>La sentencia pronunciada contra Satanás: \"Enemistad pondré entre ti y la mujer, y entre tu simiente y la simiente suya; esta te herirá en la cabeza, y tú le herirás en el calcañar\" (Génesis 3:15), era para nuestros primeros padres la promesa de la redención que iba a obrarse por Cristo...<br><br>El Mesías había de ser del linaje real; porque en la profecía pronunciada por Jacob el Señor dijo: \"No será quitado el cetro de Judá, y el legislador de entre sus pies, hasta que venga Shiloh; y a él se congregarán los pueblos\". Génesis 49:10.<br><br>Isaías profetizó... haré con vosotros pacto eterno, las misericordias firmes de David. He aquí, que yo lo di por testigo a los pueblos, por jefe y por maestro a las naciones. He aquí, llamarás a gente que no conociste, y gentes que no te conocieron correrán a ti; por causa de Jehová tu Dios, y del Santo de Israel que te ha honrado\". Isaías 11:1; 55:3-5 (Los hechos de los apóstoles, pp. 180, 181).<br><br>[Cristo] dejó su hogar de seguridad y paz, dejó la gloria que él tenía con el Padre antes que el mundo fuese, dejó su puesto en el trono del universo. Salió como uno que sufre, como hombre tentado; salió solo, para sembrar con lágrimas, para verter su sangre, la simiente de vida para el mundo perdido.<br><br>Sus servidores deben salir a sembrar de la misma manera. Cuando Abraham recibió el llamamiento a ser un sembrador de la simiente de verdad, se le ordenó: \"Vete de tu tierra y de tu parentela, y de la casa de tu padre, a la tierra que te mostraré\". \"Y salió sin saber adónde iba\". Hebreos 11:8... Así los que son llamados a unirse con Cristo deben dejarlo todo para seguirle a él. Las antiguas relaciones deben ser rotas, deben abandonarse los planes de la vida, debe renunciarse a las esperanzas terrenales. La semilla debe sembrarse con trabajo y lágrimas, en la soledad y mediante el sacrificio (Palabras de vida del gran Maestro, p. 19).<br><br>Hay personas que podrían estar en situaciones favorables ... en todas las cosas de la vida, pero Dios puede tener para ellos una obra que hacer en otra parte, una obra que no podrían hacer entre sus parientes y amigos. La misma comodidad y los parientes que los rodean pueden impedirles desarrollar los rasgos de carácter que Dios quisiera que desarrollaran. Pero Dios ve que cambiando su situación y enviándolos a lugares cuyo ambiente sea completamente diferente, ellos estarán en el sitio donde mejor podrán desarrollar un carácter que lo glorifique...<br><br>Cuando nos situamos donde todo es comodidad y facilidad, no sentimos tanto la necesidad de depender momento a momento de Dios. Dios en su providencia nos coloca en situaciones en las cuales sentimos nuestra necesidad de su ayuda y poder, y ama revelarse a nosotros (En los lugares celestiales, p. 114).<br><br></p>",
-               "date":"16 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>SER UNA BENDICIÓN PARA EL MUNDO ENTEROS<br></p>",
-               "id":33,
-               "idDay":3,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>¿Qué es tentación? Es medio por el cual los que pretenden ser hijos de Dios son probados y examinados. Leemos que Dios tentó a Abraham; que tentó a os hijos de Israel. Esto significa que permitió que existieran las circunstancias que probaron su fe, y los indujo a acudir a él en procura de ayuda. Dios permite que la tentación sobrevenga a los suyos hoy día para que puedan comprender que él es su ayudador. Si se le acercan cuando son tentados, los fortalece para hacer frente a la tentación. Pero son vencidos si se rinden al enemigo, descuidando el colocarse cerca de su todopoderoso Ayudador. Se separan de Dios. No dan una evidencia de que caminan en la senda de Dios (Comentarios de Elena G. de White en Comentario bíblico adventista del séptimo día, t. 1, p. 1094).<br><br>Abraham continuó su viaje hacia el sur; y otra vez fue probada su fe. El cielo retuvo la lluvia, los arroyos cesaron de correr por los valles, y se marchitó la hierba de las llanuras. Los ganados no encontraban pastos, y el hambre amenazaba a todo el campamento. ¿No pondría ahora el patriarca en tela de juicio la dirección de la Providencia? ¿No miraría hacia atrás anhelando la abundancia de las llanuras caldeas? Todos observaban ansiosamente para ver qué haría Abraham, a medida que una dificultad sucedía a la otra. Al ver su confianza inquebrantable, comprendían que había esperanza; sabían que Dios era su amigo y seguía guiándole.<br><br>Abraham no podía explicar la dirección de la Providencia; sus esperanzas no se habían cumplido; pero mantuvo su confianza en la promesa: \"Y bendecirte he, y engrandeceré tu nombre, y serás bendición.\" Génesis 12:2. Con oraciones fervientes consideró la manera de preservar la vida de su pueblo y de su ganado, pero no permitió que las circunstancias perturbaran su fe en la palabra de Dios. Para escapar del hambre fue a Egipto. No abandonó a Canaán, ni tampoco en su extrema necesidad se volvió a la tierra de Caldea de la cual había venido, donde no había escasez de pan; sino que buscó refugio temporal tan cerca como fuese posible de la tierra prometida, con la intención de regresar pronto al sitio donde Dios le había puesto (Patriarcas y profetas, pp. 121, 122).<br><br>La fe de Abraham debe ser nuestro ejemplo; sin embargo, cuán pocos soportarán pacientemente una simple reprensión por los pecados que hacen peligrar su bienestar eterno. Cuán pocos reciben la corrección con humildad y sacan un beneficio de ella. La exigencia de Dios respecto de nuestra fe, nuestros servicios y nuestros afectos debe recibir una respuesta alegre. Tenemos una deuda infinita para con el Señor y debemos cumplir sin vacilación el menor de sus requerimientos. Para violar los mandamientos, no es necesario que pisoteemos todo el código moral. Si despreciamos un precepto, somos transgresores de la ley sagrada. Pero si queremos ser fieles observadores de los mandamientos, debemos observar estrictamente todo lo que Dios nos ha impuesto (Testimonios para la iglesia, t. 4, p. 250).<br><br></p>",
-               "date":"17 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>EL LLAMADO A ABRAHAM<br></p>",
-               "id":34,
-               "idDay":4,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>Después que los discípulos fueron expulsados de Jerusalén por la persecución, el mensaje evangélico se difundió rápidamente por las comarcas limítrofes de Palestina, y en importantes poblaciones se constituyeron pequeñas compañías de creyentes. Algunos de los discípulos \"fueron hasta Fenicia, y Chipre, y Antioquía, predicando la palabra\". Sus labores se limitaban por lo general a los judíos hebreos y griegos, de los cuales había entonces grandes colonias en casi todas las ciudades del mundo...<br><br>Fue Dios el que les dio el nombre de cristianos. Este es un nombre real, que se da a todos los que se unen con Cristo. En cuanto a este nombre Santiago escribió más tarde: \"¿No os oprimen los ricos, y no son ellos los mismos que os arrastran a los juzgados? ¿No blasfeman ellos el buen nombre que fue invocado sobre vosotros?\" Santiago 2:6, 7. Y Pedro declaró: \"Si alguno padece como Cristiano, no se avergüence; antes glorifique a Dios en esta parte.\" \"Si sois vituperados en el nombre de Cristo, sois bienaventurados; porque la gloria y el Espíritu de Dios reposan sobre vosotros\". 1 Pedro 4:16, 14 (Los hechos de los apóstoles, pp. 126, 128).<br><br>[Pedro] se sobrepuso a su natural prejuicio hasta el punto de sentarse a la mesa con los conversos gentiles. Pero cuando ciertos judíos celosos de la ley ceremonial vinieron de Jerusalén, Pedro cambió imprudentemente su actitud hacia los conversos del paganismo... Esta manifestación de debilidad de parte de aquellos que habían sido res-petados y amados como dirigentes, hizo la más penosa impresión en la mente de los creyentes gentiles. La iglesia estaba amenazada por un cisma, pero Pablo, que vio la subversiva influencia del mal hecho a la iglesia por el doble papel desempeñado por Pedro, le reprendió abiertamente por disimular así sus verdaderos sentimientos...<br><br>Pedro vio el error en que había caído, y se puso a reparar inmediatamente el mal que había hecho, hasta donde pudo. Dios, que conoce el fin desde el principio, permitió que Pedro revelara esta debilidad de carácter, a fin de que el probado apóstol pudiera ver que no había nada en sí mismo por lo cual pudiera enorgullecerse (Los hechos de los apóstoles, p. 161).<br><br>Cristo trataba de enseñar a sus discípulos la verdad de que en el reino de Dios no hay fronteras nacionales, ni castas, ni aristocracia; que ellos debían ir a todas las naciones, llevándoles el mensaje del amor del Salvador. Pero solo más tarde comprendieron ellos en toda su plenitud que Dios \"de una sangre ha hecho todo el linaje de los hombres, para que habitasen sobre toda la faz de la tierra; y les ha prefijado el orden de los tiempos, y los términos de la habitación de ellos; para que buscasen a Dios, si en alguna manera, palpando, le hallen; aunque cierto no está lejos de cada uno de nosotros.\" Hechos 17:26, 27 (Los hechos de los apóstoles, p. 17).<br><br></p>",
-               "date":"18 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>LA IGLESIA PRIMITIVA Y LAS ZONAS DE CONFORT<br></p>",
-               "id":35,
-               "idDay":5,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>Cristo ordenó a sus discípulos que empezasen en Jerusalén la obra que él había dejado en sus manos. Jerusalén había sido escenario de su asombrosa condescendencia hacia la familia humana. Allí había sufrido, había sido rechazado y condenado. La tierra de Judea era el lugar donde había nacido. Allí, vestido con el atavío de la humanidad, había andado con los hombres, y pocos habían discernido cuánto se había acercado el cielo a la tierra cuando Jesús estuvo entre ellos. En Jerusalén debía empezar la obra de los discípulos.<br><br>En vista de todo lo que Cristo había sufrido allí, y de que su trabajo no había sido apreciado, los discípulos podrían haber pedido un campo más promisorio; pero no hicieron tal petición. El mismo terreno donde él había esparcido la semilla de la verdad debía ser cultivado por los discípulos, y la semilla brotaría y produciría abundante mies. En su obra, los discípulos habrían de hacer frente a la persecución por los celos y el odio de los judíos; pero esto lo había soportado su Maestro, y ellos no habían de rehuirlo. Los primeros ofrecimientos de la misericordia debían ser hechos a los homicidas del Salvador (El Deseado de todas las gentes, pp. 759, 760).<br><br>Nos estamos acercando al final de la historia de esta tierra. Pronto nos encontraremos delante del gran trono blanco. Pronto habrán pasado vuestras oportunidades para trabajar. Por lo tanto, trabajad mientras se dice hoy. Cada verdadero creyente, con la ayuda de Dios, puede ver dónde está el trabajo que debe realizarse. Cuando el ser humano colabora con la voluntad de Dios, se hace omnipotente, y el obrero puede crear oportunidades. Vigilad las almas con quienes entráis en contacto. Buscad oportunidades para hablarles una palabra oportuna. No esperéis ser presentados, o hasta que os familiaricéis con ellos, antes de procurar salvar a las almas que perecen a vuestro alrededor. Si estáis dispuestos a trabajar con sinceridad, se abrirán caminos delante de vosotros para el cumplimiento de esta obra. Apoyaos en el brazo divino en busca de sabiduría, fortaleza, y habilidad para hacer la obra que Dios os ha dado (Nuestra elevada vocación, p. 300).<br><br>¿Se levantarán ahora nuestras iglesias, y despertarán ante la situación? Los representantes de Cristo han de llevar una carga por las almas. Cada nación y tribu y lengua y pueblo ha de escuchar el último mensaje de misericordia al mundo. Cuando los miembros de nuestra iglesia logren una mejor comprensión de la verdad bíblica, se levantarán de su soporífero sueño y estarán listos para dedicar su dinero A la causa de Dios, y para entregarse en ferviente labor bajo la conducción del Espíritu Santo. El pueblo de Dios es su instrumento, señalado para proclamar la verdad en todas partes del mundo...<br><br>Cada miembro de iglesia ha de comprometerse en el servicio activo para el Maestro. \"¿Por qué estáis aquí todo el día desocupados?\", pregunta. \"Id también vosotros a la viña...\" \"entre tanto que el día dura; la noche viene, cuando nadie puede trabajar\". Mateo 20:6, 7; Juan 9:4 (Reflejemos a Jesús, p. 204).<br><br></p>",
-               "date":"19 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>EMPEZAR POR DONDE ESTÁS<br></p>",
-               "id":36,
-               "idDay":6,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
-            },
-            {
-               "content":"<p>Cada día con Dios, 21 de julio, \"Así alumbre vuestra luz\", p. 209; El discurso maestro de Jesucristo, \"No nos dejes caer en tentación,\" pp. 99-101.<br><br></p>",
-               "date":"20 DE OCTUBRE",
-               "day":"-",
-               "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR<br><br></p>",
-               "id":37,
-               "idDay":7,
-               "idLesson":3,
-               "quarterCode":"4T2023",
-               "verses":[
-                  {
-                     "verse":"",
-                     "verseText":""
-                  }
-               ]
+              "verse": "",
+              "verseText": ""
             }
-         ],
-         "title":"<p>EL LLAMADO DE DIOS A LA MISIÓN<br></p>",
-         "verse":"<p>“Pero recibirán poder cuando venga sobre ustedes el Espíritu Santo, y me serán testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra” (Hech. 1:8).<br></p>",
-         "versionCode":30,
-         "weekDate":"14-20 de octubre"
-      }
+          ]
+        },
+        {
+          "content": "<p>Las bellezas de la naturaleza son un tema para la contemplación. Al estudiar la hermosura natural que nos rodea, la mente es transportada mediante la naturaleza al Autor de todo lo bello. Todas las obras de Dios hablan a nuestros sentidos, magnificando su poder, exaltando su sabiduría. Cada cosa creada tiene en ella encantos que interesan al hijo de Dios y moldean su gusto para considerar estas evidencias preciosas del amor de Dios por encima de las obras de la habilidad humana.</p><p>El profeta, en palabras de resplandeciente fervor, magnifica a Dios en sus obras creadas: \"Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste, digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, para que lo visites?\" Salmo 8:3, 4. \"¡Oh Jehová, Señor nuestro, cuán grande es tu nombre en toda la tierra! Te alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas\". Salmo 8:9; 9:1 (Testimonios para la iglesia, t. 3, p. 416).<br></p><p>Continuamente Dios sostiene y emplea como ministros suyos las cosas que hizo. Obra por medio de las leyes de la naturaleza, que le sirven de instrumento, pero no actúan automáticamente. La naturaleza atestigua la presencia inteligente y la intervención activa de un Ser que obra en todo según su voluntad...</p><p>No es por medio de una fuerza inherente como año tras año la tierra suministra sus dones y sigue su marcha alrededor del sol. La mano del Infinito obra perpetuamente para guiar el planeta. El poder de Dios, en constante ejercicio, hace que la tierra conserve su posición en su rotación. Es Dios quien dispone que el sol salga y se levante en los cielos. Es Dios quien abre las ventanas de los cielos y da la lluvia (El ministerio de curación, pp. 323, 324).</p><p>Por medio de los agentes naturales, Dios trabaja, día tras día, hora tras hora y a cada momento, para conservarnos vivos, para levantarnos y restaurarnos. En cuanto alguna parte del cuerpo sufre perjuicio, empieza el proceso de curación; los agentes naturales son puestos a trabajar para restablecer la salud. Pero el poder que obra por medio de estos agentes es el poder de Dios. Todo poder capaz de dar vida procede de él. Cuando alguien se repone de su enfermedad, es Dios quien lo sana.</p><p>\"La enfermedad, el padecimiento, y la muerte son obra de un poder enemigo. Satanás destruye; Dios restaura\".</p><p>Se aprende una gran lección cuando entendemos nuestra relación con Dios, y su relación con nosotros…</p><p>Somos responsables ante Dios porque derivamos nuestra vida de él. No la obtenemos de la humanidad, sino solo de Dios. Somos suyos por la creación y por la redención. Nuestros cuerpos no nos pertenecen y no tenemos por lo tanto el derecho de tratarlos como nos plazca, estropeándolos por la práctica de hábitos que conducen a la decadencia e impiden rendir a Dios un servicio perfecto. Nuestras vidas y todas nuestras facultades le pertenecen. Él cuida de nosotros cada momento; él mantiene en acción toda la maquinaria viviente; si nos abandonara a nuestra suerte tan solo por un momento, moriríamos. Dependemos enteramente de Dios\" (The Faith I Live By, p. 165; parcialmente en La fe por la cual vivo, p. 167).</p>",
+          "date": "14 de enero",
+          "day": "-",
+          "dayTitle": "<p>EL SEÑOR NOS HIZO</p>",
+          "id": 32,
+          "idDay": 2,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        },
+        {
+          "content": "<p>Los misterios del pasado y el futuro están abiertos para el que gobierna los cielos, y Dios ve más allá de la calamidad, las tinieblas y la ruina que ha traído el pecado. Aunque lo rodeen las nubes y las tinieblas, sin embargo, la justicia y el juicio constituyen el fundamento de su trono...</p><p>Mediante el plan de salvación ha de cumplirse un propósito más amplio, aunque la salvación del hombre y la redención del mundo. Por medio de la revelación del carácter de Dios en Cristo, se manifestaría ante el universo la benevolencia del gobierno de Dios, se refutaría la acusación de Satanás, se manifestaría la naturaleza del pecado y se demostraría plenamente la perpetuidad de la ley de Dios.</p><p>Entonces el exterminio del pecado vindicará el amor de Dios y rehabilitará su honor delante de un universo compuesto de seres que se deleitarán en hacer su voluntad y en cuyo corazón estará su ley (That I May Know Him, p. 366; parcialmente en A fin de conocerle, p. 365).</p><p>\"¿Alcanzarás tú el rastro de Dios? ¿Llegarás tú a la perfección del Todopoderoso?\" \"Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos\". \"Yo soy Dios, y no hay más Dios, y nada hay a mí semejante; que anunció lo por venir desde el principio, y desde antiguo lo que aún no era hecho\" Job 11:7; Isaías 55:8, 9; 46:9, 10. Es imposible para las mentes finitas de los hombres comprender plenamente el carácter o las obras del Infinito. Aun para el intelecto más aguzado, para la mente más poderosa y altamente educada, este Ser santo debe permanecer siempre vestido de misterio.</p><p>El apóstol Pablo exclama: \"¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán incomprensibles son sus juicios, e inescrutables sus caminos!\" Pero aunque \"nubes y tinieblas están alrededor de él\"; \"justicia y juicio son el asiento de su trono\" Romanos 11:33; Salmo 97:2; 89:14 (VM). Podemos comprender su trato con nosotros, y los motivos que le impulsan, hasta el punto de discernir el amor ilimitado y la misericordia unidos al poder infinito. Podemos comprender sus propósitos en la medida en que nos resulta benéfico conocerlos; y fuera de esto debemos seguir confiando en el poder del Omnipotente, el amor y la sabiduría del Padre y Soberano de todos (Testimonios para la iglesia t. 5, p. 654).</p><p>\"Los que amáis a Jehová, aborreced el mal —exhorta el salmista... Salmo 97:10... Estas palabras del salmista revelan que es sirviendo a Dios como se alcanzará ese nivel. Debiéramos ahora poner a un lado la maledicencia, los planes egoístas, todo aquello que perjudicaría la influencia o confundiría el juicio. Debe despojarse el corazón de toda búsqueda del yo; y debe uno conducirse de tal manera que no induzca a ningún alma a andar por sendas falsas (Consejos para los maestros, pp. 383, 384).</p>",
+          "date": "15 de enero",
+          "day": "-",
+          "dayTitle": "<p>EL SEÑOR REINA</p>",
+          "id": 33,
+          "idDay": 3,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        },
+        {
+          "content": "<p>Cuando venga Cristo, la tierra temblará delante de él, y los cielos se enrollarán como un pergamino, y todo monte y toda isla se removerá de su lugar. \"Vendrá nuestro Dios, y no callará; fuego consumirá delante de él, y tempestad poderosa le rodeará. Convocará a los cielos de arriba, y a la tierra, para juzgar a su pueblo. Juntadme mis santos, los que hicieron conmigo pacto con sacrificio. Y los cielos declararán su justicia, porque Dios es el juez\". Salmo 50:3-6. En vista del gran día de Dios, podemos ver que nuestra única seguridad se hallará en apartarse de todo pecado e iniquidad. Los que continúan en el pecado se encontrarán entre los que son condenados y perecen (Fe y obras, p. 120).</p><p>Dios lleva a los hombres a los lugares de prueba para ver si con-fiarán en un poder más allá y por encima de ellos mismos. El no mira como el hombre mira. A menudo tiene que desmenuzar las relaciones humanas y cambiar el orden que el hombre ha planeado, el cual es perfecto en la opinión del hombre. Lo que el hombre piensa que es para su provecho espiritual y temporal puede estar enteramente en desacuerdo con la experiencia que él debe tener a fin de ser un seguidor de Cristo. Su idea de su propio valor puede estar muy descaminada...</p><p>El carácter tiene que ser probado, de lo contrario habría muchos cristianos espurios que mantendrían una limpia apariencia de religión hasta que sus inclinaciones, sus deseos para hacer su propia voluntad, su orgullo y ambición, fueran contrariados. Cuando, por la autorización del Señor, les vienen pruebas agudas, su falta de religión genuina, de la mansedumbre y humildad de Cristo, los muestra necesitados de la obra del Espíritu Santo...</p><p>El cristiano verdadero mantiene su vista fija en aquel que escudriña el corazón y examina la voluntad, que requiere integridad completa. Su oración constante es: \"Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos; y ve si hay en mí camino de perversidad, y guíame en el camino eterno\". Salmo 139:23, 24 (In Heavenly Places, p. 266; parcialmente en En los lugares celestiales, p. 268).</p><p>&nbsp;En la descripción de la escena del juicio, cuando los justos reciben su recompensa, y se pasa sentencia sobre los malvados, se representa a los justos preguntándose qué han hecho para merecer tal recompensa. Pero abrigaron una constante fe en Cristo. En ellos moraba su Espíritu, y realizaron espontáneamente para Cristo, en la persona de sus santos, aquellos servicios que producen una recompensa segura. Pero nunca tuvieron el propósito de trabajar con el fin de recibir una compensación. Consideraron que su más alto honor consistía en trabajar como Cristo lo había hecho. Lo que hicieron fue llevado a cabo por amor a Cristo y a sus semejantes, y Aquel que se había identificado con la humanidad sufriente consideró estos actos de amor y compasión como si hubieran sido hechos para él (Exaltad a Jesús, p. 337).</p>",
+          "date": "16 de enero",
+          "day": "-",
+          "dayTitle": "<p>DIOS ES EL JUEZ</p>",
+          "id": 34,
+          "idDay": 4,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        },
+        {
+          "content": "<p>La ley de Dios constituye el fundamento de su gobierno, y el servicio de amor el único servicio aceptable para el cielo. Dios ha concedido libertad de acción a todos, ha dotado a los hombres de capacidad para apreciar su carácter, y por lo tanto de habilidad para amarlo y elegir su servicio. Mientras los seres creados adoraron a Dios, estuvieron en armonía en todo el universo. Mientras el amor a Dios reinó supremo, abundó el amor por los demás. Como no había transgresión de la ley, que es un trasunto del carácter de Dios, ninguna nota de discordia perturbaba las armonías celestiales.</p><p>Pero todas sus obras son conocidas para Dios, y el pacto de la gracia (favor inmerecido) existía en la mente de Dios desde los siglos eternos. Se lo llama el pacto eterno, porque el plan de salvación no fue concebido después de la caída del hombre, sino que \"se ha mantenido oculto desde tiempos eternos, pero que ha sido manifestado ahora, y... se ha dado a conocer a todas las gentes para que obedezcan a la fe\". Romanos 16:25, 26 (A fin de conocerle, p. 368).</p><p>Al Señor del cielo se lo representa como levantando al caído. Es el Amigo de todo el que lo ama y honra, y castigará a cuantos se atrevan a apartarlos de los senderos seguros, colocándolos en situaciones angustiosas cuando ellos tratan conscientemente de guardar el camino del Señor y de alcanzar las moradas de los justos. Ni un gorrión cae al suelo sin que lo advierta nuestro Padre celestial. Por lo tanto, los hombres deben ser cuidadosos de no causar tristeza o pena a uno de los pequeños de Dios por medio de sus palabras o acciones. Si el pequeño gorrión... no cae al suelo sin que lo advierta nuestro Padre celestial, seguramente son preciosas las almas de aquellos por quienes Cristo murió. ¿Y no juzgará él a quienes causan dolor o chascos a aquellos por quienes Cristo dio su vida?</p><p>¿Quién puede medir o anticipar el don de Dios? Por las edades, el pecado... interrumpió el flujo divino de la benevolencia hacia el hombre, pero la misericordia y el gran amor manifestados a la raza caída no han cesado de acumularse; no han perdido su dirección hacia la tierra... Dios vive y reina, y en Cristo ha derramado sobre el mundo un diluvio sanador. Nuestro Salvador hizo plena provisión para los hombres (Alza tus ojos, p. 362).</p>",
+          "date": "17 de enero",
+          "day": "-",
+          "dayTitle": "<p>SE ACUERDA SIEMPRE DE SU PACTO</p>",
+          "id": 35,
+          "idDay": 5,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        },
+        {
+          "content": "<p>Los diez santos preceptos enunciados por Cristo en el monte Sinaí fueron la revelación del carácter de Dios e hicieron conocer al mundo el hecho de que él tenía potestad sobre toda la heredad humana. Esa ley de los diez preceptos del amor más grande que pueda ser presentado al hombre es la voz del Dios del cielo que habla al alma la promesa: \"Haz esto, y no quedarás bajo el control y dominio de Satanás\". No hay nada negativo en aquella ley, aunque parezca así...</p><p>La antigua iglesia judía constituyó el pueblo de Dios grandemente favorecido, sacado de Egipto y reconocido como tesoro peculiar divino. Las muchas preciosas y grandísimas promesas dadas para ellos como pueblo, fueron la esperanza y confianza de la iglesia judía. Aquí confiaron y creyeron que su salvación estaba asegurada. Ningún otro pueblo profesaba ser gobernado por los mandamientos de Dios (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 1, p. 1119).</p><p>El salmista declara: \"Mucha paz tienen los que aman tu ley; y no hay para ellos tropiezo\". Salmo 119:165. Los hombres no pueden fabricar la paz. Los planes humanos, para la purificación y elevación de los individuos o de la sociedad, no lograrán la paz, porque no alcanzan al corazón. El único poder que puede crear o perpetuar la paz verdadera es la gracia de Cristo. Cuando esta esté implantada en el corazón, desalojará las malas pasiones que causan luchas y disensiones. \"En lugar de la zarza crecerá haya, y en lugar de la ortiga crecerá arrayán\"; y el desierto de la vida \"se gozará, y florecerá como la rosa\". Isaías 55:13; 35:1 (El Deseado de todas las gentes, p. 270).</p><p>Tome el estudiante la Biblia por su guía, permanezca firme en los principios, y entonces podrá aspirar a alcanzar cualquier altura. Todas las filosofías de la naturaleza humana han venido a parar en confusión y vergüenza, siempre que no han reconocido a Dios como el todo en todo. Pero la preciosa fe inspirada por Dios comunica fuerza y nobleza de carácter. Al espaciarse en su bondad, su misericordia y su amor, la percepción de la verdad será cada vez más clara; el deseo de la pureza de corazón y de la claridad de pensamiento será también más elevado y santo. Al morar el alma en la atmósfera pura del pensamiento santo, se transforma por su comunión con Dios mediante el estudio de su Palabra. La verdad es tan amplia, de tanto alcance, tan profunda y tan ancha, que el hombre se anonada. El corazón se enternece y se rinde a la humildad, la bondad y el amor.</p><p>Las facultades naturales también se amplían como resultado de la santa obediencia. Por el estudio de la Palabra de vida los que a él se dedican verán sus mentes dilatarse, elevarse y ennoblecerse. Si, a semejanza de Daniel, son oidores y hacedores de la Palabra de Dios, adelantarán como él adelantó en todos los ramos del saber. Siendo de limpio entendimiento, llegarán a ser hombres de vigorosa inteligencia. Todas las facultades intelectuales se avivarán. Podrán educarse y disciplinarse de tal manera, que cuantos entren en la esfera de su influencia verán lo que puede ser y hacer el hombre cuando se relaciona con el Dios de sabiduría y poder (El ministerio de curación, pp. 370, 371).</p>",
+          "date": "18 de enero",
+          "day": "-",
+          "dayTitle": "<p>SUS TESTIMONIOS SON MUY FIRMES</p>",
+          "id": 36,
+          "idDay": 6,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        },
+        {
+          "content": "<p>Exaltad a Jesús, 7 de agosto, \"Cristo murió por nosotros\", p. 227; Cada día con Dios, 14 de octubre, \"Viene el juicio\", p. 294.</p>",
+          "date": "19 de enero",
+          "day": "-",
+          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
+          "id": 37,
+          "idDay": 7,
+          "idLesson": 3,
+          "quarterCode": "1T2024",
+          "verses": [
+            {
+              "verse": "",
+              "verseText": ""
+            }
+          ]
+        }
+      ],
+      "title": "<p>EL SEÑOR REINA</p>",
+      "verse": "<p>El Señor reina, se vistió de majestad. El Señor se vistió, se ciñó de fortaleza. Afirmó el mundo, y no se moverá (Sal. 93:1).</p>",
+      "versionCode": 100,
+      "weekDate": "13-19 de enero"
+    }
