@@ -1,129 +1,128 @@
 {
- 
-      "color": "#1A8CFF",
-      "finalDate": "-",
-      "id": 8,
-      "idEs": 25,
-      "language": "es",
-      "lessonNumber": 8,
-      "lessonType": "A",
-      "quarter": "1T2024",
-      "studies": [
-        {
-          "content": "<p>Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría. Salmo 90:12.</p><p>Nuestro tiempo pertenece a Dios. Cada momento es suyo, y nos hallamos bajo la más solemne obligación de aprovecharlo para su gloria. De ningún otro talento que él nos haya dado requerirá más estricta cuenta que de nuestro tiempo.</p><p>El valor del tiempo sobrepuja todo cómputo. Cristo considera precioso todo momento, y así es como hemos de considerarlo nosotros. La vida es demasiado corta para que se la disipe. No tenemos sino unos pocos días de gracia en los cuales prepararnos para la eternidad... No tenemos tiempo para perder, ni tiempo para dedicar a los placeres egoístas, ni tiempo para entregarnos al pecado. Ahora hemos de formar caracteres para la vida futura e inmortal. Ahora hemos de prepararnos para el juicio investigador (La fe por la cual vivo, p. 160).</p><p>Creo que estamos en los límites del mundo eterno, y estoy intentando mantenerme en constante comunión con el Señor. Aprecio la vida eterna y nada me separará del amor de Dios. Deseo educar y adiestrar constantemente mi alma para que repose en Jesús, y para que obtenga fuerza espiritual de él. Dios quiere que tengamos un conocimiento experimental de Cristo; entonces seremos fieles testigos de Dios, y daremos testimonio, mediante nuestras palabras y acciones, de la gracia de Cristo...</p><p>Cuando pienso en la obra que Dios está haciendo por el hombre me lleno de admiración cuando veo que Dios toma a los pobres seres caídos para darles poder moral, de manera que se manifieste en ellos la obra interior de su gracia, para transformar el carácter y lograr que los hombres sean aptos para las mansiones que Dios está preparando para ellos, para comparecer delante de Dios, para ser compañeros con los ángeles y para tener comunión con Dios. ¡Oh, cuánto anhela mi corazón encontrarse entre los que caminarán con Jesucristo en la tierra nueva! (Cada día con Dios, p. 115).<br></p><p>Muchas veces la vida cristiana está rodeada de peligros, y el deber parece difícil de cumplir. La imaginación cree ver la ruina inminente si se avanza, y la servidumbre y la muerte si se vuelve atrás. Sin embargo, la voz de Dios dice claramente: Id adelante. Obedezcamos la orden, aun cuando nuestra vista no pueda penetrar las tinieblas. Los obstáculos que impiden nuestro progreso no desaparecerán nunca ante un espíritu vacilante y dudoso. Aquellos que difieren la obediencia hasta que toda incertidumbre desaparezca, y no queden riesgos de fracaso ni derrota, no obedecerán nunca. La fe mira más allá de las dificultades, y echa mano de lo invisible, aun de la Omnipotencia, y por lo tanto, no puede resultar frustrada. La fe es como asir la mano de Cristo en toda emergencia...</p><p>Jesús no nos llama a seguirle para después abandonarnos. Si entregamos nuestra vida a su servicio, nunca podremos hallarnos en una posición para la cual Dios no haya hecho provisión. Cualquiera que sea nuestra situación, tenemos un Guía para dirigirnos en el camino (Obreros evangélicos, pp. 276, 277).</p>",
-          "date": "17 de febrero",
-          "day": "-",
-          "dayTitle": "<p>SABIDURÍA PARA VIVIR CON RECTITUD</p>",
-          "id": 81,
-          "idDay": 1,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+   "color":"#C13B59",
+   "finalDate":"-",
+   "id":8,
+   "idEs":27,
+   "language":"es",
+   "lessonNumber":8,
+   "lessonType":"A",
+   "quarter":"2T2024",
+   "studies":[
+      {
+         "content":"<p>El señor Miller y los que se habían unido a él suponían que la purificación del santuario de la que se habla en Daniel 8:14 significaba la purificación de la tierra mediante el fuego, antes de poder convertirse en la morada de los santos. Eso debía ocurrir en la venida de Cristo, y por eso buscamos el cumplimiento de ese acontecimiento al final de los 2300 días o años. Pero después de nuestro chasco investigamos cuidadosamente la Biblia con oración y gran atención, y después de un período de suspenso, la luz se derramó sobre nuestras tinieblas, y como resultado de eso desaparecieron la duda y la incertidumbre.</p><p>En lugar de referirse la profecía de Daniel 8:14 a la purificación de la tierra, ahora vimos claramente que señalaba la obra final de nuestro Sumo Sacerdote en el cielo, la conclusión de la expiación y la preparación del pueblo para soportar el día de su venida (Testimonios para la iglesia, t. 1, p. 60).</p><p>Pensad en Jesús. Está en aquel sitio santo, no en la soledad, sino rodeado de millares y millares de ángeles santos que esperan su mandato. Y él les ordena ir y trabajar en favor del más débil creyente que pone su confianza en Dios. La misma ayuda está a disposición de humildes y encumbrados, ricos y pobres.</p><p>Consideren el importante hecho de que Cristo no cesa de hacer su solemne obra en el Santuario celestial, y si tenéis puesto el yugo de Cristo, si lleváis su carga, estaréis haciendo una obra semejante en carácter a la de vuestra Cabeza viviente (The Faith 1 Live By, p. 205; parcialmente en La fe por la cual vivo, 18 de julio, p. 207).</p><p>El pueblo de Dios debería comprender claramente el asunto del Santuario y del juicio investigador. Todos necesitan conocer por sí mismos el ministerio y la obra de su gran Sumo Sacerdote. De otro modo, les será imposible ejercitar la fe tan esencial en nuestros tiempos, o desempeñar el puesto al que Dios los llama. Cada cual tiene un alma que salvar o que perder. Todos tienen una causa pendiente ante el tribunal de Dios. Cada cual deberá encontrarse cara a cara con el gran Juez…</p><p>El Santuario en el cielo es el centro mismo de la obra de Cristo en favor de los hombres. Concierne a toda alma que vive en la tierra.</p><p>&nbsp;Nos revela el plan de la redención, nos conduce hasta el fin mismo del tiempo y anuncia el triunfo final de la lucha entre la justicia y el pecado. Es de la mayor importancia que todos investiguen a fondo estos asuntos, y que estén siempre prontos a dar respuesta a todo aquel que les pidiere razón de la esperanza que hay en ellos (Exaltad a Jesús, 11 de noviembre, p. 323).</p>",
+         "date":"18 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>LUZ DESDE EL SANTUARIO</p>",
+         "id":81,
+         "idDay":1,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Bienaventurados los perfectos de camino; los que andan en la ley de Jehová. Salmo 119:1...</p><p>El pecador no puede hacer frente a las exigencias de Dios con sus propias fuerzas. Debe acudir en busca de ayuda al que pagó el rescate por él...</p><p>Cristo es nuestra esperanza. Los que confían en él son limpiados. La gracia de Cristo y el gobierno de Dios van juntos en perfecta armonía. Cuando Jesús se convirtió en el sustituto del hombre, la misericordia y la verdad se juntaron, y la justicia y la paz se besaron. La cruz del Calvario da testimonio de las elevadas exigencias de la ley de Dios.</p><p>La ley de los Diez Mandamientos no debe ser contemplada tanto desde el lado prohibitorio como desde el lado de la misericordia. Sus prohibiciones son una segura garantía de la felicidad en la obediencia. Cuando se la recibe en Cristo, obra en nosotros la pureza de carácter que nos proporcionará gozo a través de edades eternas. Para el obediente es una muralla de protección. Contemplamos en ella la bondad de Dios, quien revelándoles a los hombres los principios inmutables de justicia, procura escudarlos de los males que resultan de la transgresión (Nuestra elevada vocación, p. 139).</p><p>Podemos guardar la ley solo apropiándonos de la justicia de Cristo. Cristo dice: \"Separados de mí nada podéis hacer\" Juan 15:5. Cuando recibimos el don celestial, la justicia de Cristo, encontraremos que se ha provisto para nosotros la gracia de Cristo, y que los recursos humanos son impotentes. Jesús dio el Espíritu Santo en medida abundante para las grandes emergencias, para ayudarnos en nuestras debilidades, para darnos fuerte consolación, para iluminar nuestras mentes, y para purificar y ennoblecer nuestros corazones. Cristo llega a ser para nosotros sabiduría, justificación, santificación y redención.</p><p>Del principio al fin de la vida del cristiano no se puede dar un paso con éxito sin Cristo. Él envió su Espíritu para estar con nosotros constantemente, y si confiamos en Cristo hasta lo sumo, entregándole nuestra voluntad, podremos seguirlo por dondequiera que vaya (Reflejemos a Jesús, p. 95).</p><p>El Salvador venció para enseñar al hombre cómo puede él también vencer. Con la Palabra de Dios, Cristo rechazó las tentaciones de Satanás. Confiando en las promesas de Dios, recibió poder para obedecer sus mandamientos, y el tentador no obtuvo ventaja alguna. A cada tentación Cristo contestaba: \"Escrito está\". A nosotros también nos ha dado Dios su Palabra para que resistamos al mal. Grandísimas y preciosas son las promesas recibidas, para que seamos \"hechos participantes de la naturaleza divina, habiendo huido de la corrupción que está en el mundo por concupiscencia\". 2 Pedro 1:4</p><p>Encareced al tentado a que no mire a las circunstancias, a su propia flaqueza, ni a la fuerza de la tentación, sino al poder de la Palabra de Dios, cuya fuerza es toda nuestra. \"En mi corazón —dice el salmista—he guardado tus dichos, para no pecar contra ti\". \"Por la palabra de tus labios yo me he guardado de las vías del destructor\". Salmo 119:11; 17:4 (El ministerio de curación, p. 136).</p>",
-          "date": "18 de febrero",
-          "day": "-",
-          "dayTitle": "<p>EN MI CORAZÓN HE GUARDADO TUS DICHOS</p>",
-          "id": 82,
-          "idDay": 2,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>¿Qué es la purificación del Santuario? En el Antiguo Testamento se hace mención de un servicio tal con referencia al Santuario terrenal. ¿Pero puede haber algo que purificar en el cielo? En el noveno capítulo de la Epístola a los Hebreos, se enseña a las claras la existencia de la purificación de ambos Santuarios, el terrenal y el celestial…</p><p>La purificación en ambos servicios, el simbólico y el real, debe efectuarse con sangre; en aquél con sangre de animales; en este, con la sangre de Cristo.</p><p>Esa purificación no se refería a impurezas materiales, puesto que se lo debía hacer con sangre, y por consiguiente debía de ser una purificación del pecado (The Faith I Live By, p. 206; parcialmente en La fe por la cual vivo, 19 de julio, p. 208).</p><p>Cristo era el fundamento de todo el sistema judaico. En el servicio del sacerdocio judío continuamente se nos recuerda el sacrificio y la intercesión de Cristo. Todos los que hoy acuden a Cristo, deben recordar que los méritos de él son el incienso que se mezcla con las oraciones de los que se arrepienten de sus pecados y reciben perdón, misericordia y gracia. Nuestra necesidad de la intercesión de Cristo es constante. Día tras día, mañana y tarde, el corazón humilde necesita elevar oraciones que recibirán respuestas de gracia, paz y gozo. \"Ofrezcamos siempre a Dios, por medio de él, sacrificio de alabanza, es decir, fruto de labios que confiesen su nombre. Y de hacer bien y de la ayuda mutua no os olvidéis; porque de tales sacrificios se agrada Dios\".</p><p>Sí, Cristo se ha convertido en el intermediario de la oración entre el hombre y Dios. También se ha convertido en el intermediario de las tradiciones entre Dios y el hombre. Ha combinado la divinidad y la humanidad. Los hombres deben ser colaboradores con Dios en la salvación de sus propias almas, y luego deben hacer fervientes, perseverantes e incansables esfuerzos para salvar a los que están a punto de perecer (Comentarios de Elena G. de White en Comentario bíblico adventista del séptimo día, t. 6, p. 1078).</p><p>Después de la caída Cristo se convirtió en el instructor de Adán. Actuó en lugar de Dios para con la humanidad, salvando a la raza de la muerte inmediata. Tomó sobre sí el oficio de mediador. A Adán y Eva se les concedió un tiempo de prueba para volver a su lealtad, y en este plan se abarcó a toda su posteridad.&nbsp;</p><p>Sin la expiación del Hijo de Dios no podría haber habido comunicación de bendición o salvación de Dios al hombre. Dios estaba celoso por el honor de su ley. La transgresión de la misma había causado una terrible separación entre Dios y el hombre. A Adán, en su inocencia, se le otorgaba comunión directa, libre y feliz con su Hacedor. Después de su transgresión, Dios se comunicaría con el hombre solo mediante Cristo y los ángeles (Conflicto y valor, p. 20).</p><p>Habiendo sufrido la completa penalidad por un mundo culpable, Jesús se constituyó en el Mediador entre Dios y el hombre, a fin de restaurar para el alma penitente el favor de Dios al proporcionarle la gracia de guardar la ley del Altísimo. Cristo no vino a abrogar la ley o los profetas, sino a cumplirlos hasta en la última letra. La expiación del Calvario vindicó la ley de Dios como santa, justa y verdadera, no solamente ante el mundo caído sino también ante el cielo y ante los mundos no caídos. Cristo vino a magnificar la ley y engrandecerla (Fe y obras, p. 122).</p>",
+         "date":"19 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>EL SANTUARIO CELESTIAL</p>",
+         "id":82,
+         "idDay":2,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Apenas los miembros de la familia humana han empezado a vivir, cuando comienzan a morir, y la labor incesante del mundo termina en la nada a menos que se obtenga un verdadero conocimiento respecto a la vida eterna. El hombre que aprecia el tiempo como su día de trabajo, se preparará para una mansión y una vida inmortales. Vale la pena que él haya nacido.</p><p>Se nos amonesta a redimir el tiempo. Pero el tiempo desperdiciado no puede recuperarse jamás. No podemos hacer retroceder ni un solo momento. La única manera en la cual podemos redimir nuestro tiempo es aprovechando lo más posible el que nos queda, colaborando con Dios en su gran plan de redención.</p><p>Cada momento está cargado de consecuencias eternas. Hemos de ser soldados de emergencia, listos para entrar en acción al instante de recibir el aviso. La oportunidad que se nos ofrece hoy de hablar a algún alma necesitada de la Palabra de vida, puede no volver jamás. Puede ser que Dios diga a esa persona: \"Esta noche vuelven a pedir tu alma\" (Lucas 12:20), y a causa de nuestra negligencia no se halle lista. En el gran día del juicio, ¿cómo rendiremos cuenta de ello a Dios? (El ministerio de curación, pp. 277, 278).</p><p>La obra de nuestra vida aquí debe consistir en prepararnos para la eternidad. No sabemos cuán pronto puede terminar la obra de nuestra vida, y cuán esencial es que nuestra naturaleza baja y pecaminosa sea vencida, y que recibamos la imagen de Cristo. No tenemos tiempo que perder. Necesitamos prepararnos cada día para la eternidad. Se nos concede tiempo en esta vida para buscar la dádiva de la vida eterna. Dios nos ha concedido un tiempo de prueba, y si vivimos nuestros setenta años, ¡cuán corto es este período para obrar nuestra salvación! Comparemos entonces este lapso con la vida que se equipara con la de Dios. Nuestro corto tiempo de prueba puede terminar en cualquier momento. Entonces, cuán fervientes deberíamos ser a fin de asegurarnos un título indiscutible para un hogar en la tierra nueva...</p><p>Mi inquietud consiste en hacer la obra que el Maestro me ha con-liado y que nada me aparte de ella... Debemos tratar de ser uno con Dios. Su interés debe ser el nuestro, como asimismo sus sentimientos y sus designios. Conocemos el amor de Dios por los pecadores y el infinito sacrificio que se ha hecho para salvar a las almas que perecen; entonces, unámonos con Cristo en esta gran obra (Cada día con Dios, p. 115).</p><p>Cristo no abandonará al alma por la cual murió. Ella puede dejarlo a él y ser vencida por la tentación; pero nunca puede apartarse Cristo de uno a quien compró con su propia vida...</p><p>Vivamos en contacto con el Cristo vivo, y él nos asirá firmemente con una mano que nos guardará para siempre. Creamos en el amor con que Dios nos ama, y estaremos seguros; este amor es una fortaleza inexpugnable contra todos los engaños y ataques de Satanás. \"Torre Inerte es el nombre de Jehová; a él correrá el justo, y será levantado\". Proverbios 18:10 (El discurso maestro de Jesucristo, pp. 100, 101).</p>",
-          "date": "19 de febrero",
-          "day": "-",
-          "dayTitle": "<p>ENSÉÑANOS A CONTAR NUESTROS DÍAS</p>",
-          "id": 83,
-          "idDay": 3,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El Día de la Expiación, el sumo sacerdote, llevando una ofrenda por la congregación, entraba en el Lugar Santísimo con la sangre, y la rociaba sobre el propiciatorio, encima de las tablas de la ley. En esa forma los requerimientos de la ley, que exigían la vida del pecador, quedaban satisfechos. Entonces, en su carácter de mediador, el sacerdote tomaba los pecados sobre sí mismo, y salía del santuario llevando sobre sí la carga de las culpas de Israel. A la puerta del tabernáculo ponía las manos sobre la cabeza del macho cabrío símbolo de Azazel, y confesaba \"sobre él todas las iniquidades de los hijos de Israel, y todas sus rebeliones, y todos sus pecados, poniéndolos así sobre la cabeza del macho cabrío\". Y cuando el macho cabrío que llevaba estos pecados era conducido al desierto, se consideraba que con él se alejaban para siempre del pueblo. Tal era el servicio verificado como \"bosquejo y sombra de las cosas celestiales\". Hebreos 8:5…</p><p>De este modo, en el servicio del tabernáculo, y en el del templo que posteriormente ocupó su lugar, se enseñaban diariamente al pueblo las grandes verdades relativas a la muerte y al ministerio de Cristo, y una vez al año sus pensamientos eran llevados hacia los acontecimientos finales de la gran controversia entre Cristo y Satanás, y hacia la purificación final del universo, que lo limpiará del pecado y de los pecadores (Historia de los patriarcas y profetas, pp. 369, 370, 372).</p><p>Estamos en el gran día de la expiación, y la sagrada obra de Cristo que se está llevando a cabo en este momento en favor del pueblo de Dios en el Santuario celestial, debiera ser nuestro estudio constante. Debemos enseñar a nuestros hijos lo que significaba el típico día de la expiación, y que era una época especial de gran humillación y confesión de pecados ante Dios. El día simbolizado por la expiación ha de ser del mismo carácter. Todo el que enseña la verdad por precepto y ejemplo dará a la trompeta un sonido certero... Tenemos por delante la obra de apartar al pueblo de las costumbres y prácticas del mundo, de subir cada vez más alto, hacia la espiritualidad, la consagración y la obra ferviente por Dios. [Nuestra] obra es proclamar el mensaje del tercer ángel, hacer sonar la última nota de advertencia ante el mundo. Que el Señor [nos] bendiga con percepción espiritual (Testimonios para la iglesia, t. 5, pp. 490, 491).</p><p>Actualmente nos encontramos en el atrio exterior, aguardando la bendita esperanza de la aparición gloriosa de nuestro Salvador y Señor Jesucristo. Afuera no se ha de ofrecer sacrificio alguno, porque el gran Sumo Sacerdote está llevando a cabo su obra en el Lugar Santísimo. Durante su intercesión como abogado nuestro, Cristo no necesita ninguna virtud humana ni mediación de nadie. Él es el único portador del pecado, la única ofrenda por el pecado. La oración y la confesión deben dirigirse solo a él, quien entró una vez para siempre en el Lugar Santísimo. Salvará hasta lo sumo a todos los que acuden a él con fe. Él vive constantemente para interceder por nosotros (Exaltad a Jesús, 1° de noviembre, p. 313).</p>",
+         "date":"20 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>EN EL LUGAR SANTÍSIMO</p>",
+         "id":83,
+         "idDay":3,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Espaciarse en la belleza, la bondad, la misericordia y el amor de Jesús fortalece las facultades mentales y morales; y entre tanto que la mente se ejercita para hacer las obras de Cristo, para llegar a ser hijos obedientes, habitualmente preguntaréis: ¿Es este el camino del Señor? ¿Se agradará Jesús con que yo haga esto? Este proceder ¿será para agradarme a mí mismo o para agradar a Jesús?</p><p>Entonces cada alma recordará las palabras del Señor: \"Pusiste ... nuestros yerros a la luz de tu rostro\". Muchos necesitan efectuar un cambio radical en la tendencia de sus pensamientos y acciones, si desean agradar a Jesús. Nuestros pecados rara vez nos parecen tan terribles como lo son a la vista de Dios. Muchos se han habituado a seguir una senda de pecado, y sus corazones se endurecen bajo la influencia del poder de Satanás. Sus pensamientos son cautivados por la mala influencia de este. Pero cuando con la fortaleza y gracia de Dios se oponen con la voluntad a las tentaciones de Satanás, se aclara su mente; el corazón y la conciencia, al ser influidos por el Espíritu de Dios, se hacen sensibles, y entonces el pecado aparece tal como es excesivamente pecaminoso. Entonces es cuando realmente ven y comprenden los pecados secretos. Confiesan sus pecados a Dios, se arrepienten de ellos y se avergüenzan del pecado ... Él los quita de \"la luz de [su] rostro\" y los pone a sus espaldas (Comentarios de Elena G. de White en Comentario bíblico adventista, t. 3, p. 1168).</p><p>Cuando [a José] se lo tentó para que se desviara de la senda recta, para que violara la ley de Dios y traicionara a su amo, resistió firmemente y dio evidencias del poder elevador del temor de Dios en la respuesta que dio a la esposa de su señor...</p><p>Aquí tenemos un ejemplo para todas las generaciones de creyentes que habrían de vivir sobre la tierra. Aunque estén expuestos a la tentación debieran saber que hay una defensa al alcance de la mano, y que si finalmente no reciben protección será por su propia culpa. Dios será un pronto auxilio y su Espíritu será un escudo. Aunque estén rodeados de las más terribles tentaciones hay una fuente de fortaleza a la cual pueden recurrir para resistirlas...</p><p>José sufrió entonces porque no quiso claudicar. Había puesto su reputación y sus intereses en las manos de Dios. Y aunque se permitió que fuera afligido por cierto tiempo, para prepararlo con el fin de que ocupara un puesto importante, el Señor protegió esa reputación que había sido ensombrecida por una malvada acusadora, y más tarde, a su debido tiempo, permitió que aquélla resplandeciera. Dios usó incluso de la prisión como un camino que lo conduciría a su elevación. La virtud proporcionará a su debido tiempo su propia recompensa. El escudo que protegía el corazón de este joven era el temor de Dios, que lo indujo a ser fiel y justo con su amo, y leal a su Señor (La historia de la redención, pp. I03-105).</p>",
-          "date": "20 de febrero",
-          "day": "-",
-          "dayTitle": "<p>LA PRUEBA DEL SEÑOR</p>",
-          "id": 84,
-          "idDay": 4,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>En el día del juicio los hombres verán en qué se podrían haber convertido por medio del poder de Cristo... Conocieron las exigencias de Dios, pero se negaron a cumplir las condiciones establecidas en su Palabra…</p><p>Claramente, como a la luz del sol del mediodía, todos ven lo que podrían haber tenido si hubieran cooperado con Dios en vez de oponérsele. El cuadro no puede modificarse. Sus casos están decididos para siempre. Deben morir con aquellos cuyos caminos y obras siguieron.</p><p>Un rayo de luz llegará a todas las almas perdidas. Entenderán plenamente el misterio de la piedad que despreciaron y aborrecieron durante su vida. Y los ángeles caídos, dotados de una inteligencia superior a la del hombre, se darán cuenta de lo que hicieron al emplear sus poderes para inducir a los seres humanos a escoger el engaño y la falsedad. Todos los que se unieron al impostor, los que se instruyeron en sus caminos y practicaron sus engaños, deben perecer con él... El Señor Jesús los mira compasivamente y dice: \"Apartaos\" (Alza tus ojos, 8 de julio, p. 201).</p><p>Nadie necesita ser engañado. La ley de Dios es tan sagrada como su trono, y mediante ella será juzgado todo hombre que nace en el mundo. No existe otra norma para probar el carácter. \"Si no dijeren conforme a esto, es porque no les ha amanecido\". Ahora bien, ¿se decidirá el caso de acuerdo con la Palabra de Dios, o se dará crédito a las pretensiones humanas? Cristo dice: \"Por sus frutos los conoceréis\" (Mensajes selectos, t. 2, p. 58).</p><p>Dios no obliga a nadie a que lo ame ni que obedezca su ley. Él ha manifestado un amor inconmensurable hacia el hombre en el plan de la redención. Ha derramado los tesoros de su sabiduría y ha dado el don más precioso del cielo para que nos viésemos constreñidos a amarlo y a ponernos en armonía con su voluntad. Si rehusamos ese amor y si no queremos que él nos gobierne, estaremos preparando nuestra propia ruina, y finalmente nos veremos frente a una pérdida eterna…</p><p>Cuando los casos de todos pasen en revista delante de Dios, no se formulará esta pregunta: ¿Qué profesaron ellos?, sino estas otras: ¿Qué hicieron ellos? ¿Han sido ejecutores de la palabra? ¿Han vivido para sí mismos? ¿O bien se han ejercitado en obras de benevolencia y bondad, en amor, prefiriendo a los demás antes que a ellos mismos, y negándose a sí mismos a fin de poder bendecir a otros?</p><p>Si el registro muestra que tal ha sido su vida, que sus caracteres están señalados por la ternura, la abnegación y la benevolencia, recibirán la bendita seguridad y bendición de Cristo: \"Bien hecho\", y \"Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo\". Mateo 25:34 (Consejos sobre mayordomía cristiana, pp. 133, 135).</p>",
+         "date":"21 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>EL JUICIO HA LLEGADO</p>",
+         "id":84,
+         "idDay":4,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Los ángeles están dedicados noche y día en el servicio de Dios para elevación del hombre de acuerdo con el plan de salvación. Se requiere del hombre que ame a Dios supremamente; es decir, con toda su fuerza, mente y corazón, y a su prójimo como a sí mismo. Esto no lo puede hacer a menos que se niegue a sí mismo. Dijo Cristo: \"Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame\". Mateo 16:24...</p><p>Escudriñemos cuidadosamente y veamos si la verdad que hemos aceptado ha llegado a ser un firme principio para nosotros. ¿Llevamos a Cristo con nosotros cuando salimos de la cámara de oración? ¿Está nuestra religión de guardia a la puerta de nuestros labios? ¿Se siente nuestro corazón atraído con simpatía y amor por los demás fuera de los de nuestra propia familia? ¿Estamos tratando diligentemente de obtener una comprensión más clara de la verdad bíblica para que podamos dejar resplandecer nuestra luz en los demás? ¿Podemos contestar estas preguntas en nuestras propias almas? Sea nuestra conversación sazonada con gracia y revele nuestra conducta elevación cristiana (Testimonios para la iglesia, t. 4, pp. 512, 513).</p><p>Hay quienes siempre presentan excusas por andar de acuerdo con los consejos del enemigo. Hay quienes piensan que porque padecen una debilidad física, tienen el privilegio de pronunciar palabras mezquinas y actuar de manera antipática. Pero, ¿acaso no ha hecho provisión Jesús para que los tales venzan la tentación? ¿Han de ser desagradecidos e impíos por causa de las pruebas y las aflicciones? ¿No son acaso los rayos de la justicia de Cristo lo suficientemente luminosos como para disipar las sombras de Satanás?</p><p>Se afirma que la gracia de Dios es suficiente para contrarrestar todos los males y las pruebas contra los cuales tienen que luchar los seres humanos....</p><p>¡Oh, cuán precioso es Jesús para el alma que confía en el! Pero muchos andan en tinieblas porque sepultan su fe en las sombras de Satanás. No han hecho lo que podían hacer por medio de la gracia de Jesús. No hablan acerca de la fe, la esperanza y el valor. Jamás deberíamos permitirle a Satanás que crea que su poder para perturbar y molestar es mayor que el poder de Cristo para sostener y fortalecer (Cada día con Dios, p. 175).</p><p>Dios manda que llenemos la mente con pensamientos grandes y puros. Desea que meditemos en su amor y misericordia, que estudiemos su obra maravillosa en el gran plan de la redención. Entonces podremos comprender la verdad con claridad cada vez mayor, nuestro deseo de pureza de corazón y claridad de pensamiento será más elevado y más santo. El alma que mora en la atmósfera pura de los pensamientos santos, será transformada por la comunión con Dios por medio del estudio de las Escrituras...</p><p>La vida espiritual se fortalece con el conflicto. Las pruebas, cuando se las sobrelleva bien, desarrollan la firmeza de carácter y las preciosas gracias espirituales. El fruto perfecto de la fe, la mansedumbre y el amor, a menudo maduran mejor entre las nubes tormentosas y la oscuridad (Palabras de vida del gran Maestro, pp. 39-41).</p>",
-          "date": "21 de febrero",
-          "day": "-",
-          "dayTitle": "<p>EL ENGAÑO DEL MAL CAMINO</p>",
-          "id": 85,
-          "idDay": 5,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Tenemos a uno que es plenamente capaz, y siempre está dispuesto, a darnos la precisa ayuda que requerimos en el momento de necesidad. Se nos ha invitado a pedir la ayuda, a acudir con confianza al trono de la gracia, a pedir lo que queramos, para que nos sea hecho. Y si las palabras de Cristo permanecen en nosotros, somos los elegidos de Dios, y daremos fruto en la fe constante, acariciando la fe que obra por el amor y purifica el alma de toda contaminación moral. \"Mucho fruto\" es la evidencia de que las palabras de Cristo permanecen y obran en el interior (The Signs qf the Times, 20 de febrero, 1896, párrafo 3).</p><p>Los que poseen esa fe que obra mediante el amor y purifica el alma, serán santificados en cuerpo, alma, espíritu e intelecto. Habrá un ministerio eficaz cuando el siervo de Dios se proponga como propósito de su vida asirse de la palabra de Dios con una determinación que nada pueda liberar, aferrarse a esa palabra, alimentarse de ella e impartirla a otros como palabra de vida.</p><p>Cuando confiemos plenamente en Cristo, nos daremos a nosotros mismos en ofrenda a Dios. Nuestra dependencia estará centrada en la virtud y en la intercesión de Cristo como nuestra única esperanza. No hay confusión, ni sospecha, puesto que por la fe vemos a Jesús, el enviado de Dios, cuya misión es lograr la reconciliación con los pecadores. Si deseamos creer solamente en Cristo, él está comprometido con un pacto solemne de mediar en favor de los que, por su intermedio, se acercan al Padre, con el propósito de garantizar su salvación. Este privilegio está garantizado si nos acercamos confiadamente el trono de la gracia para alcanzar misericordia y hallar gracia para el oportuno socorro (Leiter 153, 1897; parcialmente en Recibiréis poder, p. 144).</p><p>En el nombre de Cristo ascienden al Padre nuestras peticiones. Él intercede en nuestro favor, y el Padre deja abiertos todos los tesoros de su gracia para que podamos apropiarnos de ellos, gocemos de ellos y los comuniquemos a otros. Pedid en mi nombre, dice Cristo. No digo que yo oraré al Padre por vosotros, porque el Padre mismo os ama, porque me habéis amado. Haced uso de mi nombre. Esto dará eficacia a vuestras oraciones, y el Padre os dará las riquezas de su gracia. Por lo tanto, pedid y recibiréis, para que vuestro gozo sea cumplido.</p><p>¡Qué bondadosa condescendencia! ¡Qué privilegio se nos concede! Cristo es el eslabón que une a Dios con el hombre... Al acercarnos a Dios mediante la virtud de los méritos de Cristo nos ataviamos con sus vestiduras sacerdotales. Nos pone muy cerca de sí, abrazándonos con su brazo humano, mientras que con el brazo divino se aferra del trono del Infinito. Él pone sus méritos, como suave incienso en un incensario, en nuestras manos, a fin de animar nuestras peticiones. El promete oír y responder nuestras súplicas. Sí, Cristo se ha convertido en el cauce de la oración entre el hombre y Dios. También se ha convertido en el cauce de bendición entre Dios y el hombre. Ha unido la divinidad con la humanidad (In Heavenly Places, p. 77; parcialmente en En los lugares celestiales, 11 de marzo, p. 79).</p>",
+         "date":"22 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>LA BUENA NOTICIA DEL LUGAR SANTÍSIMO</p>",
+         "id":85,
+         "idDay":5,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cristo se ha comprometido a ser nuestro sustituto y seguridad, y no rechaza a nadie. Hay un fondo inagotable de obediencia perfecta que surge de su obediencia. En el cielo sus méritos, abnegación y sacrificio propio, se atesoran como incienso que se ofrece juntamente con las oraciones de su pueblo. Cuando las sinceras y humildes oraciones de los pecadores ascienden al trono de Dios, Cristo mezcla con ellas los méritos de su propia vida de perfecta obediencia. Nuestras oraciones resultan fragantes gracias a este incienso. Cristo se ha comprometido a interceder en nuestro favor, y el Padre siempre oye al Hijo.</p><p>Este es el misterio de la piedad. Que Cristo haya tomado la naturaleza humana, y que por una vida de humillación eleve al hombre en la escala del valor moral junto a Dios; que pueda llevar la naturaleza que adoptó junto al trono de Dios, y que allí presente a sus hijos al Padre, confiriéndoles un honor que excede al que les ha otorgado a los ángeles, es la maravilla del universo celestial, el misterio que los ángeles desean contemplar. Este es el amor que quebranta el corazón del pecador (Hijos e hijas de Dios, p. 24).</p><p>Como la rama depende del tronco principal para su crecimiento y fructificación, así también vosotros necesitáis el auxilio de Cristo para poder vivir una vida santa. Fuera de él no tenéis vida. No hay poder en vosotros para resistir la tentación o para crecer en la gracia o en la santidad. Morando en El, podéis florecer. Recibiendo vuestra vida de él, no os marchitaréis ni seréis estériles. Seréis como el árbol plantado junto a arroyos de aguas.</p><p>Muchos tienen la idea de que deben hacer alguna parte de la obra solos. Confiaron en Cristo para obtener el perdón de sus pecados, pero ahora procuran vivir rectamente por sus propios esfuerzos. Mas todo esfuerzo tal fracasará. El Señor Jesús dice: \"Porque separados de mí nada podéis hacer\". Nuestro crecimiento en la gracia, nuestro gozo, nuestra utilidad, todo depende de nuestra unión con Cristo. Solo estando en comunión con él diariamente y permaneciendo en Él cada hora es como hemos de crecer en la gracia. Él no es solamente el autor de nuestra fe sino también su consumador. Ocupa el primer lugar, el último y todo otro lugar. Estará con nosotros, no solo al principio y al fin de nuestra carrera, sino en cada paso del camino. David dice: \"A Jehová he puesto siempre delante de mí; porque estando él a mi diestra, no resbalaré\". Salmo 16:8 (El camino a Cristo, p. 69).</p><p>Dios desea que el hombre sea feliz, y por esto le dio los preceptos de su ley, para que al obedecerlos pueda tener gozo en el hogar y fuera de él. Mientras conserve su integridad moral, sea fiel a los principios y controle todos sus poderes no puede ser desdichado. Con sus zarcillos aferrados a Dios, el corazón estará lleno de paz y gozo, y el alma florecerá en medio de la incredulidad y la depravación (Reflejemos a Jesús, p. 297).</p>",
-          "date": "22 de febrero",
-          "day": "-",
-          "dayTitle": "<p>BENDICIONES DE UNA VIDA RECTA</p>",
-          "id": 86,
-          "idDay": 6,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Jesús... caminó una vez como hombre sobre la tierra, su divinidad vestida de humanidad, como un hombre sufriente, tentado, acosado por los engaños de Satanás... Ahora Él está a la diestra de Dios; está en el cielo como nuestro abogado, intercediendo por nosotros. Debemos siempre tomar aliento y esperanza al meditar en ello. Él está pensando en quienes están sujetos a las tentaciones en este mundo. Piensa en nosotros individualmente, y conoce cada necesidad nuestra. Cuando sea tentado, tan solo diga: El cuida de mí; él intercede por mí; él me ama; él murió por mí. Me entregaré sin reservas a él.</p><p>Agraviamos el corazón de Cristo cuando nos lamentarnos de nosotros mismos como si fuéramos nuestros propios salvadores. No; debemos confiar la custodia de nuestras almas a Dios como a un fiel Creador. Él siempre vive para interceder por nosotros, los tentados y probados. Abra su corazón a los resplandecientes rayos del Sol de justicia, y no permita que un aliento de duda, ni una palabra de descreimiento escape de sus labios, no sea que siembre la semilla de la duda. Hay ricas bendiciones para nosotros; tomémoslas por medio de la fe. Le ruego que tome ánimo en el Señor. La fortaleza divina es nuestra; hablemos de valor, fortaleza y fe (Reflejemos a Jesús, 5 de abril, p. 101).</p><p>El templo de Dios está abierto en el cielo, y su umbral está inundado por la gloria destinada para cada iglesia que ama a Dios y guarda sus mandamientos. Necesitamos estudiar, meditar y orar. Entonces tendremos visión espiritual para discernir las cortes interiores del templo celestial. Captaremos los temas de los cantos y las acciones de gracias del coro celestial que rodea el trono. Cuando Sion se levante y brille, su luz será más penetrante, y preciosos cantos de alabanza y agradecimiento se escucharán en las reuniones de los santos. Dejarán de escucharse las murmuraciones, las quejas y los lamentos por pequeños chascos y dificultades. Al aplicarnos el colirio celestial contemplaremos la gloria que se extiende más allá. La fe irrumpirá en la sombra infernal de Satanás, y veremos a nuestro Abogado que ofrece el incienso de sus propios méritos en nuestro favor (A fin de conocerle, 24 de septiembre, p. 272).</p><p>En esta vida, podemos apenas empezar a comprender el tema maravilloso de la redención. Con nuestra inteligencia limitada podemos considerar con todo fervor la ignominia y la gloria, la vida y la muerte, la justicia y la misericordia que se tocan en la cruz; pero ni con la mayor tensión de nuestras facultades mentales llegamos a comprender todo su significado. La largura y anchura, la profundidad y altura del amor redentor se comprenden tan solo confusamente. El plan de la redención no se entenderá por completo ni siquiera cuando los rescatados vean como serán vistos ellos mismos y conozcan como serán conocidos; pero a través de las edades sin fin, nuevas verdades se desplegarán continuamente ante la mente admirada y deleitada. Aunque las aflicciones, las penas y las tentaciones terrenales hayan concluido, y aunque la causa de ellas haya sido suprimida, el pueblo de Dios tendrá siempre un conocimiento claro e inteligente de lo que costó su salvación (El conflicto de los siglos, p. 632).</p>",
+         "date":"23 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>JESÚS, NUESTRO ABOGADO EN EL JUICIO</p>",
+         "id":86,
+         "idDay":6,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>La maravillosa gracia de Dios, 29 de mayo, \"El eterno compromiso de Dios\", p. 157;</p><p>Cada día con Dios, 30 de mayo, \"Punto de vista\", p. 157.</p>",
-          "date": "23 de febrero",
-          "day": "-",
-          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
-          "id": 87,
-          "idDay": 7,
-          "idLesson": 8,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>La fe por la cual vivo, 19 de julio, \"Purificación de las cosas celestiales\", p. 208; Testimonios para la iglesia, \"No hay tiempo que perder\", t. 8, pp. 328, 329.</p>",
+         "date":"24 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR</p>",
+         "id":87,
+         "idDay":7,
+         "idLesson":8,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>SABIDURÍA PARA VIVIR CON RECTITUD</p>",
-      "verse": "<p>“Enséñanos a contar nuestros días de modo que nuestro corazón adquiera sabiduría” (Sal. 90:12).</p>",
-      "versionCode": 100,
-      "weekDate": "17-23 de febrero"
-    }
+         ]
+      }
+   ],
+   "title":"<p>LUZ DESDE EL SANTUARIO</p>",
+   "verse":"<p>“Lo principal de lo que venimos diciendo es que tenemos un Sumo Sacerdote que se sentó a la diestra del trono de la Majestad en el cielo; y es ministro del santuario, de aquel verdadero santuario que levantó el Señor y no el hombre” (Hebreos 8:1, 2).<br></p>",
+   "versionCode":60,
+   "weekDate":"18-24 de mayo"
+}

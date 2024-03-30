@@ -1,129 +1,128 @@
 {
-
-      "color": "#1A8CFF",
-      "finalDate": "-",
-      "id": 7,
-      "idEs": 25,
-      "language": "es",
-      "lessonNumber": 7,
-      "lessonType": "A",
-      "quarter": "1T2024",
-      "studies": [
-        {
-          "content": "<p>Aunque afligido y necesitado, Jehová pensará en mí. Mi ayuda y mi libertador eres tú; Dios mío, no te tardes. Salmo 40:17.</p><p>Que no os desanime vuestra gran necesidad. El Salvador de los pecadores, el Amigo de los que no tienen amigo, con una compasión infinitamente mayor de la que tiene una madre tierna por un hijo amado y afligido, nos invita: \"Mirad a mí y sed salvos\". Isaías 45:22. \"Más él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su Haga fuimos nosotros curados\". Isaías 53:5.</p><p>Existe el peligro de no hacer un asunto personal de las enseñanzas de Cristo, de no recibirlas como si se nos dirigieran personalmente. Jesús se dirige a mí en sus palabras de instrucción. Puedo apropiarme de sus méritos, su muerte, su sangre purificadora, tan plenamente como si no hubiera otro pecador en el mundo por quien hubiera muerto Cristo (A fin de conocerle, p. 282).</p><p>Aprenda constantemente de Jesús, aumente siempre su fe y crezca en la gracia y en el conocimiento de la verdad... El Señor es nuestro ayudador y nuestro escudo. Los ángeles de Dios están empeñados en esta obra de proclamar al mundo el mensaje de amonestación. Nosotros mismos nada podemos hacer. Sin el Espíritu del Señor somos tan débiles como el agua. Nuestra fuerza consiste en ocultarnos en Jesús. Sea Cristo el muy amado y señalado entre diez mil (Cada día con Dios, p. 58).</p><p>No debes sucumbir al desaliento. El corazón débil será fortalecido; el abatido tendrá esperanza. Dios cuida tiernamente de su pueblo. Sus oídos están abiertos a su clamor. No tengo temores por la causa de Dios. Él cuidará de su causa. Nuestro deber es cumplir con nuestra parte, en nuestro lugar, y vivir... con humildad al pie de la cruz y ser fieles, viviendo píamente delante de Él. Al hacerlo no seremos avergonzados, sino que nuestras almas confiarán en Dios con santa osadía...</p><p>Mi corazón está determinado en su confianza en Dios. Tenemos un Salvador poderoso. Podemos regocijarnos en su rica plenitud. Anhelo ser más devota y consagrada a Dios. Este mundo es demasiado oscuro para mi Jesús dijo que él iría a prepararnos mansiones, para que donde</p><p>Él esté nosotros también podamos estar. Alabado sea Dios por esto. Mi corazón salta de alegría ante la gozosa perspectiva...</p><p>[Mientras percibimos el maravilloso amor de Dios, no nos quedaremos quietos, sino que ofreceremos a Dios un sacrificio de agradecimiento y haremos canción a su nombre con nuestros corazones y voces. Pongamos nuestros pies sobre la Roca de la eternidad, y allí obtendremos apoyo y consuelo permanentes. Nuestras almas descansarán en Dios con una confianza inconmovible (Reflejemos a Jesús, p. 343).</p>",
-          "date": "10 de febrero",
-          "day": "-",
-          "dayTitle": "<p>TU AMOR ES GRANDE HASTA LOS CIELOS</p>",
-          "id": 71,
-          "idDay": 1,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+   "color":"#C13B59",
+   "finalDate":"-",
+   "id":7,
+   "idEs":27,
+   "language":"es",
+   "lessonNumber":7,
+   "lessonType":"A",
+   "quarter":"2T2024",
+   "studies":[
+      {
+         "content":"<p>Jesús va a venir, pero no será, como en su primer advenimiento, un niño en Belén; no como cabalgó al entrar en Jerusalén, cuando los discípulos alabaron a Dios con fuerte voz y clamaron: \"¡Hosanna!\", sino que vendrá en la gloria del Padre y con todo el séquito de santos ángeles para escoltarlo en su traslado a la tierra. Todo el cielo se vaciará de ángeles, mientras los santos lo estén esperando, mirando hacia el cielo, como lo hicieron los galileos cuando ascendió desde el Monte de las Olivas. Entonces únicamente los que sean santos, los que hayan seguido plenamente al manso Dechado, se sentirán arrobados de gozo y exclamarán al contemplarle: \"He aquí, este es nuestro Dios; le hemos esperado, y nos salvará\"…</p><p>Teniendo tal perspectiva delante de nosotros, tan gloriosa esperanza, semejante redención que Cristo compró para nosotros con su propia sangre, ¿callaremos? ¿No alabaremos a Dios con voz fuerte, como lo hicieron los discípulos cuando Jesús cabalgó entrando en Jerusalén? ¿No es nuestra perspectiva mucho más gloriosa que la de ellos entonces? ¿Quién se atreve a prohibirnos que glorifiquemos a Dios, aun con fuerte voz, cuando tenemos tal esperanza, henchida de inmortalidad y de gloria? Hemos gustado las potestades del mundo venidero, y las anhelamos en mayor medida (Primeros escritos, pp. 109, 110).</p><p>¡Cristo viene pronto! No viene para escuchar los lamentos de la humanidad y luego de oír al pecador culpable confesar sus pecados, pronunciar sobre él la palabra de perdón; porque el caso de cada uno estará entonces decidido para vida o muerte... Los que hayan confesado sus pecados a Jesús mientras estaba en el santuario e hicieron amistad con él y amaron su regreso, tendrán escrito el perdón de todos sus pecados... Jesús regresa como ascendió al cielo, pero con mayor esplendor. Viene con la gloria de su Padre y con todos los santos ángeles que lo escoltan. En vez de la cruel corona de espinas que hirió sus sienes llevará una corona de resplandeciente gloria sobre su sagrada frente (La fe por la cual vivo, 11 de diciembre, p. 353).</p><p>Han pasado más de mil ochocientos años desde que el Salvador dio la promesa de su venida. A través de los siglos sus palabras han llenado de ánimo el corazón de sus fieles. La promesa todavía no se ha cumplido ... pero, no por eso es menos segura la palabra que ha sido hablada…</p><p>El tiempo de la demora casi ha terminado. Los peregrinos y extranjeros que durante tanto tiempo han buscado un país mejor, ya casi han llegado... \"Por lo cual, oh amados, estando en esperanza de estas cosas, procurad con diligencia que seáis hallados de él sin mácula, y sin reprensión, en paz\". 2 Pedro 3:14 (Nuestra elevada vocación, 27 de diciembre, p. 369).</p>",
+         "date":"11 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>MOTIVADOS POR LA ESPERANZA</p>",
+         "id":71,
+         "idDay":1,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Esta mañana mi alma está llena de alabanza y agradecimiento a Dios, de quien proceden todas nuestras bendiciones. El Señor es bueno, y su misericordia es eterna. Alabaré al que es la luz de mi rostro y mi Dios. Él es la fuente de toda eficiencia y poder. ¿Por qué no lo alabamos hablando palabras de esperanza y consuelo a otros? ¿Por qué están silenciosos nuestros labios? El habla es un don del cielo, y debería emplearse para expresar alabanza al que nos ha llamado de las tinieblas a su luz admirable.</p><p>¡Oh, cuánto bien se realizaría si todos los que profesan ser cristianos honraran a Dios!... La luz del mundo brilla sobre los hombres en la forma de abundantes bendiciones. Se han hecho todas las provisiones necesarias para suplir nuestras necesidades temporales y espirituales. Sin embargo, ¡cuán pocas acciones de gracias recibe el Dador! (A fin de conocerle, p. 221).</p><p>Dios quería demostrar a los israelitas que no podían atribuirse la conquista de Canaán. El Capitán de las huestes de Jehová venció a Jericó. Él y sus ángeles estaban implicados en esa victoria. Cristo ordenó a los ejércitos del cielo que derribaran los muros de Jericó y prepararan así una entrada para Josué y los ejércitos de Israel. Dios, mediante este maravilloso milagro, no solamente fortaleció la fe de su pueblo en su capacidad de subyugar a sus enemigos, sino que los reprendió por su anterior incredulidad.</p><p>Jericó había desafiado a los ejércitos de Israel y al Dios del cielo. Y cuando contemplaron la hueste de Israel que marchaba alrededor de su ciudad cada día, sus habitantes se sintieron alarmados. Pero contemplaban sus poderosas defensas, sus muros elevados y sólidos, y se sentían seguros de que podrían resistir cualquier ataque. Pero cuando sus poderosos muros de repente se resquebrajaron y cayeron con un estrépito semejante al de un fortísimo trueno, quedaron paralizados de terror y no pudieron ofrecer resistencia (La historia de la redención, p. 185).</p><p>Dice el salmista: \"Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. No hay lenguaje ni palabras, ni es oída su voz\" (Salmo 19:1-3) ... Todas esas maravillas de los cielos tan solo están haciendo la obra que les ha sido señalada. Son los instrumentos de Dios. Dios es quien vigila la marcha de todas las cosas, así como fue su Creador. El Ser Divino se ocupa en sostener las cosas que ha creado. La misma mano que sostiene y equilibra las montañas en su posición, guía los mundos en su misteriosa marcha alrededor del sol.</p><p>Apenas si hay alguna función de la naturaleza a la que no encontremos una referencia en la Palabra de Dios. La Palabra declara que \"hace salir su sol\", y hace descender la lluvia. Mateo 5:45. \"Hace a los montes producir hierba\". \"Da la nieve como lana, y derrama la escarcha como ceniza. Echa su hielo como pedazos; ... enviará su palabra, y los derretirá; soplará su viento, y fluirán las aguas\" Salmo 147:8, 16-18 (Mensajes selectos, t .1, pp. 345, 346).</p>",
-          "date": "11 de febrero",
-          "day": "-",
-          "dayTitle": "<p>SU AMOR ES PARA SIEMPRE</p>",
-          "id": 72,
-          "idDay": 2,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Una de las verdades más solemnes y más gloriosas que revela la Biblia, es la de la segunda venida de Cristo para completar la gran obra de la redención. Al pueblo peregrino de Dios, que por tanto tiempo hubo de morar \"en región y sombra de muerte\", le es dada una valiosa esperanza inspiradora de alegría con la promesa de la venida de Aquel que es \"la resurrección y la vida\" para hacer \"volver a su propio desterrado\". La doctrina del segundo advenimiento es verdaderamente la nota tónica de las Sagradas Escrituras. Desde el día en que la primera pareja se alejara apesadumbrada del Edén, los hijos de la fe han esperado la venida del Prometido que había de aniquilar el poder destructor de Satanás y volverlos a llevar al paraíso perdido. Hubo santos desde los antiguos tiempos que miraban hacia el tiempo del advenimiento glorioso del Mesías como hacia la consumación de sus esperanzas (El conflicto de los siglos, p. 301).</p><p>Esta gran verdad [ha sido el] consuelo de los fieles siervos de Dios a través de los siglos; ¿por qué hubo de convertirse, como su Autor, en \"piedra de tropiezo, y piedra de caída\", para los que profesaban ser su pueblo? Fue nuestro Señor mismo quien prometió a sus discípulos: \"Si yo fuere y os preparare el lugar, vendré otra vez, y os recibiré conmigo\". Juan 14:3. El compasivo Salvador fue quien, previendo el abandono y dolor de sus discípulos, encargó a los ángeles que los consolaran con la seguridad de que volvería en persona, como había subido al cielo. Mientras los discípulos estaban mirando con ansia al cielo para percibir la última vislumbre de Aquel a quien amaban, fue atraída su atención por las palabras: \"¡Varones galileos, ¿por qué os quedáis mirando así al cielo? Este mismo Jesús que ha sido tomado de vosotros al cielo, así vendrá del mismo modo que le habéis visto ir al cielo!\" Hechos 1:11. El mensaje de los ángeles reavivó la esperanza de los discípulos. \"Volvieron a Jerusalén con gran gozo: y estaban siempre en el templo, alabando y bendiciendo a Dios\". Lucas 24:52, 53. No se alegraban de que Jesús se hubiese separado de ellos ni de que hubiesen sido dejados para luchar con las pruebas y tentaciones del mundo, sino porque los ángeles les habían asegurado que él volvería (El conflicto de los siglos, p. 338).&nbsp;</p><p>Al bajarse la norma moral de los creyentes corintios, ciertas personas habían abandonado algunos de los rasgos fundamentales de su fe. Algunos habían llegado hasta el punto de negar la doctrina de la resurrección. Pablo afrontó esta herejía con un testimonio muy claro en cuanto a la evidencia inconfundible de la resurrección de Cristo. Declaró que Cristo, después de su muerte, \"resucitó al tercer día, conforme a las Escrituras\", después de lo cual \"apareció a Cefas, y después a los doce. Después apareció a más de quinientos hermanos juntos; de los cuales muchos viven aún; y otros son muertos. Después apareció a Jacobo; después a todos los apóstoles. Y el postrero de todos... me apareció a mí\"…</p><p>Pablo dirigió los pensamientos de los hermanos corintios a los triunfos de la mañana de la resurrección, cuando todos los santos que duermen se levantarán, para vivir para siempre con el Señor (Los hechos de los apóstoles, pp. 257, 258).</p>",
+         "date":"12 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>LA PROMESA DE SU REGRESO</p>",
+         "id":72,
+         "idDay":2,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El arrepentimiento de David fue sincero y profundo. No hizo ningún esfuerzo para aminorar su crimen. Lo que inspiró su oración no fue el deseo de escapar a los castigos con que se le amenazaba. Pero vio la enormidad de su transgresión contra Dios; vio la depravación de su alma y aborreció su pecado. No oró pidiendo perdón solamente, sino también pidiendo pureza de corazón. David no abandonó la lucha en su desesperación. Vio la evidencia de su perdón y aceptación, en la promesa hecha por Dios a los pecadores arrepentidos...</p><p>Este pasaje de la historia de David rebosa de significado para el pecador arrepentido. Es una de las ilustraciones más poderosas que se nos hayan dado de las luchas y las tentaciones de la humanidad, y de un verdadero arrepentimiento hacia Dios y una fe sincera en nuestro Señor Jesucristo. A través de todos los siglos ha resultado ser una fuente de aliento para las almas que, habiendo caído en el pecado, han tenido que luchar bajo el peso agobiador de su culpa. Miles de los hijos de Dios han sido los que, después de haber sido entregados traidoramente al pecado y cuando estaban a punto de desesperar, recordaron como el arrepentimiento sincero y la confesión de David fueron aceptados por Dios, no obstante haber tenido que sufrir las consecuencias de su transgresión; y también cobraron ánimo para arrepentirse y procurar nuevamente andar por los senderos de los mandamientos de Dios.</p><p>Quienquiera que bajo la reprensión de Dios humille su alma con la confesión y el arrepentimiento, tal como lo hizo David, puede estar seguro de que hay esperanza para él. Quienquiera que acepte por la fe las promesas de Dios, hallará perdón. Jamás rechazará el Señor a un alma verdaderamente arrepentida (Historia de los patriarcas y profetas, pp. 785, 786).</p><p>Debemos recordar que todos cometen equivocaciones. Aun hombres y mujeres que han tenido años de experiencia a veces yerran. Pero Dios no los abandona a causa de sus errores: a cada descarriado hijo o hija de Adán, les da el privilegio de otra oportunidad.</p><p>Jesús se complace en que vayamos a él como somos, pecaminosos, impotentes, necesitados. Podemos ir con toda nuestra debilidad, insensatez y maldad y caer arrepentidos a sus pies. Es su gloria estrecharnos en los brazos de su amor, vendar nuestras heridas y limpiamos de toda impureza.</p><p>Miles se equivocan en esto: no creen que Jesús les perdona personal e individualmente, No creen al pie de la letra lo que Dios dice. Es el privilegio de todos los que llenan las condiciones, saber por sí mismos que el perdón de todo pecado es gratuito. Alejad la sospecha de que las promesas de Dios no son para vosotros. Son para todo pecador arrepentido. Cristo ha provisto fuerza y gracia para que los ángeles ministradores las lleven a toda alma creyente. Ninguno hay tan malvado que no encuentre fuerza, pureza y justicia en Jesús, que murió por los pecadores. Él está esperándolos para cambiarles los vestidos sucios y corrompidos del pecado por las vestiduras blancas de la justicia; les da vida y no perecerán (The Faith I Live By, p. 134; parcialmente en En los lugares celestiales, p. 136).</p>",
-          "date": "12 de febrero",
-          "day": "-",
-          "dayTitle": "<p>CREA EN MI UN CORAZÓN LIMPIO</p>",
-          "id": 73,
-          "idDay": 3,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>La incredulidad les cierra los ojos [a los creyentes] para que ignoren su verdadera condición. El Testigo Fiel describe así su ceguera: \"Y no sabes que tú eres un desventurado, miserable, pobre, ciego y desnudo\". Apocalipsis 3:17.</p><p>La fe en la pronta venida de Cristo se está desvaneciendo. \"Mi señor tarda en venir\" (Mateo 24:48), es no solo lo que se dice en el corazón, sino que se expresa en palabras y muy definidamente en las obras. En este tiempo de vigilia, el estupor anubla los sentidos del pueblo de Dios con respecto a las señales de los tiempos. La terrible iniquidad que tanto abunda requiere la mayor diligencia y el testimonio vivo para impedir que el pecado penetre en la iglesia. La fe ha estado disminuyendo en grado temible, y únicamente el ejercicio puede hacerla aumentar (Testimonios para la iglesia, t. 3, p. 282).</p><p>Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del Hombre. Mateo 24:27 …</p><p>Pronto aparece en el este una pequeña nube negra, de un tamaño como la mitad de la palma de la mano. Es la nube que envuelve al Salvador y que a la distancia parece rodeada de obscuridad. El pueblo de Dios sabe que es la señal del Hijo del hombre. En silencio solemne la contemplan mientras va acercándose a la Tierra, volviéndose más luminosa y más gloriosa hasta convertirse en una gran nube blanca, cuya base es como fuego consumidor, y sobre ella el arco iris del pacto. Jesús marcha al frente como un gran conquistador. Ya no es \"varón de dolores\", que haya de beber el amargo cáliz de la ignominia y de la maldición; victorioso en el cielo y en la tierra, viene a juzgar a vivos y muertos. \"Fiel y veraz\", \"en justicia juzga y hace guerra\". \"Y los ejércitos que están en el cielo le seguían\". Apocalipsis 19:11, 14.</p><p>Con cantos celestiales, los santos ángeles, en inmensa e innumerable muchedumbre, lo acompañan en el descenso. El firmamento parece lleno de formas radiantes: \"millones de millones, y millares de millares\". Ninguna pluma humana puede describir la escena ni mente mortal alguna es capaz de concebir su esplendor. \"Su gloria cubre los cielos, y la tierra se llena de su alabanza. También su resplandor es como fuego\". Habacuc 3:3, 4. A medida que va acercándose la nube viviente, todos los ojos ven al Príncipe de la vida. Ninguna corona de espinas hiere ya sus sagradas sienes, ceñidas ahora por gloriosa diadema. Su rostro brilla más que la luz deslumbradora del sol de mediodía. \"Y en su vestidura y en su muslo tiene escrito este nombre: Rey de reyes y Señor de señores\". Apocalipsis 19:18 (Maranata: el Señor viene, 7 de octubre, p. 297).</p><p>Todo lo que tenemos que hacer se refiere al día de hoy. Hoy hemos de ser fieles a nuestro cometido. Hoy hemos de amar a Dios con todo el corazón y a nuestro prójimo como a nosotros mismos. Hoy hemos de resistir las tentaciones del enemigo y obtener el triunfo mediante la gracia de Cristo. Así estaremos velando y esperando la venida de Cristo (En los lugares celestiales, 14 de diciembre, p. 357).</p>",
+         "date":"13 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>A LA ESPERA DEL TIEMPO</p>",
+         "id":73,
+         "idDay":3,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>JAH, si miras los pecados, ¿quién, oh Señor, podrá mantenerse? Pero en ti hay perdón, para que seas reverenciado. Salmo 130:3, 4</p><p>Para aquellos que se han desviado del camino el Señor ofrece palabras de ánimo. Aceptará sus oraciones si se arrepienten y convierten. Por medio del infinito sacrificio de Cristo y por fe en su nombre pueden beneficiarse con el cumplimiento de las promesas de Dios. Los hijos de Adán pueden llegar a ser hijos de Dios.</p><p>¡Oh, cuán agradecidos debiéramos estar de que al asumir Cristo la naturaleza humana, los hombres caídos puedan recibir una segunda oportunidad! Cristo los ubica en terreno ventajoso. Al relacionarse con él pueden ser colaboradores de Dios. Por medio de la gracia que cada día les da Cristo, pueden ser elevados y ennoblecidos hasta llegar a ser hijos e hijas de Dios. Tal amor no tiene parangón (Cada día con Dios, p. 253).</p><p>Los hombres pueden decir: \"Te perdono todos los agravios que me has hecho\", y su perdón no borrará un solo pecado. Pero la voz que resuena desde el Calvario: \"Hijo mío, hija mía, tus pecados te son per-donados\", es completamente eficaz. Solamente esa palabra tiene poder y despierta gratitud en el corazón agradecido. Tenemos un Mediador. No hay más que un canal de perdón y ese canal está siempre abierto. Por medio de él un torrente abundante de misericordia divina y perdón se derrama sobre nosotros...</p><p>Muchos han expresado su asombro de que Dios exigiera que los judíos mataran tantas víctimas como ofrenda de sacrificio, pero él debía grabar en sus mentes la excelsa y solemne verdad de que sin derramamiento de sangre no hay remisión de pecados...</p><p>Nunca veremos ni comprenderemos la profunda angustia de los sufrimientos del inmaculado Cordero de Dios hasta que palpemos cuán hondo es el abismo del cual hemos sido rescatados, qué atroz es el pecado del cual la humanidad es culpable, y por fe nos apoderemos del perdón total y completo (Alza tus ojos, p. 217).</p><p>Si cometéis un error, convierte vuestra derrota en victoria. Si se las aprende bien, las lecciones que Dios envía imparten ayuda oportuna. Pongan su confianza en Dios. Oren mucho y crean. Si confían, esperan, creen y se aferran de la mano del poder infinito, serán más que vencedores.</p><p>Los verdaderos obreros andan y trabajan por la fe. A veces se cansan de observar el lento progreso de la obra, cuando la batalla ruge entre las potestades del bien y el mal. Pero si se niegan a aceptar el fracaso o a desalentarse, verán disiparse las nubes y cumplirse la promesa de la liberación. A través de la neblina con que Satanás los ha rodeado, verán resplandecer los brillantes rayos del Sol de justicia...</p><p>Aguarden, no con ansiedad inquieta, sino con fe indómita y confianza inconmovible (Testimonios para la iglesia, t. 7, pp. 232, 233).</p>",
-          "date": "13 de febrero",
-          "day": "-",
-          "dayTitle": "<p>SEÑOR, SI MIRARAS LOS PECADOS</p>",
-          "id": 74,
-          "idDay": 4,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El Señor envió a su ángel para que tocara el corazón de un granjero que no creía en la Biblia, a fin de inducirlo a escudriñar las profecías. Los ángeles de Dios repetidas veces visitaron a aquel escogido para guiar su mente y abrir a su comprensión las profecías que siempre habían sido oscuras para el pueblo de Dios. Se le concedió descubrir el comienzo de la cadena de la verdad, y se lo indujo a buscar eslabón tras eslabón, hasta que pudo contemplar maravillado y admirado la Palabra de Dios. Vio la perfecta cadena de la verdad. La Palabra que según él no era inspirada, ahora se abría ante sus ojos con su belleza y su gloria. Descubrió que una porción de las Escrituras explica la otra, y que cuando un pasaje le resultaba incomprensible, otra porción de la Palabra se lo explicaba. Consideró la Palabra de Dios con gozo, y con el más profundo respeto y reverencia (La historia de la redención, pp. 373, 374).</p><p>La Biblia nos muestra a Dios como autor de ella; y sin embargo fue escrita por manos humanas, y la diversidad de estilo de sus diferentes libros muestra la individualidad de cada uno de sus escritores. Las verdades reveladas son todas inspiradas por Dios (2 Timoteo 3:16); y con todo están expresadas en palabras humanas. Y es que el Ser supremo e infinito iluminó con su Espíritu la inteligencia y el corazón de sus siervos. Les daba sueños y visiones y les mostraba símbolos y figuras; y aquellos a quienes la verdad fuera así revelada, revestían el pensamiento divino con palabras humanas.</p><p>Los Diez Mandamientos fueron enunciados por el mismo Dios y escritos con su propia mano. Su redacción es divina y no humana. Pero la Biblia, con sus verdades de origen divino expresadas en el idioma de los hombres, es una unión de lo divino y lo humano. Esta unión existía en la naturaleza de Cristo, quien era Hijo de Dios e Hijo del hombre. Se puede decir de la Biblia, lo que fue dicho de Cristo: 'Aquel Verbo fue hecho carne, y habitó entre nosotros' Juan 1:14 (Mensajes selectos, t. 1, p. 28).</p><p>Deberíamos pedirle al Señor que abra nuestro entendimiento, para que podamos comprender la verdad divina. Si humillamos nuestro corazón ante Dios, vaciándolo de la vanidad, el orgullo y el egoísmo por medio de la gracia que nos es concedida abundantemente; si deseamos sincera y firmemente creer, los resplandecientes rayos del Sol de justicia brillarán en nuestra mente e iluminarán nuestro entendimiento oscurecido. Jesús es la luz que alumbra a todo hombre que viene a este mundo. Él es la luz del mundo, y nos invita a que vayamos a él y aprendamos de él (Ser semejante a Jesús, 9 de abril, p. 106).</p>",
+         "date":"14 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>WILLIAM MILLER Y LA BIBLIA</p>",
+         "id":74,
+         "idDay":4,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>No es la manifestación de su gracia [de Dios], terrible majestad y poder sin parangón lo que nos dejará sin excusa si le rehusamos nuestro amor y nuestra obediencia. Es el amor, la compasión, la paciencia, la longanimidad que ha manifestado lo que testificará en contra de aquellos que no han ofrecido el servicio voluntario de sus vidas. Los que se convierten a Dios con corazón, alma y mente, encontrarán en él apacible seguridad (Hijos e hijas de Dios, p. 21).</p><p>Necesitamos alabar más a Dios por su \"misericordia\" \"y sus maravillas para con los hijos de los hombres\". Salmo 107:8... Constantemente estamos recibiendo las misericordias de Dios y, sin embargo, ¡cuán poca gratitud expresamos! ¡cuán poco le alabamos por lo que ha hecho en nuestro favor!...</p><p>Nuestro Dios es un Padre tierno y misericordioso... Dios no quiere que sus hijos, a los cuales proporcionó una salvación tan grande, obren como si él fuera un amo duro y exigente. Él es nuestro mejor amigo; y cuando le adoramos quiere estar con nosotros, para bendecirnos y confortarnos llenando nuestro corazón de alegría y amor. El Señor quiere que sus hijos hallen consuelo en servirle y más placer que fatiga en su obra. Él quiere que quienes vengan a adorarle se lleven pensamientos preciosos acerca de su amor y cuidado, a fin de que estén alentados en toda ocasión de la vida y tengan gracia para obrar honrada y fielmente en todo.</p><p>Debemos reunirnos en torno a la cruz. Cristo, y Cristo crucificado, debe ser el tema de nuestra meditación, conversación y más gozosa emoción. Debemos recordar todas las bendiciones que recibimos de Dios; y al cercioramos de su gran amor, debiéramos estar dispuestos a confiar todas las cosas a la mano que fue clavada en la cruz en nuestro favor (El camino a Cristo, pp. 103, 104).</p><p>\"La hora viene —dijo él—, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren...</p><p>La religión no ha de limitarse a las formas o ceremonias externas. La religión que proviene de Dios es la única que conducirá a Dios. A fin de servirle debidamente, debemos nacer del Espíritu divino. Esto purificará el corazón y renovará la mente, dándonos una nueva capacidad para conocer y amar a Dios. Nos inspirará una obediencia voluntaria a todos sus requerimientos. Tal es el verdadero culto. Es el fruto de la obra del Espíritu Santo. Por el Espíritu es formulada toda oración sincera, y una oración tal es aceptable para Dios. Siempre que un alma anhela a Dios, se manifiesta la obra del Espíritu, y Dios se revelará a esa alma. Él busca adoradores tales. Espera para recibirlos y hacerlos sus hijos e hijas (El Deseado de todas las gentes, pp. 159, 160).</p>",
-          "date": "14 de febrero",
-          "day": "-",
-          "dayTitle": "<p>ALABANZA AL DIOS MAJESTUOSO Y MISERICORDIOSO</p>",
-          "id": 75,
-          "idDay": 5,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Dios había hablado al mundo por medio de la naturaleza, las figuras, los símbolos, los patriarcas y los profetas. Las lecciones debían ser dadas a la humanidad en su propio lenguaje. El Mensajero del pacto debía hablar. Su voz debía oírse en su propio templo. Cristo debía venir para pronunciar palabras que pudiesen comprenderse clara y distintamente. Él, el Autor de la verdad, debía separar la verdad del tamo de las declaraciones humanas que habían anulado su efecto. Los principios del gobierno de Dios y el plan de redención debían ser definidos claramente. Las lecciones del Antiguo Testamento debían ser presentadas plenamente a los hombres…</p><p>El cumplimiento del tiempo había llegado (El Deseado de todas las gentes, pp. 25, 26).</p><p>\"Hasta dos mil y trescientas tardes y mañanas; entonces será purificado el Santuario\". Siguiendo la regla que se había impuesto, de dejar que las Sagradas Escrituras se interpretasen a sí mismas, Miller llegó a saber que un día en la profecía simbólica representa un año (Números 14:34; Ezequiel 4:6); vio que el período de los 2,300 días proféticos, o años literales, se extendía mucho más allá del fin de la era judaica, y que por consiguiente no podía referirse al santuario de aquella economía. Miller aceptaba la creencia general de que durante la era cristiana la tierra es el santuario, y dedujo por consiguiente que la purificación del santuario predicha en (Daniel 8:14) representaba la purificación de la tierra con fuego en el segundo advenimiento de Cristo. Llegó pues a la conclusión de que si se podía encontrar el punto de partida de los 2,300 días, sería fácil fijar el tiempo del segundo advenimiento. Así quedaría revelado el tiempo de aquella gran consumación, \"el tiempo en que concluiría el presente estado de cosas, con todo su orgullo y poder, su pompa y vanidad, su maldad y opresión, [...] el tiempo en que la tierra dejaría de ser maldita, en que la muerte sería destruida y se daría el galardón a los siervos de Dios, a los profetas y santos, y a todos los que temen su nombre, el tiempo en que serían destruidos los que destruyen la tierra\" (El conflicto de los siglos, p. 324).</p><p>El principio de las setenta semanas queda establecido irrefutablemente en el año 457 a.C. y su fin en el año 34 d.C. Partiendo de esta fecha no es difícil encontrar el término de los 2,300 días. Las setenta semanas —490 días descontadas de los 2,300 días, quedaban 1,810 días. Concluidos los 490 días, quedaban aún por cumplirse los 1,810 días. Contando desde 34 d.C., los 1,810 años alcanzan al año 1844. Por consiguiente, los 2,300 días de Daniel 8:14 terminaron en 1844. Al fin de este gran período profético, según el testimonio del ángel de Dios, \"el santuario\" debía ser \"purificado\". De este modo la fecha de la purificación del santuario —la cual se creía casi universalmente que se verificaría en el segundo advenimiento de Cristo— quedó definitivamente establecida…</p><p>En 1818, llegó a tener la solemne convicción de que unos veinticinco años después aparecería Cristo para redimir a su pueblo. \"No necesito hablar-----dice Miller— del gozo que llenó mi corazón ante tan embelesadora perspectiva, ni de los ardientes anhelos de mi alma para participar del júbilo de los redimidos... ¡oh! ¡cuán brillante y gloriosa aparecía la verdad! (El conflicto de los siglos, pp. 328, 329).</p>",
+         "date":"15 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>LOS 2,300 DÍAS DE DANIEL 8:14</p>",
+         "id":75,
+         "idDay":5,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>\"Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Él es quien perdona todas tus iniquidades, el que sana todas tus dolencias; el que rescata del hoyo tu vida, el que te corona de favores y misericordias\". Salmo 103:1-4.</p><p>Dios nos ha dado el don del habla para que podamos relatar a otros cómo él nos trata, para que su amor y compasión pueda conmover a otros corazones, y que de otras almas puedan elevarse también alabanzas a Aquel que nos ha llamado de las tinieblas a su luz admirable. El Señor ha dicho: \"Vosotros sois mis testigos\". Isaías 43:10. Pero todos los que son llamados a testificar por Cristo, deben aprender de él a fin de ser testigos eficientes. Como hijos del Rey celestial, deben educarse para dar testimonio en voz clara y distinta, y de tal manera que nadie pueda recibir la impresión de que les cuesta hablar de la misericordia del Señor (Consejos para los maestros, p. 230).</p><p>Por nosotros [Jesús] soportó la agonía del Huerto de Getsemaní... Oh, ¿por qué todo este sufrimiento, esta ignominia y torturante agonía? Fue para que mediante el sacrificio de sí mismo pudiera revelarse su amor, para que pudiera apartar a los hombres de los caminos del peca-do. Después de que hayamos costado tanto al Salvador, ¿lo dejaremos ahora? ¡Oh, no, no! Fiel es el que ha prometido; sus brazos están extendidos para recibir en su corazón de amor a los creyentes arrepentidos, con toda la ternura del afecto divino. En Jesús tenemos un amigo perdurable e inmutable, y aunque todas las perspectivas terrenales fracasen y todo amigo terrenal resulte traicionero, él sigue siendo fiel.</p><p>Sus siervos son tan queridos para él como la niña de sus ojos. En la prueba, en la necesidad, en la perplejidad y en la angustia, no estamos solos; a cada paso, en tono seguro y consolador, él nos pide: \"Sígueme\". \"Nunca te dejaré ni te desampararé (Manuscript Releases, t. 12, p. 115).</p><p>La historia bíblica sostiene al corazón que desmaya con la esperanza de la misericordia divina. No necesitamos desesperarnos cuando vemos que otros lucharon con desalientos semejantes a los nuestros, cayeron en tentaciones como nosotros, y sin embargo recobraron sus fuerzas y recibieron bendición de Dios. Las palabras de la inspiración consuelan y alientan al alma que yerra. Aunque los patriarcas y los apóstoles estuvieron sujetos a las flaquezas humanas, por la fe obtuvieron buen renombre, pelearon sus batallas con la fuerza del Señor y vencieron gloriosamente. Así también podemos nosotros confiar en la virtud del sacrificio expiatorio y ser vencedores en el nombre de Jesús. La humanidad fue humanidad en todas partes del mundo, desde el tiempo de Adán hasta la generación actual; y a través de todas las edades el amor de Dios no tiene comparación (Testimonios para la iglesia, t. 4, p. 19).</p>",
-          "date": "15 de febrero",
-          "day": "-",
-          "dayTitle": "<p>NO OLVIDES NINGUNO DE SUS BENEFICIOS</p>",
-          "id": 76,
-          "idDay": 6,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Ese decreto se encuentra en el capítulo séptimo de Esdras. Vers. 12-26. Fue expedido en su forma más completa por Artajerjes, rey de Persia, en el año 457 a.C. Pero en (Esdras 6:14) se dice que la casa del Señor fue edificada en Jerusalén \"por mandamiento de Ciro, y de Darío y de Artajerjes rey de Persia\". Estos tres reyes, al expedir el decreto y al confirmarlo y completarlo, lo pusieron en la condición requerida por la profecía para que marcase el principio de los 2,300 años. Tomando el año 457 a.C. en que el decreto fue completado, como fecha de la orden, se comprobó que cada especificación de la profecía referente a las setenta semanas se había cumplido.</p><p>\"Desde la salida de la palabra para restaurar y edificar a Jerusalén hasta el Mesías Príncipe, habrá siete semanas, y sesenta y dos semanas\", es decir sesenta y nueve semanas, o sea 483 años. El decreto de Artajerjes fue puesto en vigencia en el otoño del año 457 a.C. Partiendo de esta fecha, los 483 años alcanzan al otoño del año 27 d. C... Entonces fue cuando esta profecía se cumplió. La palabra \"Mesías\" significa \"el Ungido\". En el otoño del año 27 d.C., Cristo fue bautizado por Juan y recibió la unción del Espíritu Santo... Después de su bautismo, Jesús volvió a Galilea, \"predicando el evangelio de Dios, y diciendo: Se ha cumplido el tiempo\". Marcos 1:14, 15 (El conflicto de los siglos, pp. 326-328).</p><p>Aquella semana, o siete años, terminó en el año 34 de nuestra era. Entonces, al apedrear a Esteban, los judíos sellaron finalmente su rechazamiento del evangelio; los discípulos, dispersados por la persecución, \"iban por todas partes anunciando la palabra\" (Hechos 8:4); y poco después se convirtió Saulo el perseguidor, para llegar a ser Pablo, el apóstol de los gentiles.</p><p>Las muchas profecías concernientes al advenimiento del Salvador inducían a los hebreos a vivir en una actitud de constante expectación. Muchos murieron en la fe, sin haber recibido las promesas; pero, habiéndolas visto desde lejos, creyeron y confesaron que eran extranjeros y advenedizos en la tierra. Desde los días de Enoc, las promesas repetidas por intermedio de los patriarcas y los profetas habían mantenido viva la esperanza de su aparición (Profetas y reyes, pp. 515, 516).</p><p>Todo el cielo se interesa por nuestra salvación. ¿Nos interesa-remos nosotros por nuestra salvación? Desechemos toda duda, todo lo que envuelve nuestras almas en tinieblas. Sabemos que el mundo está lleno de iniquidad, pero ¿pensaremos y hablaremos solo de eso? ¿Buscaremos aquí y allá defectos y males? ¿Observaremos con crítica el carácter de nuestros hermanos'? ¡Oh, pensemos mejor en la bondad de Dios! Hablemos de su poder, cantemos de su amor. Entreguemos nuestras almas a Dios como a un Creador fiel, y dejemos de preocuparnos e inquietarnos. Dios nos ayudará a vivir por encima de las cosas de esta vida, y nos dará en abundancia cosas buenas en que pensar y de que hablar. Entremos a la presencia de Cristo. Él está purificando el Santuario celestial. Entremos por la fe. Se ha hecho provisión para nuestra purificación. Se ha abierto un raudal para limpiar el pecado y la inmundicia. Pedid con fe la gracia de Dios, y no pediréis en vano (The Review and Herald, 28 de mayo, 1889, párrafo 11).</p>",
+         "date":"16 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>LA CRONOLOGÍA PROFÉTICA MÁS LARGA</p>",
+         "id":76,
+         "idDay":6,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Alza tus ojos, 16 de enero, \"Resultados de la renovación interior\", p. 28;</p><p>Mensajes selectos, t. 1, \"Aparezca Cristo\", pp. 182, 183.</p>",
-          "date": "16 de febrero",
-          "day": "-",
-          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
-          "id": 77,
-          "idDay": 7,
-          "idLesson": 7,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Exaltad a Jesús, 29 de marzo, \"Glorificado ante el universo\", p. 96; Testimonios para la iglesia, t. 6, \"Preparación para la crisis final\", pp. 404-410.</p>",
+         "date":"17 DE MAYO",
+         "day":"-",
+         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR</p>",
+         "id":77,
+         "idDay":7,
+         "idLesson":7,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>TU AMOR ES GRANDE HASTA LOS CIELOS</p>",
-      "verse": "<p>“Te alabaré entre los pueblos, Señor; cantaré de ti entre las naciones. Porque tu amor es grande hasta los cielos, y hasta las nubes tu fidelidad” (Sal. 57:9, 10).</p>",
-      "versionCode": 100,
-      "weekDate": "10-16 de febrero"
-    }
+         ]
+      }
+   ],
+   "title":"<p>MOTIVADOS POR LA ESPERANZA<br></p>",
+   "verse":"<p>“En ese día se dirá: ‘¡Este es nuestro Dios! Lo hemos esperado, y él nos salvará. Este es el Señor a quien hemos esperado, nos gozaremos y nos alegraremos en su salvación’ ” (Isa. 25:9).<br></p>",
+   "versionCode":60,
+   "weekDate":"11 Mayo -17 Mayo"
+}
