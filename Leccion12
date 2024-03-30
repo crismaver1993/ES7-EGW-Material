@@ -1,129 +1,128 @@
 {
-
-      "color": "#1A8CFF",
-      "finalDate": "-",
-      "id": 12,
-      "idEs": 25,
-      "language": "es",
-      "lessonNumber": 12,
-      "lessonType": "A",
-      "quarter": "1T2024",
-      "studies": [
-        {
-          "content": "<p>\"¿Quién expresará las valentías de Jehová? ¿Quién contará sus alabanzas?\" Salmo 106:2.</p><p>\"Invocad su nombre: haced notorias sus obras en los pueblos. Cantadle, cantadle salmos: hablad de todas sus maravillas. Gloriaos en su santo nombre: alégrese el corazón de los que buscan a Jehová\". Salmo 105:1-3...</p><p>No debemos limitar la invitación del evangelio y presentarla sola-mente a unos pocos elegidos, que, suponemos nosotros, nos honrarán aceptándola. El mensaje ha de proclamarse a todos. Cuando Dios bendice a sus hijos, no es tan solo para beneficio de ellos, sino para el mundo. Cuando nos concede sus dones, es para que los multipliquemos compartiéndolos con otros (El ministerio de curación, pp. 68, 69).</p><p>Dulce será mi meditación en él; Yo me alegraré en Jehová. Salmo 104:34.</p><p>¿Por qué no mantener vuestras mentes arraigadas en las inescrutables riquezas de Cristo, para que podáis presentar a otros las gemas de verdad? En la Palabra de Dios hay ricas minas de verdad, en cuya exploración podemos pasar la vida entera, y sin embargo encontraremos que solo hemos comenzado a revisar sus preciosos depósitos. Cavemos profundamente, y saquemos los tesoros escondidos...</p><p>Necesitamos llenar constantemente nuestra mente con Cristo, y vaciarla de egoísmo y pecado... Justamente en el momento en que vaciéis vuestra mente de vanidad y frivolidad, ese vacío será llenado con aquello que Dios desea daros: su Espíritu Santo. Entonces del buen tesoro del corazón sacaréis buenos frutos, ricas gemas del pensamiento, y otros recibirán las palabras, y comenzarán a glorificar a Dios. ... Vuestros pensamientos y afectos deben morar en Cristo, y debéis reflejar sobre otros aquello que ha brillado sobre vosotros, procedente del Sol de Justicia (Nuestra elevada vocación, p. 117).</p><p>Para nuestro propio beneficio, debemos refrescar en nuestra mente todo don de Dios. Así se fortalece la fe para pedir y recibir siempre más... El alma que responda a la gracia de Dios será como un jardín regado. Su salud brotará rápidamente; su luz saldrá en la obscuridad, y la gloria del Señor le acompañará. Recordemos, pues, la bondad del Señor, y la multitud de sus tiernas misericordias. Como el pueblo de Israel, levantemos nuestras piedras de testimonio, e inscribamos sobre ellas la preciosa historia de lo que Dios ha hecho por nosotros.</p><p>Y mientras repasemos su trato con nosotros en nuestra peregrinación, declaremos, con corazones conmovidos por la gratitud: \"¿Qué pagaré a Jehová por todos sus beneficios para conmigo? Tomaré la copa de la salud, e invocaré el nombre de Jehová. Ahora pagaré mis votos a Jehová delante de todo su pueblo\". Salmo 116:12-14 (El Deseado de todas las gentes, p. 314).</p>",
-          "date": "16 de marzo",
-          "day": "-",
-          "dayTitle": "<p>ADORACIÓN SIN FIN</p>",
-          "id": 121,
-          "idDay": 1,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+   "color":"#C13B59",
+   "finalDate":"-",
+   "id":12,
+   "idEs":27,
+   "language":"es",
+   "lessonNumber":12,
+   "lessonType":"A",
+   "quarter":"2T2024",
+   "studies":[
+      {
+         "content":"<p>La verdad refina el gusto y santifica el juicio. Eleva y ennoblece, y realiza silenciosa y constantemente su obra transformadora, hasta que todo el ser está limpio y es hecho un vaso de honra, bajo la operación del Espíritu Santo, para preparar al que recibe la verdad para la sociedad de los ángeles puros y sin pecado…</p><p>La verdad como está en Jesús no es fría, sin vida y formal... La verdad está llena de calor, de evidencia de la presencia de Jesús…</p><p>Tenemos un mensaje para darlo al mundo. Implica una cruz. Las verdades son desagradables porque requieren la negación del yo y la abnegación. Entonces, cuán esencial es que aquellos que llevan la verdad, cuando hablan fielmente la verdad, demuestren mediante cada palabra y acto que el amor de Cristo los mueve. La verdad es ... siempre agradable, y aquellos que viven la verdad como está en Jesús deberían estudiar cómo presentarla, de modo que aparezca su hermosura (Nuestra elevada vocación, 28 de enero, p. 36).</p><p>\"No se turbe vuestro corazón; creéis en Dios, creed también en mí. En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis\". Juan 14:13.</p><p>Por largo tiempo hemos esperado el retorno del Señor. Pero la promesa es, de todos modos, segura. Pronto estaremos en nuestro hogar prometido. Allí Jesús nos pastoreará junto al río de la vida que sale del trono de Dios y nos explicará las tenebrosas providencias a través de las cuales nos condujo para perfeccionar nuestros caracteres. Allí contemplaremos con clara visión las bellezas del Edén restaurado. Echando a los pies del Redentor las coronas que ha puesto sobre nuestras sienes, y tocando las arpas doradas, henchiremos el cielo entero con la alabanza debida al que está sentado sobre el trono (Testimonios para la iglesia, t. 8, p. 265).</p><p>El mundo se está preparando para su destrucción. Dios no soportará mucho más a los pecadores. Deben beber de la copa de su ira sin mezcla de misericordia. Los que serán herederos de Dios, y coparticipantes con Cristo de la herencia inmortal, serán peculiares, y serán tan peculiares que Dios colocará una marca sobre ellos para indicar que le pertenecen completamente. ¿Pensáis vosotros que Dios será honrado y reconocerá a un pueblo que esté tan mezclado con el mundo que solamente se diferencie de ellos de nombre? Leed nuevamente Tito 2:13-15. Pronto se sabrá quiénes están de parte del Señor, y quiénes no se avergüenzan de Jesús. Los que carecen de valor moral para tomar conscientemente su posición frente a los incrédulos, para dejar las modas del mundo e imitar la vida abnegada de Cristo, se avergüenzan de él y no aman su ejemplo (Testimonios para la iglesia, t. 1, p. 259).</p>",
+         "date":"15 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>LOS ACONTECIMIENTOS FINALES DE LA TIERRA</p>",
+         "id":121,
+         "idDay":1,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El hecho de que Dios demande reverencia y adoración por sobre los dioses paganos se funda en que él es el Creador, y que todas las demás criaturas le deben a él su existencia. Así lo presenta la Biblia. Dice el profeta Jeremías: \"Jehová Dios es la verdad; él es Dios vivo y Rey eterno: ... los dioses que no hicieron los cielos ni la tierra, perezcan de la tierra y de debajo de estos cielos. El que hizo la tierra con su potencia, el que puso en orden el mundo con su saber, y extendió los cielos con su prudencia... Todo hombre se embrutece y le falta ciencia; avergüéncese de su vaciadizo todo fundidor; porque mentira es su obra de fundición, y no hay espíritu en ellos; vanidad son, obras de escarnios: en el tiempo de su visitación perecerán. No es como ellos la suerte de Jacob: porque él es el Hacedor de todo\". Jeremías 10:10-16.</p><p>El sábado, como recordatorio del poder creador de Dios, le señala a él como Hacedor de los cielos y de la tierra. Por lo tanto, es un testimonio perpetuo de su existencia, y un recuerdo de su grandeza, su sabiduría y su amor. Si el sábado se hubiera santificado siempre, jamás habría podido haber ateos ni idólatras (Historia de los patriarcas y profetas, pp. 348, 349).</p><p>[La] iglesia es el santuario para la congregación... Nada de lo que es sagrado, nada de lo que pertenece al culto de Dios, debe ser tratado con descuido e indiferencia. A fin de que los hombres puedan tributar mejor las alabanzas a Dios, su asociación debe ser tal que mantenga en su mente una distinción entre lo sagrado y lo común. Los que tienen ideas amplias, pensamientos y aspiraciones nobles, son los que sostienen entre sí relaciones que fortalecen todos los pensamientos de las cosas divinas. Felices son los que tienen un santuario, sea alto o humilde, en la ciudad o entre las escarpadas cuevas de la montaña, en la humilde choza o en el desierto. Si es lo mejor que pueden obtener para el Maestro, él santificará ese lugar con su presencia, y será santo para el Señor de los ejércitos (Testimonios para la iglesia, t. 5, p. 464).</p><p>Aquí se declara la misma verdad que Jesús había revelado a Nicodemo cuando dijo: \"A menos que el hombre naciere de lo alto, no puede ver el reino de Dios\". Juan 3:3... La religión que proviene de Dios es la única que conducirá a Dios. A fin de servir [a Dios] debidamente, debemos nacer del Espíritu divino. Esto purificará el corazón y renovará la mente, dándonos una nueva capacidad para conocer y amar a Dios. Nos inspirará una obediencia voluntaria a todos sus requerimientos. Tal es el verdadero culto. Es el fruto de la obra del Espíritu Santo. Por el Espíritu es formulada toda oración sincera, y una oración tal es aceptable para Dios. Siempre que un alma anhela a Dios, se manifiesta la obra del Espíritu, y Dios se revelará a esa alma. Él busca adoradores tales. Espera para recibirlos y hacerlos sus hijos e hijas (El Deseado de todas las gentes, pp. 159, 160).</p>",
-          "date": "17 de marzo",
-          "day": "-",
-          "dayTitle": "<p>LEVANTA LAS MANOS EN EL SANTUARIO</p>",
-          "id": 122,
-          "idDay": 2,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>El alma que aprecia el amor de Cristo es colmada de libertad, luz y gozo. En un alma así no hay pensamientos divididos. El ser entero anhela a Dios. No va tras los hombres para conocer su deber sino a Cristo, la fuente de toda sabiduría. Busca la Palabra de Dios para encontrar las normas que debe alcanzar.</p><p>¿Podremos encontrar alguna vez algún guía más seguro que Jesús? La verdadera religión consiste en estar bajo la conducción del Santo en pensamiento, palabra y obra. Él, que es el camino, la verdad y la vida, toma al buscador humilde, ferviente, completamente entregado, y le dice: \"Sígueme\". Lo conduce por el estrecho sendero hacia la santidad y el cielo. Cristo abrió este sendero para nosotros a gran costo para sí mismo, y no somos abandonados en nuestros caminos oscuros para que tropecemos. Jesús está a nuestra diestra, proclamando: Yo soy el camino; y todos los que decidan seguir al Señor serán guiados en el sendero real preparado para que los rescatados del Señor caminen por él (Reflejemos a Jesús, 10 de abril, p. 106).</p><p>El salmista dice: \"La exposición de tus palabras alumbra; hace entender a los simples\". Salmo 119:130\" …</p><p>La Biblia es la historia más instructiva y completa que jamás se haya dado al mundo. Sus páginas sagradas contienen el único relato auténtico de la creación. Aquí contemplamos el poder que \"extendió los cielos y echó los cimientos de la tierra\". Aquí tenemos una historia verídica de la raza humana, que no está manchada por el prejuicio o el orgullo humanos.</p><p>En la palabra de Dios encontramos materia para el pensamiento más profundo; sus verdades suscitan la aspiración más elevada. Aquí comulgamos con los patriarcas y los profetas, y escuchamos la voz del Eterno que habla con los hombres. Aquí contemplamos lo que los ángeles contemplan con asombro: al Hijo de Dios humillándose para convertirse en nuestro Sustituto y Fiador, para enfrentarse sin ayuda a los poderes de las tinieblas y obtener la victoria en nuestro favor (Fundamentals of Christian Education, pp. 84, 85).</p><p>No es suficiente que creamos que Jesús no es un impostor, y que la religión de la Biblia no consiste en fábulas arteramente compuestas. Podemos creer que el nombre de Jesús es el único nombre debajo del cielo por el cual el hombre puede ser salvo, y sin embargo, no hacer de él, por la fe, nuestro Salvador personal. No es suficiente creer la teoría de la verdad. No es suficiente profesar fe en Cristo y tener nuestros nombres registrados en el libro de la iglesia. \"El que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado\". \"Y en esto sabemos que nosotros le hemos conocido, si guardamos sus mandamientos\". 1 Juan 3:24; 1 Juan 2:3. Esta es la verdadera evidencia de la conversión. No importa cuál sea nuestra profesión de fe, no nos vale de nada a menos que Cristo se revele en obras de justicia (Palabras de vida del gran Maestro, p. 254).</p>",
+         "date":"16 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>LEALTAD A DIOS Y A SU PALABRA</p>",
+         "id":122,
+         "idDay":2,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>El Señor desea que mencionemos su bondad y hablemos de su poder. Se le honra mediante la expresión de alabanza y agradecimiento. El dice: \"El que sacrifica alabanza me honrará\" Salmo 50:23. Cuando los hijos de Israel viajaban por el desierto, alababan a Dios con himnos sagrados. Los mandamientos y las promesas de Dios fueron provistos de música y a lo largo de todo el sendero fueron cantados por los peregrinos. Y en Canaán, al participar de las fiestas sagradas, las maravillosas obras de Dios habían de ser repasadas, y se había de ofrecer el agradecimiento debido a su nombre. Dios deseaba que toda la vida de su pueblo fuera una vida de alabanza. En esa forma los caminos de Dios habían de ser conocidos \"en la tierra\", y su salud \"en todas las gentes\" Salmo 67:2 (Palabras de vida del gran Maestro, p. 240).</p><p>Al ser perdonado el pecador de su transgresión por los méritos de Cristo, al ser revestido de la justicia de Cristo por la fe en él, declara con el salmista: \"¡Cuán dulces son a mi paladar tus palabras! sí, más dulces que la miel a mi boca\". \"Más codiciables son que el oro, sí, que mucho oro fino; más dulces también que la miel y el panal\". Esto es conversión. Cuando el Espíritu de Dios controla la mente y el corazón, convierte los corazones de los padres a los hijos, y los desobedientes a la sabiduría de los justos. La ley de Jehová será considerada entonces como un trasunto del carácter divino, y un cántico nuevo brota del corazón que ha sido tocado por la gracia divina; porque se da cuenta de que la promesa de Dios se ha cumplido en su experiencia, que su transgresión ha sido perdonada, su pecado cubierto. Ha ejercido el arrepentimiento hacia Dios por la violación de su ley, y la fe hacia nuestro Señor Jesucristo que ha muerto para su justificación (The Review and Herald, 21 de junio, 1892, párrafo 6).</p><p>Hay un día que pronto ha de amanecer sobre nosotros, cuando los misterios de Dios serán comprendidos y todos sus caminos vindicados; cuando la justicia, la misericordia y el amor serán los atributos de su trono. Cuando la guerra terrenal haya terminado y los santos estén todos reunidos en el hogar, nuestro primer tema será el cántico de Moisés, siervo de Dios. El segundo tema será el cántico del Cordero, el cántico de la gracia y la redención. Este canto será más potente, y se entonará con acentos más elevados y sublimes que resonarán por los atrios celestiales... Este es el tema, este es el canto —Cristo el todo y en todo—, en himnos de alabanza que resuenan a través del cielo entonados por millares y millones de redimidos. Todos unen sus voces en este cántico de Moisés y del Cordero. Es un cántico nuevo, porque nunca antes se ha entonado en el cielo (Testimonios para los ministros, p. 433).</p>",
-          "date": "18 de marzo",
-          "day": "-",
-          "dayTitle": "<p>CANTA AL SEÑOR UN CÁNTICO NUEVO</p>",
-          "id": 123,
-          "idDay": 3,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Aquí no se presenta el sábado como una institución nueva, sino como establecido en el tiempo de la creación del mundo. Hay que recordar y observar el sábado como monumento de la obra del Creador. Al señalar a Dios como el Hacedor de los cielos y de la tierra, el sábado distingue al verdadero Dios de todos los falsos dioses. Todos los que guardan el séptimo día demuestran al hacerlo que son adoradores de Jehová. Así el sábado será la señal de lealtad del hombre hacia Dios mientras haya en la tierra quien le sirva.</p><p>El cuarto mandamiento es, entre todos los diez, el único que contiene tanto el nombre como el título del Legislador. Es el único que establece por autoridad de quién se dio la ley. Así, contiene el sello de Dios, puesto en su ley como prueba de su autenticidad y de su vigencia (Patriarcas y profetas, p. 315).</p><p>El ángel con el tintero de escribano debe colocar una señal en la frente de todos los que están separados del pecado y de los pecadores…</p><p>Tan pronto como el pueblo de Dios sea sellado en su frente —no se trata de un sello o marea que se pueda ver, sino un afianzamiento en la verdad, tanto intelectual como espiritualmente, de modo que los sellados son inconmovibles—, tan pronto como sea sellado y preparado para el zarandeo, este vendrá. Ciertamente ya ha comenzado. Los juicios de Dios están viniendo (Comentarios de Elena G. de White en Comentario bíblico adventista del séptimo día, t. 4, p. 1183).</p><p>Os ruego que obréis con el sincero deseo de glorificar a Dios. Depended de su poder; sea su gracia vuestra fuerza. Por el estudio de las Escrituras y la oración ferviente, tratad de obtener un claro concepto de vuestro deber y luego cumplidlo fielmente. Es esencial que cultivéis, la fidelidad en las cosas pequeñas, y al hacerlo adquiriréis costumbres de integridad en las responsabilidades mayores. Los pequeños incidentes de la vida diaria pasan con frecuencia sin que los notemos; pero son estas cosas las que forman el carácter. Cada acontecimiento de la vida es grande para bien o para mal. La mente necesita ser educada por las pruebas diarias, a fin de adquirir fuerza para resistir en cualquier situación difícil. En los días de prueba y peligro, necesitaréis ser fortalecidos para permanecer firmes de parte de lo recto, independientes de toda influencia opositora.</p><p>Dios quiere hacer mucho por vosotros, basta con que sintáis vuestra necesidad de él. Jesús os ama. Tratad siempre de andar en la luz de la sabiduría de Dios. Y en todos los variados escenarios de la vida, no descanséis hasta saber que vuestra voluntad está en armonía con la voluntad de vuestro Creador. Por la fe en él podéis obtener fuerza para resistir a toda tentación de Satanás, y así crecer en fuerza moral con cada prueba que Dios os envíe (Testimonios para la iglesia, t. 4, p. 554).</p>",
+         "date":"17 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>SELLADOS PARA EL CIELO</p>",
+         "id":123,
+         "idDay":3,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Siempre amable, cortés, siempre tomando partido por los oprimidos, ya fueran judíos o gentiles, Cristo fue amado por todos. Mediante su vida y carácter perfectos, respondió a la pregunta formulada en el Salmo 15: \"Jehová, ¿quién habitará en tu tabernáculo? ¿Quién habitará en tu monte santo? El que anda en integridad y hace justicia, y habla verdad en su corazón\" (vers. 1, 2). En su niñez y juventud su conducta fue tal que, cuando se dedicó a la obra de Maestro, podía decir a sus discípulos: \"Si guardareis mis mandamientos, permaneceréis en mi amor; así como yo he guardado los mandamientos de mi Padre, y permanezco en su amor\". Juan 15:10.</p><p>A medida que Cristo crecía, la obra comenzada en su niñez continuó, y siguió aumentando en sabiduría y en favor con Dios y con los hombres. No se puso de parte de su propia familia simplemente porque estuvieran emparentados con él por lazos naturales; no reivindicaría su caso en un solo caso en que hubieran sido culpables de injusticia o mal-dad; pero siempre reivindicó lo que sabía que era verdad (Fundamentals of Christian Education, p. 402).</p><p>¿Qué significa ser cristiano? Es ser semejante a Cristo; consiste en realizar las obras de Cristo. Algunos fallan en un punto, otros fallan en otro. Algunos son impacientes por naturaleza. Satanás comprende sus debilidades y se las arregla para vencerlos vez tras vez. Pero que nadie se desanime por esto. Cada vez que aparezcan pequeñas molestias y pruebas, pídanle a Dios en oración silenciosa que les conceda fuerzas y gracia para soportarlas pacientemente. Hay poder en el silencio; no pronuncien una sola palabra mientras no hayan elevado sus peticiones al Dios del cielo. Si así lo hicieran siempre, pronto dominarían su temperamento impaciente y tendrían aquí un pequeño cielo como anticipo del más allá.</p><p>Dios desea que su pueblo tenga manos limpias y corazones purificados. ¿Será posible que esto los haga infelices? ¿Acarrearía infelicidad a sus familias el hecho de que fueran bondadosos y pacientes, corteses y tolerantes? Lejos de ello. La bondad que manifiesten hacia sus familias se reflejará sobre ellos mismos. Esta es la clase de obra que debería llevarse a cabo en el hogar. Si los miembros de una familia no están preparados para vivir en paz aquí, tampoco están preparados para formar parte de la familia que se reunirá alrededor del gran trono blanco. Invariablemente el pecado produce oscuridad y esclavitud; pero el bien hacer produce paz y santo regocijo (Exaltad a Jesús, p. 335).</p><p>&nbsp;Amados hermanos y hermanas, dejemos que los mandamientos de Dios y el testimonio de Jesús estén siempre presentes en nuestros pensamientos y que ahuyenten las preocupaciones mundanales. Sean ellos nuestra meditación cuando nos acostamos y cuando nos levantamos. Vivamos y actuemos teniendo plenamente en cuenta la venida del Hijo del hombre. El tiempo del sellamiento es muy corto, y pronto terminará. Ahora, mientras los cuatro ángeles están reteniendo los cuatro vientos, es el momento en que debemos asegurar nuestra vocación y elección (Primeros escritos, p. 58).</p>",
-          "date": "19 de marzo",
-          "day": "-",
-          "dayTitle": "<p>SEÑOR, ¿QUIÉN HABITARÁ EN TU SANTUARIO?</p>",
-          "id": 124,
-          "idDay": 4,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>En los consejos de la sinagoga de Satanás se determinó borrar el símbolo de lealtad a Dios en el mundo. El Anticristo, el hombre de pecado, se exaltó a sí mismo como supremo en la tierra, y por medio de él Satanás ha obrado magistralmente para crear la rebelión contra la ley de Dios y contra el memorial de sus obras creadas. ¿No es esto pecado e iniquidad? ¿Qué mayor desprecio podría hacerse al Señor Dios, Creador de los cielos y de la tierra, que el que se le hace al ignorar el sábado, que él instituyó, santificó y bendijo, para que fuera siempre un monumento conmemorativo de su poder como Creador? ¿Cómo se atreven los hombres a cambiar y profanar el día que Dios ha santificado? ¿Cómo se atreve el mundo cristiano a aceptar el sábado espurio, hijo del papado? El mundo cristiano ha alimentado y protegido el sábado espurio, como si tuviera un origen divino, cuando el hecho es que se originó con el padre de la mentira, y fue introducido en el mundo por su agente humano, el hombre de pecado. El falso sábado ha sido sostenido por medio de una agencia sobrehumana para que Dios sea deshonrado. Es una señal de la supremacía de Satanás en la tierra, porque los hombres están adorando al dios de este mundo (The Signs of the Times, 12 de marzo, 1894, párrafo 3).</p><p>Cuando llegue ese tiempo de angustia, cada caso se habrá decidido, ya no habrá tiempo de gracia ni misericordia para el impenitente. El sello del Dios vivo estará sobre su pueblo. Este pequeño remanente, incapaz de defenderse en el mortífero conflicto con las potestades de la tierra mandadas por la hueste del dragón, hace de Dios su defensa. 1-la sido promulgado por la más alta autoridad terrestre el decreto de que adoren a la bestia y reciban su marca bajo pena de persecución y muerte…</p><p>No se adquieren en un momento el valor, la fortaleza, la fe y la confianza implícita en el poder de Dios para salvarnos. Estas gracias celestiales se adquieren por la experiencia de años. Por una vida de santo esfuerzo y de firme adhesión a lo recto, los hijos de Dios estaban sellando su destino. Asediados de innumerables tentaciones, sabían que debían resistir firmemente o quedar vencidos. Sentían que tenían una gran obra que hacer, que a cualquier hora podían ser llamados a deponer su armadura; y que si llegaran al fin de su vida sin haber hecho su obra, ello representaría una pérdida eterna. Aceptaron ávidamente la luz del cielo, como la aceptaron de los labios de Jesús los primeros discípulos. Cuando estos cristianos primitivos eran desterrados a las montañas y los desiertos, cuando en las mazmorras se los dejaba morir de hambre, frío y tortura, cuando el martirio parecía la única manera de escapar a su angustia, se regocijaban de que eran tenidos por dignos de sufrir para Cristo, quien había sido crucificado en su favor. Su ejemplo será un consuelo y estímulo para el pueblo de Dios que sufrirá un tiempo de angustia como nunca lo hubo (Testimonios para la iglesia, t. 5, pp. 197, 198).</p>",
+         "date":"18 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>¿A QUIÉN ADORAMOS?</p>",
+         "id":124,
+         "idDay":4,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Cristo ordenó a sus discípulos que empezasen en Jerusalén la obra que él había dejado en sus manos. Jerusalén había sido escenario de su asombrosa condescendencia hacia la familia humana. Allí había sufrido, había sido rechazado y condenado. La tierra de Judea era el lugar donde había nacido. Allí, vestido con el atavío de la humanidad, había andado con los hombres, y pocos habían discernido cuánto se había acercado el cielo a la tierra cuando Jesús estuvo entre ellos. En Jerusalén debía empezar la obra de los discípulos...</p><p>Pero la obra no debía detenerse allí. Había de extenderse hasta los más remotos confines de la tierra. Cristo dijo a sus discípulos: Habéis sido testigos de mi vida de abnegación en favor del mundo. Habéis presenciado mis labores para Israel. Aunque no han querido venir a mí para obtener la vida, aunque los sacerdotes y príncipes han hecho de mí lo que quisieron, aunque me rechazaron según lo predecían las Escrituras, deben tener todavía una oportunidad de aceptar al Hijo de Dios. Habéis visto todo lo que me ha sucedido, habéis visto que a todos los que vienen a mí confesando sus pecados yo los recibo libremente. De ninguna manera echaré al que venga a mí. Todos los que quieran pueden ser reconciliados con Dios y recibir la vida eterna. A vosotros, mis discípulos, confío este mensaje de misericordia. Debe proclamarse primero a Israel y luego a todas las naciones, lenguas y pueblos. Debe ser proclamado a judíos y gentiles. Todos los que crean han de ser reunidos en una iglesia (El Deseado de todas las gentes, pp. 759, 760).</p><p>\"La importancia del sábado, como institución conmemorativa de la creación, consiste en que recuerda siempre la verdadera razón por la cual se debe adorar a Dios\", porque él es el Creador, y nosotros somos sus criaturas. \"Por consiguiente, el sábado forma parte del fundamento mismo del culto divino, pues enseña esta gran verdad del modo más contundente, como no lo hace ninguna otra institución. El verdadero motivo del culto divino, no tan solo del que se tributa en el séptimo día, sino de toda adoración, reside en la distinción existente entre el Creador y sus criaturas. Este hecho capital no perderá nunca su importancia ni debe caer nunca en el olvido\" (J. N. Andrews, History of the Sabbath, cap. 27). Por eso, es decir, para que esta verdad no se borrara nunca de la mente de los hombres, instituyó Dios el sábado en el Edén y mientras el ser él nuestro Creador siga siendo motivo para que le adoremos, el sábado seguirá siendo señal conmemorativa de ello. Si el sábado se hubiese observado universalmente, los pensamientos e inclinaciones de los hombres se habrían dirigido hacia el Creador como objeto de reverencia y adoración, y nunca habría habido un idólatra, un ateo, o un incrédulo. La observancia del sábado es señal de lealtad al verdadero Dios, \"que hizo el cielo y la tierra, y el mar y las fuentes de agua\" (El conflicto de los siglos, p. 433).</p>",
-          "date": "20 de marzo",
-          "day": "-",
-          "dayTitle": "<p>DECLARA SU GLORIA ENTRE LAS NACIONES</p>",
-          "id": 125,
-          "idDay": 5,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Justamente antes de su ascensión les dio la comisión: \"Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo\". Mateo 28:19, 20.</p><p>De este modo, se otorgó a los discípulos una confianza preciosísima. Debían ser los ejecutores del testamento en el que Cristo había legado al mundo el tesoro de la vida eterna. Se dieron cuenta de la responsabilidad de su trabajo. Sabían que tenían en sus manos el pan de vida para un mundo hambriento, y fueron por todas partes predicando la Palabra. El amor de Cristo los apremiaba y no podían dejar de esparcir el Pan de vida a todos los necesitados (The Review and Herald, 7 de enero, 1902).</p><p>Los apóstoles hablaron impulsados por el Espíritu Santo; y sus palabras no podían ser contradichas porque las confirmaban extraordinarios milagros llevados a cabo gracias al derramamiento del Espíritu de Dios. Los discípulos mismos se asombraron de los resultados de esta manifestación, y de la rapidez y la abundancia de la cosecha de almas…</p><p>Los argumentos de los apóstoles por sí solos, aunque claros y convincentes, no habrían sido capaces de eliminar los prejuicios de los judíos que se habían opuesto a muchísima evidencia. Pero el Espíritu Santo introdujo esos argumentos con poder divino en sus corazones (La historia de la redención, pp. 255, 256).</p><p>Debiéramos orar tan fervientemente por el descenso del Espíritu Santo como los discípulos oraron en el Día de Pentecostés. Si ellos lo necesitaban en aquel entonces, nosotros lo necesitamos más hoy en día.</p><p>El descenso del Espíritu Santo sobre la iglesia es esperado como si se tratara de un asunto del futuro; pero es el privilegio de la iglesia tenerlo ahora mismo. Buscadlo, orad por él, creed en él. Debernos tenerlo, y el cielo está esperando concederlo.</p><p>La medida del Espíritu Santo que recibamos estará en proporción a la medida de nuestro deseo de recibirlo y de la fe que ejerzamos para ello, y del uso que hagamos de la luz y el conocimiento que se nos dé.&nbsp;</p><p>No estamos suficientemente dispuestos a importunar al Señor con nuestras peticiones y pedirle el don del Espíritu Santo. El Señor quiere que lo importunemos con este asunto. Quiere que insistamos con nuestras peticiones ante el trono (Eventos de los últimos días, pp. 192, 193).</p><p>No necesitamos preocuparnos por la llegada de la lluvia tardía. Todo lo que debemos hacer es mantener limpio el recipiente y ponerlo hacia arriba, listo para recibir la lluvia celestial, y perseverar en oración: \"Haz que la lluvia tardía llene mi vasija. Que la luz del ángel glorioso que se une con el tercer ángel brille en mí; dame una parte en la obra; déjame proclamar el mensaje; permíteme ser el colaborador de Jesucristo\". Así, buscando a Dios, permítanme decirles que él está permanentemente preparándolos, dándoles su gracia (Alza tus ojos, 26 de septiembre, p. 281).</p>",
+         "date":"19 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>LAS LLUVIAS TEMPRANA Y TARDÍA</p>",
+         "id":125,
+         "idDay":5,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Los fariseos procuraban distinguirse por su ceremonial escrupuloso y la ostentación de su culto y caridad. Mostraban su celo por la religión haciendo de ella un tema de discusión. Las disputas entre las sectas opuestas eran vivas y largas, y era frecuente oír en las calles voces de controversia airada entre sabios doctores de la ley.</p><p>La vida de Jesús ofrecía un marcado contraste con todo esto. En ella no había disputas ruidosas, ni cultos ostensivos, ni acto alguno realizado para obtener aplausos. Cristo se ocultaba en Dios, y Dios era revelado en el carácter de su Hijo. A esta revelación deseaba Jesús que fuese atraída la atención de la gente, y tributado su homenaje.</p><p>El Sol de justicia no apareció sobre el mundo en su esplendor, para deslumbrar los sentidos con su gloria. Escrito está de Cristo: \"Corno el alba está aparejada su salida\". aseas 6:3. Tranquila y suavemente la luz del día amanece sobre la tierra, despejando las sombras de las tinieblas y despertando el mundo a la vida. Así salió el Sol de justicia \"trayendo salud eterna en sus alas\". Malaquías 4:2 (El Deseado de todas las gentes, p. 226).</p><p>Dios somete a prueba a su pueblo en este mundo. Este es el lugar en el que debe prepararse para comparecer ante su presencia. Aquí en este mundo, en estos últimos días, la gente mostrará cuál es el poder que actúa en sus corazones y controla sus acciones. Si es el poder de la verdad divina, lo conducirá a realizar buenas obras. Elevará al que lo recibe, y le hará tener un corazón noble y ser generoso, como su divino Señor. Pero si los ángeles malignos controlan el corazón, eso se verá en diferentes formas. El fruto será egoísmo, codicia, orgullo y malas pasiones.</p><p>El corazón es engañoso sobre todas las cosas, y muy perverso. Los religiosos profesos no están dispuestos a examinarse minuciosamente para ver si están dentro de la fe, y es cosa terrible ver que muchos se apoyan en una esperanza falsa. Algunos se apoyan en una antigua experiencia que tuvieron hace años, pero cuando llegan a este tiempo que exige que se efectúe un examen de conciencia, cuando todos debieran tener una experiencia espiritual diaria, no tienen nada que referir. Al parecer creen que solamente por el hecho de profesar una fe serán salvos. Cuando abandonen los pecados que Dios detesta, Jesús vendrá y cenará con ellos y ellos con él. Entonces obtendrán poder divino de Jesús, y crecerán en él, y podrán decir con santo triunfo: \"Gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo\". 1 Corintios 15:57. Le agradaría más al Señor si quienes profesan tibiamente la religión nunca hubieran mencionado su nombre. Son un lastre continuo para los que quieren ser fieles seguidores de Jesús. Son piedra de tropiezo para los incrédulos, y los ángeles malignos se regocijan por su conducta, y ellos se burlan de los ángeles de Dios mediante su conducta torcida. Tales personas son una maldición para la causa en este país y en el extranjero. Se aproximan a Dios solamente de labios, mientras su corazón se encuentra lejos de él. agradaría más al Señor si los tibios profesores de religión nunca hubieran mencionado su nombre. Son un lastre continuo para los que quieren ser fieles seguidores de Jesús. Son piedra de tropiezo para los incrédulos, y los ángeles malignos se regocijan por su conducta, y ellos se burlan de los ángeles de Dios mediante su conducta torcida. Tales personas son una maldición para la causa en este país y en el extranjero. Se aproximan a Dios solamente de labios, mientras su corazón se encuentra lejos de él (Testimonios para la iglesia, t .1, pp. 173, 174).</p>",
-          "date": "21 de marzo",
-          "day": "-",
-          "dayTitle": "<p>CUANDO DIOS NO SE DELEITA EN LOS SACRIFICIOS</p>",
-          "id": 126,
-          "idDay": 6,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Cristo les dice: \"¿Por qué estáis aquí todo el día ociosos?\" y añade: \"Id también vosotros a mi viña\". Mateo 20:6, 7. ¿Por qué muchos más no responden al llamado? ¿Es porque se consideran excusados por el hecho de no predicar desde el púlpito? Ojalá entiendan que hay una gran obra que debe hacerse fuera del púlpito, por miles de consagrados miembros laicos.</p><p>Largo tiempo ha esperado Dios que el espíritu de servicio se posesione de la iglesia entera, de suerte que cada miembro trabaje por él según su capacidad. Cuando los miembros de la iglesia de Dios efectúen su labor señalada en los campos menesterosos de su país y del extranjero, en cumplimiento de la comisión evangélica, pronto será amonestado el mundo entero, y el Señor Jesús volverá a la tierra con poder y grande gloria. \"Y será predicado este evangelio del reino en todo el mundo, por testimonio a todos los gentiles; y entonces vendrá el fin\". Mateo 24:14 (Los hechos de los apóstoles, p. 91).</p><p>Como los rayos del sol penetran hasta los más remotos rincones del globo, es el plan de Dios que la luz del evangelio se extienda a toda alma sobre la tierra... En este tiempo en que el enemigo obra como nunca antes para acaparar la mente de hombres y mujeres debiéramos trabajar con incesante actividad. Hemos de proclamar diligente y desinteresadamente el último mensaje de misericordia en las ciudades, en los caminos y atajos. Se ha de llegar a todas las clases. Mientras trabajemos nos encontraremos con diferentes nacionalidades. Ninguna ha de quedar sin ser amonestada. El Señor Jesús fue el don de Dios para todo el mundo, no solo para las clases más elevadas, ni para una nacionalidad con exclusión de otras. Su gracia salvadora rodea el mundo. Todo el que quiera puede beber del agua de vida. Un mundo aguarda para oír el mensaje de la verdad presente (En los lugares celestiales, 29 de noviembre, p. 342).</p><p>A medida que el mensaje del tercer ángel aumente en magnitud hasta transformarse en el fuerte clamor, gran poder y gloria acompañarán a su proclamación. Los rostros del pueblo de Dios brillarán con la luz del cielo.</p><p>El Señor capacitará a hombres y mujeres —sí, y también a niños, como lo hizo con Samuel— para que realicen su obra, haciéndolos mensajeros suyos. Aquel que nunca duerme ni se fatiga vela sobre cada uno de sus obreros, eligiendo su esfera de labor. Todo el cielo observa la lucha que les toca pelear a los siervos de Dios, aunque sea bajo circunstancias aparentemente descorazonadoras. Se realizan nuevas conquistas y se ganan nuevos honores a medida que los siervos de Dios avanzan para pelear la buena batalla de la fe, unidos bajo el estandarte de su Redentor. Todos los ángeles celestiales se hallan al servicio del pueblo de Dios, humilde y creyente; y mientras el ejército de los obreros del Señor eleva aquí abajo sus cánticos de alabanza, el coro celestial se une a ellos en acciones de gracias, rindiendo su alabanza a Dios y a su Hijo (Testimonios para la iglesia, t. 7, pp. 19, 20).</p>",
+         "date":"20 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>EL FUERTE CLAMOR</p>",
+         "id":126,
+         "idDay":6,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        },
-        {
-          "content": "<p>Hijos e hijas de Dios, 19 de febrero, \"No tendremos dioses ajenos\", p. 58;</p><p>Nuestra elevada vocación, 1 1 de marzo, \"El privilegio de la seguridad\", p. 78.</p>",
-          "date": "22 de marzo",
-          "day": "-",
-          "dayTitle": "<p>PARA ESTUDIAR Y MEDITAR</p>",
-          "id": 127,
-          "idDay": 7,
-          "idLesson": 12,
-          "quarterCode": "1T2024",
-          "verses": [
+         ]
+      },
+      {
+         "content":"<p>Hijos e hijas de Dios, 28 de diciembre, \"Presentados ante el Padre\", p. 371; Maranata: el Señor viene, 30 de junio, \"Muchas voces confusas\", p. 194.</p>",
+         "date":"21 DE JUNIO",
+         "day":"-",
+         "dayTitle":"<p>PARA ESTUDIAR Y MEDITAR</p>",
+         "id":127,
+         "idDay":7,
+         "idLesson":12,
+         "quarterCode":"2T2024",
+         "verses":[
             {
-              "verse": "",
-              "verseText": ""
+               "verse":"",
+               "verseText":""
             }
-          ]
-        }
-      ],
-      "title": "<p>ADORACIÓN SIN FIN</p>",
-      "verse": "<p>“Al Señor cantaré en toda mi vida, a mi Dios salmearé mientras viva” (Sal. 104:33).</p>",
-      "versionCode": 100,
-      "weekDate": "16-22 de marzo"
-    }
+         ]
+      }
+   ],
+   "title":"<p>LOS ACONTECIMIENTOS FINALES DE LA TIERRA</p>",
+   "verse":"<p>\"Compra la verdad y no la vendas; adquiere sabiduría, disciplina e inteligencia\" (Prov. 23:23)</p>",
+   "versionCode":60,
+   "weekDate":"15-21 de junio"
+}
